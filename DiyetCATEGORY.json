@@ -1,38 +1,38 @@
 [
   {
     "id": 1,
-    "text": "Oturma Odası"
+    "category_adi": "Oturma Odası"
   },
   {
     "id": 2,
-    "text": "Yatak Odası"
+    "category_adi": "Yatak Odası"
   },
   {
     "id": 11,
-    "text": "denson2"
+    "category_adi": "denson2"
   },
   {
     "id": 9,
-    "text": "nnnnnn"
+    "category_adi": "nnnnnn"
   },
   {
     "id": 6,
-    "text": "fdfdfdf"
+    "category_adi": "fdfdfdf"
   },
   {
     "id": 8,
-    "text": "hhhhhhhhssss"
+    "category_adi": "hhhhhhhhssss"
   },
   {
     "id": 10,
-    "text": "enson"
+    "category_adi": "enson"
   },
   {
     "id": 12,
-    "text": "öökçlçlüüüppk"
+    "category_adi": "öökçlçlüüüppk"
   },
   {
     "id": 14,
-    "text": "lçlçlçlöööö"
+    "category_adi": "lçlçlçlöööö"
   }
 ]
