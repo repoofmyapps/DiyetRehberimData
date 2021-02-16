@@ -2,47 +2,47 @@
   "DiyetRehberim":[
     {
       "id": 1,
-      "kategory_adi": "Oturma Odası",
+      "kategori_adi": "Oturma Odası",
       "diyet_tipi":"diyet"
     },
     {
       "id": 2,
-      "kategory_adi": "Yatak Odası",
+      "kategori_adi": "Yatak Odası",
       "diyet_tipi":"tarif"
     },
     {
       "id": 11,
-      "kategory_adi": "denson2",
+      "kategori_adi": "denson2",
       "diyet_tipi":"diyet"
     },
     {
       "id": 9,
-      "kategory_adi": "nnnnnn",
+      "kategori_adi": "nnnnnn",
       "diyet_tipi":"diyet"
     },
     {
       "id": 6,
-      "kategory_adi": "fdfdfdf",
+      "kategori_adi": "fdfdfdf",
       "diyet_tipi":"diyet"
     },
     {
       "id": 8,
-      "kategory_adi": "hhhhhhhhssss",
+      "kategori_adi": "hhhhhhhhssss",
       "diyet_tipi":"diyet"
     },
     {
       "id": 10,
-      "kategory_adi": "enson",
+      "kategori_adi": "enson",
       "diyet_tipi":"tarif"
     },
     {
       "id": 12,
-      "kategory_adi": "öökçlçlüüüppk",
+      "kategori_adi": "öökçlçlüüüppk",
       "diyet_tipi":"tarif"
     },
     {
       "id": 14,
-      "kategory_adi": "lçlçlçlöööö",
+      "kategori_adi": "lçlçlçlöööö",
       "diyet_tipi":"tarif"
     }
   ]
