@@ -1,26 +1,5 @@
 {
-	"DiyetRehberim":[
-		{
-			"diyet_id": "99997",
-			"diyet_adi": "kategoriler",
-			"diyet_resim": "kategoriler",
-			"diyet_url": "kategoriler",
-			"diyet_tipi": "diyet",
-			"kategori_adi": "kategoriler",
-			"kategori_adi_ek": "kategoriler"
-		},
-
-
-		{
-			"diyet_id": "99996",
-			"diyet_adi": "kategoriler",
-			"diyet_resim": "kategoriler",
-			"diyet_url": "kategoriler",
-			"diyet_tipi": "tarif",
-			"kategori_adi": "kategoriler",
-			"kategori_adi_ek": "kategoriler"
-		},
-		
+	"DiyetRehberim":[	
 		{
 			"diyet_id": "99999",
 			"diyet_adi": "proitem",
