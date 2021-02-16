@@ -1,38 +1,40 @@
-[
-  {
-    "id": 1,
-    "category_adi": "Oturma Odası"
-  },
-  {
-    "id": 2,
-    "category_adi": "Yatak Odası"
-  },
-  {
-    "id": 11,
-    "category_adi": "denson2"
-  },
-  {
-    "id": 9,
-    "category_adi": "nnnnnn"
-  },
-  {
-    "id": 6,
-    "category_adi": "fdfdfdf"
-  },
-  {
-    "id": 8,
-    "category_adi": "hhhhhhhhssss"
-  },
-  {
-    "id": 10,
-    "category_adi": "enson"
-  },
-  {
-    "id": 12,
-    "category_adi": "öökçlçlüüüppk"
-  },
-  {
-    "id": 14,
-    "category_adi": "lçlçlçlöööö"
-  }
-]
+{
+  "DiyetRehberim":[
+    {
+      "id": 1,
+      "category_adi": "Oturma Odası"
+    },
+    {
+      "id": 2,
+      "category_adi": "Yatak Odası"
+    },
+    {
+      "id": 11,
+      "category_adi": "denson2"
+    },
+    {
+      "id": 9,
+      "category_adi": "nnnnnn"
+    },
+    {
+      "id": 6,
+      "category_adi": "fdfdfdf"
+    },
+    {
+      "id": 8,
+      "category_adi": "hhhhhhhhssss"
+    },
+    {
+      "id": 10,
+      "category_adi": "enson"
+    },
+    {
+      "id": 12,
+      "category_adi": "öökçlçlüüüppk"
+    },
+    {
+      "id": 14,
+      "category_adi": "lçlçlçlöööö"
+    }
+  ]
+}
