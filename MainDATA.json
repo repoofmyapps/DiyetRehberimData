@@ -59,18 +59,6 @@
 			"kategori_adi": "Faydalı İçerikler",
 			"kategori_adi_ek": "Faydalı İçerikler"
 		},
-		
-		{
-			"diyet_id": "99999",
-			"diyet_adi": "reklam",
-			"diyet_resim": "reklam",
-			"diyet_url": "reklam",
-			"diyet_tipi": "diyet",
-			"kategori_adi": "reklam",
-			"kategori_adi_ek": "reklam"
-
-		},    
-		
 		{
 			"diyet_id": "69",
 			"diyet_adi": "7 GÜNLÜK VEJETARYEN DİYET LİSTESİ",
@@ -143,19 +131,6 @@
 			"kategori_adi":"Faydalı İçerikler",
 			"kategori_adi_ek": "Faydalı İçerikler"
 		},
-		
-		
-		{
-			"diyet_id": "99999",
-			"diyet_adi": "reklam",
-			"diyet_resim": "reklam",
-			"diyet_url": "reklam",
-			"diyet_tipi": "diyet",
-			"kategori_adi": "reklam",
-			"kategori_adi_ek": "reklam"
-		},
-		
-		
 		{
 			"diyet_id": "61",
 			"diyet_adi": "7 GÜNLÜK DİYET LİSTESİ",
@@ -227,21 +202,7 @@
 			"diyet_tipi": "diyet",
 			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
 			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
-		},
-		
-		
-		{
-			"diyet_id": "99999",
-			"diyet_adi": "reklam",
-			"diyet_resim": "reklam",
-			"diyet_url": "reklam",
-			"diyet_tipi": "diyet",
-			"kategori_adi": "reklam",
-			"kategori_adi_ek": "reklam"
-		},
-		
-		
-		
+		},		
 		{
 			"diyet_id": "53",
 			"diyet_adi": "4 HAFTALIK SÜT DİYETİ",
@@ -305,17 +266,6 @@
 			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
 			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
 		},
-		
-		{
-			"diyet_id": "99999",
-			"diyet_adi": "reklam",
-			"diyet_resim": "reklam",
-			"diyet_url": "reklam",
-			"diyet_tipi": "diyet",
-			"kategori_adi": "reklam",
-			"kategori_adi_ek": "reklam"
-		},
-		
 		{
 			"diyet_id": "46",
 			"diyet_adi": "1 HAFTADA 5 KİLO VERDİREN ÖDEM ATTIRAN ŞOK DİYET",
@@ -388,21 +338,6 @@
 			"kategori_adi": "Ana Yemekler",
 			"kategori_adi_ek": "Ana Yemekler"
 		},
-		
-		
-		
-		{
-			"diyet_id": "99999",
-			"diyet_adi": "reklam",
-			"diyet_resim": "reklam",
-			"diyet_url": "reklam",
-			"diyet_tipi": "tarif",
-			"kategori_adi": "reklam",
-			"kategori_adi_ek": "reklam"
-		},
-		
-		
-		
 		{
 			"diyet_id": "38",
 			"diyet_adi": "ZAYIFLATAN BULGURLU PIRASA",
@@ -474,21 +409,7 @@
 			"diyet_tipi": "tarif",
 			"kategori_adi": "Detoks Tarifleri",
 			"kategori_adi_ek": "Diyet Tarifleri"
-		},
-		
-		
-		
-		{
-			"diyet_id": "99999",
-			"diyet_adi": "reklam",
-			"diyet_resim": "reklam",
-			"diyet_url": "reklam",
-			"diyet_tipi": "tarif",
-			"kategori_adi": "reklam",
-			"kategori_adi_ek": "reklam"
-		},  
-		
-		
+		},		
 		{
 			"diyet_id": "30",
 			"diyet_adi": "FIRINDA LEVREK",
@@ -561,17 +482,6 @@
 			"kategori_adi": "Salatalar",
 			"kategori_adi_ek": "Diyet Tarifleri"
 		},
-		
-		
-		{
-			"diyet_id": "99999",
-			"diyet_adi": "reklam",
-			"diyet_resim": "reklam",
-			"diyet_url": "reklam",
-			"diyet_tipi": "tarif",
-			"kategori_adi": "reklam",
-			"kategori_adi_ek": "reklam"
-		},  
 		{
 			"diyet_id": "22",
 			"diyet_adi": "DİYET DOSTU DONDURMA TARİFİ",
@@ -662,17 +572,6 @@
 			"kategori_adi": "Diyet Tarifleri",
 			"kategori_adi_ek": "Atıştırmalıklar"
 		},
-		
-		{
-			"diyet_id": "99999",
-			"diyet_adi": "reklam",
-			"diyet_resim": "reklam",
-			"diyet_url": "reklam",
-			"diyet_tipi": "tarif",
-			"kategori_adi": "reklam",
-			"kategori_adi_ek": "reklam"
-		},  
-		
 		{
 			"diyet_id": "10",
 			"diyet_adi": "SEMİZOTLU BULGUR KÖFTESİ TARİFİ",
