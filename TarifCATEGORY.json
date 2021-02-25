@@ -2,7 +2,7 @@
   "DiyetRehberim":[
     {
       "id": 1,
-      "kategori_adi": "Ana Yemek Tarifleri"
+      "kategori_adi": "Ana Yemekler"
     },
     {
       "id": 2,
@@ -10,11 +10,11 @@
     },
     {
       "id": 3,
-      "kategori_adi": "Çorba Tarifleri"
+      "kategori_adi": "Çorbalar"
     },
     {
       "id": 4,
-      "kategori_adi": "Salata Tarifleri"
+      "kategori_adi": "Salatalar"
     },
     {
       "id": 5,
@@ -26,7 +26,7 @@
     },
     {
       "id": 7,
-      "kategori_adi": "Tatlı Tarifleri"
+      "kategori_adi": "Tatlılar"
     },
     {
       "id": 8,
@@ -38,7 +38,7 @@
     },
     {
       "id": 10,
-      "kategori_adi": "Etli Yemek Tarifleri"
+      "kategori_adi": "Etli Yemekler"
     },
     {
       "id": 11,
@@ -46,23 +46,23 @@
     },
     {
       "id": 12,
-      "kategori_adi": "Sulu Yemek Tarifleri"
+      "kategori_adi": "Sulu Yemekler"
     },
     {
       "id": 13,
-      "kategori_adi": "Meze Tarifleri"
+      "kategori_adi": "Mezeler"
     },
     {
       "id": 14,
-      "kategori_adi": "Pratik Yemek Tarifleri"
+      "kategori_adi": "Pratik Yemekler"
     },
     {
       "id": 15,
-      "kategori_adi": "Vejetaryen Yemek Tarifleri"
+      "kategori_adi": "Vejetaryen Yemekleri"
     },
     {
       "id": 16,
-      "kategori_adi": "Yöresel Yemek Tarifleri"
+      "kategori_adi": "Yöresel Yemekler"
     }
   ]
 }
