@@ -20,7 +20,15 @@
 		},
 
 
-		
+		{
+			"diyet_id": "74",
+			"diyet_adi": "1 HAFTADA 5 KİLO ALDIRAN BESLENME PROGRAMI",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/kiloal8.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/kiloaldiran_diyet_listesi.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Aldıran Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Aldıran Diyet Listeleri"
+		},
 		
 		{
 			"diyet_id": "73",
