@@ -24,7 +24,7 @@
 
 		{
 			"diyet_id": "82",
-			"diyet_adi": "KIYMALI VE DOMATESLİ MAKARNA TARİFİ",
+			"diyet_adi": "Kıymalı Ve Domatesli Makarna Tarifi",
 			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna2.jpg",
 			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/kiymali_makarna.html",
 			"diyet_tipi": "tarif",
@@ -69,7 +69,7 @@
 		},
 		{
 			"diyet_id": "77",
-			"diyet_adi": "LOR PEYNİRİNİN FAYDALARI",
+			"diyet_adi": "Lor Peynirinin Faydaları",
 			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/lor3.jpg",
 			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/lorpeyniri.html",
 			"diyet_tipi": "diyet",
@@ -78,7 +78,7 @@
 		},
 		{
 			"diyet_id": "76",
-			"diyet_adi": "KİLO ALMA TAVSİYELERİ",
+			"diyet_adi": "Kilo Alma Tavsiyeleri",
 			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/kiloal_tavsiyeler.jpg",
 			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/kilo_alma_tavsiyeleri.html",
 			"diyet_tipi": "diyet",
