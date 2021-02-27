@@ -23,8 +23,15 @@
 
 
 		
-
-
+		{
+			"diyet_id": "81",
+			"diyet_adi": "UNSUZ ÇİKOLATALI KEK",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/unsuz2.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/unsuz_kek.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Tatlılar",
+			"kategori_adi_ek": "Atıştırmalıklar"
+		},
 		{
 			"diyet_id": "80",
 			"diyet_adi": "BAHARATLI PATATESLİ OMLET",
