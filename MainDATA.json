@@ -25,7 +25,15 @@
 		
 
 
-
+		{
+			"diyet_id": "80",
+			"diyet_adi": "BAHARATLI PATATESLİ OMLET",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/patatesliyum2.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/patatesli_yumurta.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Kahvaltılık Tarifler",
+			"kategori_adi_ek": "Atıştırmalıklar"
+		},
 		{
 			"diyet_id": "79",
 			"diyet_adi": "ETSİZ KOLAY ÇİĞ KÖFTE",
