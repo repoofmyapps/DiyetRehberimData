@@ -23,7 +23,15 @@
 
 		
 
-
+        {
+			"diyet_id": "75",
+			"diyet_adi": "DİLARA KOÇAK TAVSİYESİ İLE KİLO ALMA PROGRAMI",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/kiloal_yeni.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/dilara_kocak_kiloal.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Aldıran Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Aldıran Diyet Listeleri"
+		},
 		{
 			"diyet_id": "74",
 			"diyet_adi": "1 HAFTADA 5 KİLO ALDIRAN BESLENME PROGRAMI",
