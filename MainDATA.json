@@ -20,8 +20,15 @@
 		},
 
 
-
-
+		{
+			"diyet_id": "78",
+			"diyet_adi": "ARPACIK SOĞANLI KÖFTE",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/arpacik1.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/arpacik_soganli_kofte.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Ana Yemekler",
+			"kategori_adi_ek": "Etli Yemekler"
+		},
 		{
 			"diyet_id": "77",
 			"diyet_adi": "LOR PEYNİRİNİN FAYDALARI",
