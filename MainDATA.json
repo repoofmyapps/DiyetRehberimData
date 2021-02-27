@@ -22,7 +22,15 @@
 
 
 
-		
+		{
+			"diyet_id": "82",
+			"diyet_adi": "KIYMALI VE DOMATESLİ MAKARNA TARİFİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna2.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/kiymali_makarna.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Ana Yemekler",
+			"kategori_adi_ek": "Etli Yemekler"
+		},
 		{
 			"diyet_id": "81",
 			"diyet_adi": "UNSUZ ÇİKOLATALI KEK",
