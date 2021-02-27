@@ -21,8 +21,15 @@
 
 
 
-		
-
+		 {
+			"diyet_id": "76",
+			"diyet_adi": "DİLARA KOÇAK TAVSİYESİ İLE KİLO ALMA PROGRAMI",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/kiloal_tavsiyeler.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/kilo_alma_tavsiyeleri.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Aldıran Diyet Listeleri",
+			"kategori_adi_ek": "Faydalı İçerikler"
+		},
         {
 			"diyet_id": "75",
 			"diyet_adi": "DİLARA KOÇAK TAVSİYESİ İLE KİLO ALMA PROGRAMI",
