@@ -20,6 +20,21 @@
 		},
 
 
+
+
+		
+
+
+
+		{
+			"diyet_id": "79",
+			"diyet_adi": "ETSİZ KOLAY ÇİĞ KÖFTE",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/cigkofte2.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/etsiz_cig_kofte.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Atıştırmalıklar",
+			"kategori_adi_ek": "Yöresel Yemekler"
+		},
 		{
 			"diyet_id": "78",
 			"diyet_adi": "ARPACIK SOĞANLI KÖFTE",
