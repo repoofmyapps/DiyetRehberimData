@@ -23,7 +23,15 @@
 		
 
 
-
+		{
+			"diyet_id": "87",
+			"diyet_adi": "Ekşi Mayalı Köy Ekmeği",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/koyekmegi6.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/koy_ekmegi.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Hamur İşi Tarifleri",
+			"kategori_adi_ek": "Yöresel Yemekler"
+		},
 		{
 			"diyet_id": "86",
 			"diyet_adi": "İşkembe Çorbası",
