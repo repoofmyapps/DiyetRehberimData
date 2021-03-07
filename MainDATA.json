@@ -24,7 +24,15 @@
 
 
 
-
+		{
+			"diyet_id": "86",
+			"diyet_adi": "İşkembe Çorbası",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/iskembe1.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/iskembe_corbasi.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Çorbalar",
+			"kategori_adi_ek": "Yöresel Yemekler"
+		},
 		{
 			"diyet_id": "85",
 			"diyet_adi": "1 Haftada 3 Kilo Yağ Yakma Diyeti!",
