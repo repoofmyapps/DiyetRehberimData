@@ -28,7 +28,15 @@
 
 
 
-
+		{
+			"diyet_id": "84",
+			"diyet_adi": "Neden Yağdan Kilo Veremiyorum?",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/yagdan1.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/yagdan_kilo_verme.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Faydalı İçerikler",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},
 		{
 			"diyet_id": "83",
 			"diyet_adi": "Su Diyeti Nedir? Nasıl Uygulanır?",
