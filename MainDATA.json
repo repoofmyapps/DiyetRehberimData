@@ -20,14 +20,20 @@
 		},
 
 
+		
 
 
 
 
-
-
-
-
+		{
+			"diyet_id": "85",
+			"diyet_adi": "1 Haftada 3 Kilo Yağ Yakma Diyeti!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/yagdankiloverme.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/haftada3yag.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},
 		{
 			"diyet_id": "84",
 			"diyet_adi": "Neden Yağdan Kilo Veremiyorum?",
