@@ -3,6 +3,7 @@
 		{
 			"yemek_id": "1",
 			"yemek_adi": "Elma",
+			"yemek_ogun_saati": "Ara Öğün",
 			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna2.jpg",
 			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna2.jpg",
 			"yemek_detay_aciklama": "LoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLorem",
