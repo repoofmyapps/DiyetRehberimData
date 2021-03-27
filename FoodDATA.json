@@ -1,0 +1,50 @@
+{
+	"DiyetRehberim":[	
+		{
+			"yemek_id": "1",
+			"yemek_adi": "Elma",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna2.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna2.jpg",
+			"yemek_detay_aciklama": "LoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLorem",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna2.jpg",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Tam Elma",
+				"porsiyon2": "Yarım Elma",
+				"porsiyon3": "100 gr",
+				"porsiyon4": "1 Dilim (Çeyrek)",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "50 kcal",
+				"porsiyon2": "25 kcal",
+				"porsiyon3": "100 gr",
+				"porsiyon4": "1 Dilim (Çeyrek)",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "13 gr",
+				"porsiyon2": "8",
+				"porsiyon3": "14 gr",
+				"porsiyon4": "4",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.20 gr",
+				"porsiyon2": "0.10 gr",
+				"porsiyon3": "0.22 gr",
+				"porsiyon4": "0.05 gr",
+				"porsiyon5": "null"
+			},"yemek_yag": {
+				"porsiyon1": "0.15 gr",
+				"porsiyon2": "0.8 gr",
+				"porsiyon3": "0.17 gr",
+				"porsiyon4": "0.04 gr",
+				"porsiyon5": "null"
+			},
+
+
+
+		}
+
+	]
+}
