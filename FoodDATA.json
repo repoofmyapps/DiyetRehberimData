@@ -29,7 +29,7 @@
 			},
 			"yemek_karbonhidrat": {
 				"porsiyon1": "13 gr",
-				"porsiyon2": "8",
+				"porsiyon2": "8 gr",
 				"porsiyon3": "14 gr",
 				"porsiyon4": "4",
 				"porsiyon5": "null"
@@ -52,7 +52,7 @@
 
 		{
 			"yemek_id": "1",
-			"yemek_adi": "Elma",
+			"yemek_adi": "Armut",
 			"yemek_ogun_saati": "Ara Öğün",
 			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna2.jpg",
 			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna2.jpg",
@@ -77,7 +77,7 @@
 			},
 			"yemek_karbonhidrat": {
 				"porsiyon1": "13 gr",
-				"porsiyon2": "8",
+				"porsiyon2": "8 gr",
 				"porsiyon3": "14 gr",
 				"porsiyon4": "4",
 				"porsiyon5": "null"
