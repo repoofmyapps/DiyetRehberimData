@@ -16,35 +16,35 @@
 			"yemek_porsiyonlari": {
 				"porsiyon1": "1 Tam Elma",
 				"porsiyon2": "Yarım Elma",
-				"porsiyon3": "100 gr",
+				"porsiyon3": "100",
 				"porsiyon4": "1 Dilim (Çeyrek)",
 				"porsiyon5": "null"
 			},
 			"yemek_kcal": {
-				"porsiyon1": "50 kcal",
-				"porsiyon2": "25 kcal",
-				"porsiyon3": "100 gr",
+				"porsiyon1": "50",
+				"porsiyon2": "25",
+				"porsiyon3": "100",
 				"porsiyon4": "1 Dilim (Çeyrek)",
 				"porsiyon5": "null"
 			},
 			"yemek_karbonhidrat": {
-				"porsiyon1": "13 gr",
-				"porsiyon2": "8 gr",
-				"porsiyon3": "14 gr",
+				"porsiyon1": "13",
+				"porsiyon2": "8",
+				"porsiyon3": "14",
 				"porsiyon4": "4",
 				"porsiyon5": "null"
 			},
 			"yemek_protein": {
-				"porsiyon1": "0.20 gr",
-				"porsiyon2": "0.10 gr",
-				"porsiyon3": "0.22 gr",
-				"porsiyon4": "0.05 gr",
+				"porsiyon1": "0.20",
+				"porsiyon2": "0.10",
+				"porsiyon3": "0.22",
+				"porsiyon4": "0.05",
 				"porsiyon5": "null"
 			},"yemek_yag": {
-				"porsiyon1": "0.15 gr",
-				"porsiyon2": "0.8 gr",
-				"porsiyon3": "0.17 gr",
-				"porsiyon4": "0.04 gr",
+				"porsiyon1": "0.15",
+				"porsiyon2": "0.8",
+				"porsiyon3": "0.17",
+				"porsiyon4": "0.04",
 				"porsiyon5": "null"
 			}
 
@@ -64,35 +64,35 @@
 			"yemek_porsiyonlari": {
 				"porsiyon1": "1 Tam Elma",
 				"porsiyon2": "Yarım Elma",
-				"porsiyon3": "100 gr",
+				"porsiyon3": "100",
 				"porsiyon4": "1 Dilim (Çeyrek)",
 				"porsiyon5": "null"
 			},
 			"yemek_kcal": {
-				"porsiyon1": "50 kcal",
-				"porsiyon2": "25 kcal",
-				"porsiyon3": "100 gr",
+				"porsiyon1": "50",
+				"porsiyon2": "25",
+				"porsiyon3": "100",
 				"porsiyon4": "1 Dilim (Çeyrek)",
 				"porsiyon5": "null"
 			},
 			"yemek_karbonhidrat": {
-				"porsiyon1": "13 gr",
-				"porsiyon2": "8 gr",
-				"porsiyon3": "14 gr",
+				"porsiyon1": "13",
+				"porsiyon2": "8",
+				"porsiyon3": "14",
 				"porsiyon4": "4",
 				"porsiyon5": "null"
 			},
 			"yemek_protein": {
-				"porsiyon1": "0.20 gr",
-				"porsiyon2": "0.10 gr",
-				"porsiyon3": "0.22 gr",
-				"porsiyon4": "0.05 gr",
+				"porsiyon1": "0.20",
+				"porsiyon2": "0.10",
+				"porsiyon3": "0.22",
+				"porsiyon4": "0.05",
 				"porsiyon5": "null"
 			},"yemek_yag": {
-				"porsiyon1": "0.15 gr",
-				"porsiyon2": "0.8 gr",
-				"porsiyon3": "0.17 gr",
-				"porsiyon4": "0.04 gr",
+				"porsiyon1": "0.15",
+				"porsiyon2": "0.8",
+				"porsiyon3": "0.17",
+				"porsiyon4": "0.04",
 				"porsiyon5": "null"
 			}
 		}
