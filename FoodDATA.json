@@ -1,6 +1,197 @@
 {
 	"DiyetRehberim":[	
+		{
+			"yemek_id": "6",
+			"yemek_adi": "Pirinç Pilavı",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna1.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna1.jpg",
+			"yemek_detay_aciklama": "LoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLorem",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/elma_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "95",
+			"yemek_protein_yuzde": "2",
+			"yemek_yag_yuzde": "3",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Tam Elma",
+				"porsiyon2": "Yarım Elma",
+				"porsiyon3": "100",
+				"porsiyon4": "1 Dilim (Çeyrek)",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "50",
+				"porsiyon2": "25",
+				"porsiyon3": "100",
+				"porsiyon4": "1 Dilim (Çeyrek)",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "13",
+				"porsiyon2": "8",
+				"porsiyon3": "14",
+				"porsiyon4": "4",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.20",
+				"porsiyon2": "0.10",
+				"porsiyon3": "0.22",
+				"porsiyon4": "0.05",
+				"porsiyon5": "null"
+			},"yemek_yag": {
+				"porsiyon1": "0.15",
+				"porsiyon2": "0.8",
+				"porsiyon3": "0.17",
+				"porsiyon4": "0.04",
+				"porsiyon5": "null"
+			}
 
+		},
+
+		{
+			"yemek_id": "5",
+			"yemek_adi": "Kuru Fasulye",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna1.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna1.jpg",
+			"yemek_detay_aciklama": "LoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLorem",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/elma_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "95",
+			"yemek_protein_yuzde": "2",
+			"yemek_yag_yuzde": "3",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Tam Elma",
+				"porsiyon2": "Yarım Elma",
+				"porsiyon3": "100",
+				"porsiyon4": "1 Dilim (Çeyrek)",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "50",
+				"porsiyon2": "25",
+				"porsiyon3": "100",
+				"porsiyon4": "1 Dilim (Çeyrek)",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "13",
+				"porsiyon2": "8",
+				"porsiyon3": "14",
+				"porsiyon4": "4",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.20",
+				"porsiyon2": "0.10",
+				"porsiyon3": "0.22",
+				"porsiyon4": "0.05",
+				"porsiyon5": "null"
+			},"yemek_yag": {
+				"porsiyon1": "0.15",
+				"porsiyon2": "0.8",
+				"porsiyon3": "0.17",
+				"porsiyon4": "0.04",
+				"porsiyon5": "null"
+			}
+
+		},
+
+		{
+			"yemek_id": "4",
+			"yemek_adi": "Yeşil Fasulye",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna1.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna1.jpg",
+			"yemek_detay_aciklama": "LoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLorem",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/elma_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "95",
+			"yemek_protein_yuzde": "2",
+			"yemek_yag_yuzde": "3",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Tam Elma",
+				"porsiyon2": "Yarım Elma",
+				"porsiyon3": "100",
+				"porsiyon4": "1 Dilim (Çeyrek)",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "50",
+				"porsiyon2": "25",
+				"porsiyon3": "100",
+				"porsiyon4": "1 Dilim (Çeyrek)",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "13",
+				"porsiyon2": "8",
+				"porsiyon3": "14",
+				"porsiyon4": "4",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.20",
+				"porsiyon2": "0.10",
+				"porsiyon3": "0.22",
+				"porsiyon4": "0.05",
+				"porsiyon5": "null"
+			},"yemek_yag": {
+				"porsiyon1": "0.15",
+				"porsiyon2": "0.8",
+				"porsiyon3": "0.17",
+				"porsiyon4": "0.04",
+				"porsiyon5": "null"
+			}
+
+		},
+
+
+		{
+			"yemek_id": "3",
+			"yemek_adi": "Şunun İsmi",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna1.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna1.jpg",
+			"yemek_detay_aciklama": "LoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLorem",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/elma_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "95",
+			"yemek_protein_yuzde": "2",
+			"yemek_yag_yuzde": "3",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Tam Elma",
+				"porsiyon2": "Yarım Elma",
+				"porsiyon3": "100",
+				"porsiyon4": "1 Dilim (Çeyrek)",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "50",
+				"porsiyon2": "25",
+				"porsiyon3": "100",
+				"porsiyon4": "1 Dilim (Çeyrek)",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "13",
+				"porsiyon2": "8",
+				"porsiyon3": "14",
+				"porsiyon4": "4",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.20",
+				"porsiyon2": "0.10",
+				"porsiyon3": "0.22",
+				"porsiyon4": "0.05",
+				"porsiyon5": "null"
+			},"yemek_yag": {
+				"porsiyon1": "0.15",
+				"porsiyon2": "0.8",
+				"porsiyon3": "0.17",
+				"porsiyon4": "0.04",
+				"porsiyon5": "null"
+			}
+
+		},
 
 		{
 			"yemek_id": "2",
