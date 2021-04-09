@@ -1,6 +1,144 @@
 {
 	"DiyetRehberim":[	
 
+
+
+
+
+
+
+		{
+			"yemek_id": "10",
+			"yemek_adi": "Zeytinyağlı Taze Fasulye",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/taze_fasulye_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/taze_fasulye_detay.jpg",
+			"yemek_detay_aciklama": "Taze fasulye düşük kalorili olması nedeniyle kilo vermeye çalışanların diyet programında sıklıkla yer alıyor. Lifli yapısıyla sindirimi kolaylaştırıyor ve kilo vermeye yardımcı oluyor. Enerji veren yapısıyla vücudu güçlendiren bu lezzetli sebzeyi tüketerek beden ve zihin yorgunluğundan kurtulabilirsiniz. Vücut gelişimini destekleyen ve kemikleri güçlendiren sebze, romatizma ve siyatik ağrılara iyi gelebiliyor. Böbrekleri güçlendirerek böbrek kumu ve taşlarını dökmeye yardım ettiği konusunda görüşler var. Kandaki şeker miktarını düşürme özelliğiyle de şeker hastalarına önerilen bir sebze. Taze fasulye yaşlanma etkilerine karşı koyabilen yapısıyla vücudu onarma ve yenileme özelliği gösteriyor. Ayrıca vücudu güçlendiriyor, pankreas bezinin doğru çalışmasına ve kalp ritminin düzenli olmasına yardımcı oluyor. Kalp sağlığı için de öneriliyor. Karaciğer yetmezliği yaşayanlar için faydalı bir özellik gösterebiliyor. Zehirlenme olayı yaşayanlar hemen taze fasulye yemeği yerlerse iyileşme süreçleri hızlanabiliyor. Çünkü taze fasulye toksinlerin vücuttan atılmasında etkili özellik gösteriyor. Kalp ritmini ve kan basıncını kontrol eden potasyum mineralini içeren sebze oldukça faydalı.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/taze_fasulye_besin.PNG",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Yemek Kaşığı",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "73",
+				"porsiyon2": "12",
+				"porsiyon3": "49",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "10",
+				"porsiyon2": "1.68",
+				"porsiyon3": "6.72",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "2.68",
+				"porsiyon2": "0.45",
+				"porsiyon3": "1.79",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "1.96",
+				"porsiyon2": "0.33",
+				"porsiyon3": "1.3",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "9",
+			"yemek_adi": "Kuru Fasulye (Etsiz)",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/kuru_fasulye_etsiz_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/kuru_fasulye_etsiz_detay.jpg",
+			"yemek_detay_aciklama": "Türklerin milli yemeği olarak gösterilen kuru fasulyenin sağlığa birçok faydası bulunuyor.rnrnCilt sağlığı için oldukça faydalı. Akneyi ve yağ bezesi oluşumunu önlemeye yardımcı oluyor. Metabolizmayı hızlandırarak kabızlığa mâni oluyor, zayıflatıcı etkisi de bulunuyor. Kemik yapısını güçlendiriyor, karaciğer yetmezliği, kalp çarpıntısı ve idrar tutukluğuna karşı doğal ilaç vazifesi görüyor.rnrnYüksek miktarda protein içerdiği için et yiyemeyenlerin sıklıkla tüketmesi tavsiye edilen besinler arasında yer alıyor. Enerji veriyor, mental ve fiziksel yorgunluğa iyi geliyor.rnrnBöbrek rahatsızlığı olanların da rahatlıkla tüketebileceği bir besin. Folik asit ve demir açısından zengin olan kuru fasulye, özellikle hamile kadınlar ve çocuklar için öneriliyor. Hipertansiyon riskine karşı koruyor ve yüksek tansiyonu düşürmekte etkili olduğu biliniyor.rnrnProtein, inorganik tuzlar, A, B, C vitaminleri, besin lifi ve potasyum içeriği, bir yetişkinin günlük ihtiyacını karşılayabiliyor. İçeriğinde bulunan omega-3, vücudun enerji üretimine katkıda bulunarak yorgunluğu gideriyor.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/kuru_fasulye_etsiz_besin.PNG",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Yemek Kaşığı",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "267",
+				"porsiyon2": "24",
+				"porsiyon3": "97",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "27.25",
+				"porsiyon2": "2.48",
+				"porsiyon3": "9.91",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "18.08",
+				"porsiyon2": "1.64",
+				"porsiyon3": "6.57",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "3.7",
+				"porsiyon2": "0.34",
+				"porsiyon3": "1.35",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "8",
+			"yemek_adi": "Pirinç Pilavı",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pirinc_pilavi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pirinc_pilavi_detay.jpg",
+			"yemek_detay_aciklama": "Pirinç kalsiyum, fosfor ve D vitamini için iyi birer kaynak. Bu nedenle de kemik gelişimi, cilt ve tırnak sağlığı için faydalı. Pirinç hazımsızlığı önler ve özellikle ishal durumunda en etkili besinlerden birisi. İshal bağışıklık sistemini olumsuz etkileyen bir problem. Tek başına tüketilen pirinç; vücudumuzun kan glukoz seviyesini hızlı yükselttiğinden, diyabet hastaları porsiyon kontrolüne dikkat etmelidir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/pirinc_pilavi_besin.PNG",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "100 Gram",
+				"porsiyon3": "1 Çorba Kaşığı",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "259",
+				"porsiyon2": "162",
+				"porsiyon3": "24",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "39.67",
+				"porsiyon2": "24.79",
+				"porsiyon3": "3.72",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "3.31",
+				"porsiyon2": "2.07",
+				"porsiyon3": "0.31",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "9.27",
+				"porsiyon2": "5.8",
+				"porsiyon3": "0.87",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
 		{
 			"yemek_id": "7",
 			"yemek_adi": "Peynirli Makarna",
