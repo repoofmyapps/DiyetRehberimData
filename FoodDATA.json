@@ -1,253 +1,279 @@
 {
 	"DiyetRehberim":[	
+
+		{
+			"yemek_id": "7",
+			"yemek_adi": "Peynirli Makarna",
+			"yemek_ogun_saati": "Öğle Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/peynirli_makarna_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/peynirli_makarna_detay.jpg",
+			"yemek_detay_aciklama": "Vitamin ve mineraller bakımından çok zengin ve çok yararlı bir besin kaynağıdır. Makarna A, B1, B2 vitaminleri, demir, kalsiyum, fosfor, potasyum ve protein yönünden de çok zengindir. Yağsızdır. Çok az (%1-1,5 minör yağ bileşenlerini ve yüksek oranda linoleik yağ asidi içerdiğinden kolesterolü düşürücü etkisi vardır. Güçlü bir antioksidan kaynağı olan peynirler, düzenli tüketilmesi halinde kanser riskini en aza indirmektedir. Bağışıklık sistemini güçlendirerek hastalıklara karşı vücut direncinizin artmasını sağlamaktadır. Vücutta kötü huylu tümörlerin oluşumunu engellemektedir. Peynir ürünleri, düzenli tüketilmesi halinde kalp krizi riskini en aza indirmektedir. Kan basıncını düzenleyerek kolesterol seviyesini düzene sokmaya yardımcı olan bir gıda maddesidir. Sindirim sisteminin çalışmasını düzenleyerek ishal ve kabız gibi rahatsızlıkların geçmesinde önemli bir etkiye sahiptir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/peynirli_makarna_besin.PNG",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "100 Gram",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "308",
+				"porsiyon2": "127",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "49.9",
+				"porsiyon2": "20.56",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "11.39",
+				"porsiyon2": "4.69",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "7.25",
+				"porsiyon2": "2.99",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
 		{
 			"yemek_id": "6",
-			"yemek_adi": "Pirinç Pilavı",
-			"yemek_ogun_saati": "Ara Öğün",
-			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna1.jpg",
-			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna1.jpg",
-			"yemek_detay_aciklama": "LoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLorem",
-			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/elma_besin.PNG",
-			"yemek_karbonhidrat_yuzde": "95",
-			"yemek_protein_yuzde": "2",
-			"yemek_yag_yuzde": "3",
+			"yemek_adi": "Patates Kızartması",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/patates_kizartmasi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/patates_kizartmasi_detay.jpg",
+			"yemek_detay_aciklama": "Patates kızartması, fazlasıyla yağ çektiğinden dolayı sağlık açısından sakıncalıdır. 1 orta boy patates kızartmasında 250 kalori bulunmaktadır. Bu kaloriyi yakmak için bireyin yaklaşık 2 saat tempolu bir şekilde yürümesi gerekir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/patates_kizartmasi_besin.PNG",
 			"yemek_porsiyonlari": {
-				"porsiyon1": "1 Tam Elma",
-				"porsiyon2": "Yarım Elma",
-				"porsiyon3": "100",
-				"porsiyon4": "1 Dilim (Çeyrek)",
+				"porsiyon1": "1 Paket",
+				"porsiyon2": "1 Avuç",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
 				"porsiyon5": "null"
 			},
 			"yemek_kcal": {
-				"porsiyon1": "50",
-				"porsiyon2": "25",
-				"porsiyon3": "100",
-				"porsiyon4": "1 Dilim (Çeyrek)",
+				"porsiyon1": "390",
+				"porsiyon2": "47",
+				"porsiyon3": "312",
+				"porsiyon4": "null",
 				"porsiyon5": "null"
 			},
 			"yemek_karbonhidrat": {
-				"porsiyon1": "13",
-				"porsiyon2": "8",
-				"porsiyon3": "14",
-				"porsiyon4": "4",
+				"porsiyon1": "51.8",
+				"porsiyon2": "6.22",
+				"porsiyon3": "41.44",
+				"porsiyon4": "null",
 				"porsiyon5": "null"
 			},
 			"yemek_protein": {
-				"porsiyon1": "0.20",
-				"porsiyon2": "0.10",
-				"porsiyon3": "0.22",
-				"porsiyon4": "0.05",
+				"porsiyon1": "4.29",
+				"porsiyon2": "0.51",
+				"porsiyon3": "3.43",
+				"porsiyon4": "null",
 				"porsiyon5": "null"
-			},"yemek_yag": {
-				"porsiyon1": "0.15",
-				"porsiyon2": "0.8",
-				"porsiyon3": "0.17",
-				"porsiyon4": "0.04",
+			},
+			"yemek_yag": {
+				"porsiyon1": "18.41",
+				"porsiyon2": "2.21",
+				"porsiyon3": "14.73",
+				"porsiyon4": "null",
 				"porsiyon5": "null"
 			}
-
 		},
-
 		{
 			"yemek_id": "5",
-			"yemek_adi": "Kuru Fasulye",
-			"yemek_ogun_saati": "Ara Öğün",
-			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna1.jpg",
-			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna1.jpg",
-			"yemek_detay_aciklama": "LoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLorem",
-			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/elma_besin.PNG",
-			"yemek_karbonhidrat_yuzde": "95",
-			"yemek_protein_yuzde": "2",
-			"yemek_yag_yuzde": "3",
+			"yemek_adi": "Mantı",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/manti_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/manti_detay.jpg",
+			"yemek_detay_aciklama": "Yüksek miktarda karbonhidrat içerdiği için vücut için gerekli olan enerjiyi sağlayabiliyor. Yemeğin üzerine konulan yoğurt, yüksek miktarda protein ve kalsiyum içeriyor. Kas ve kemik gelişimi üzerinde olumlu etkiler gösteriyor. Bağışıklık sistemini kuvvetlendirerek, damar hastalıklarına iyi geliyor. Tansiyonu düzenliyor ve sindirimi kolaylaştırıyor. Yoğurdun içine konulacak sarımsakta ise bol iyot ve kükürt bulunuyor. Damar sertliğini gidermesinin yanı sıra kalbi de kuvvetlendiriyor. Vücudu zehirlerden temizliyor. Kanı sulandırarak kan dolaşımının hızlanmasına yardımcı oluyor. Yüksek kalorili bu yemeği tüketmek ciddi yağlanma kilo alma problemlerini ortaya çıkarabiliyor. Bu yüzden dikkatli olmakta fayda var.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/manti_besin.PNG",
 			"yemek_porsiyonlari": {
-				"porsiyon1": "1 Tam Elma",
-				"porsiyon2": "Yarım Elma",
-				"porsiyon3": "100",
-				"porsiyon4": "1 Dilim (Çeyrek)",
+				"porsiyon1": "1 Tam Tabak",
+				"porsiyon2": "1 Yarım Tabak",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
 				"porsiyon5": "null"
 			},
 			"yemek_kcal": {
-				"porsiyon1": "50",
-				"porsiyon2": "25",
-				"porsiyon3": "100",
-				"porsiyon4": "1 Dilim (Çeyrek)",
+				"porsiyon1": "509",
+				"porsiyon2": "254",
+				"porsiyon3": "170",
+				"porsiyon4": "null",
 				"porsiyon5": "null"
 			},
 			"yemek_karbonhidrat": {
-				"porsiyon1": "13",
-				"porsiyon2": "8",
-				"porsiyon3": "14",
-				"porsiyon4": "4",
+				"porsiyon1": "89.12",
+				"porsiyon2": "44.56",
+				"porsiyon3": "29.71",
+				"porsiyon4": "null",
 				"porsiyon5": "null"
 			},
 			"yemek_protein": {
-				"porsiyon1": "0.20",
-				"porsiyon2": "0.10",
-				"porsiyon3": "0.22",
-				"porsiyon4": "0.05",
+				"porsiyon1": "12.37",
+				"porsiyon2": "6.18",
+				"porsiyon3": "4.12",
+				"porsiyon4": "null",
 				"porsiyon5": "null"
-			},"yemek_yag": {
-				"porsiyon1": "0.15",
-				"porsiyon2": "0.8",
-				"porsiyon3": "0.17",
-				"porsiyon4": "0.04",
+			},
+			"yemek_yag": {
+				"porsiyon1": "10.49",
+				"porsiyon2": "5.25",
+				"porsiyon3": "3.5",
+				"porsiyon4": "null",
 				"porsiyon5": "null"
 			}
-
 		},
-
 		{
 			"yemek_id": "4",
-			"yemek_adi": "Yeşil Fasulye",
-			"yemek_ogun_saati": "Ara Öğün",
-			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna1.jpg",
-			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna1.jpg",
-			"yemek_detay_aciklama": "LoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLorem",
-			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/elma_besin.PNG",
-			"yemek_karbonhidrat_yuzde": "95",
-			"yemek_protein_yuzde": "2",
-			"yemek_yag_yuzde": "3",
+			"yemek_adi": "Tavada Yumurta",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavada_yumurta_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavada_yumurta_detay.jpg",
+			"yemek_detay_aciklama": "Tavada yumurta, protein, folik asit, fosfor, demir, çinko açısından zengin bir besindir. Tavada yumurta kalorisi ve yağ içeriği açısından biraz yüksektir. Mümkünse haşlanmış yumurta tercih edilmelidir. Yumurtada, kemik erimesini önleyen ve kemiklerinizi güçlendiren kalsiyum bulunur. Ayrıca yumurtada bulunan D vitamini vücuttaki kalsiyum dengesini sağlayarak dişlerinizin de gelişmesini sağlar.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/tavada_yumurta_besin.PNG",
 			"yemek_porsiyonlari": {
-				"porsiyon1": "1 Tam Elma",
-				"porsiyon2": "Yarım Elma",
-				"porsiyon3": "100",
-				"porsiyon4": "1 Dilim (Çeyrek)",
-				"porsiyon5": "null"
+				"porsiyon1": "1 Adet",
+				"porsiyon2": "1 Tabak",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "",
+				"porsiyon5": ""
 			},
 			"yemek_kcal": {
-				"porsiyon1": "50",
-				"porsiyon2": "25",
-				"porsiyon3": "100",
-				"porsiyon4": "1 Dilim (Çeyrek)",
-				"porsiyon5": "null"
+				"porsiyon1": "122",
+				"porsiyon2": "331",
+				"porsiyon3": "242",
+				"porsiyon4": "",
+				"porsiyon5": ""
 			},
 			"yemek_karbonhidrat": {
-				"porsiyon1": "13",
-				"porsiyon2": "8",
-				"porsiyon3": "14",
-				"porsiyon4": "4",
-				"porsiyon5": "null"
+				"porsiyon1": "1.04",
+				"porsiyon2": "2.84",
+				"porsiyon3": "1.89",
+				"porsiyon4": "",
+				"porsiyon5": ""
 			},
 			"yemek_protein": {
-				"porsiyon1": "0.20",
-				"porsiyon2": "0.10",
-				"porsiyon3": "0.22",
-				"porsiyon4": "0.05",
-				"porsiyon5": "null"
-			},"yemek_yag": {
-				"porsiyon1": "0.15",
-				"porsiyon2": "0.8",
-				"porsiyon3": "0.17",
-				"porsiyon4": "0.04",
-				"porsiyon5": "null"
+				"porsiyon1": "6.4",
+				"porsiyon2": "17.45",
+				"porsiyon3": "11.63",
+				"porsiyon4": "",
+				"porsiyon5": ""
+			},
+			"yemek_yag": {
+				"porsiyon1": "10.34",
+				"porsiyon2": "28.19",
+				"porsiyon3": "18.8",
+				"porsiyon4": "",
+				"porsiyon5": ""
 			}
-
 		},
-
-
 		{
 			"yemek_id": "3",
-			"yemek_adi": "Şunun İsmi",
-			"yemek_ogun_saati": "Ara Öğün",
-			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna1.jpg",
-			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna1.jpg",
-			"yemek_detay_aciklama": "LoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLorem",
-			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/elma_besin.PNG",
-			"yemek_karbonhidrat_yuzde": "95",
-			"yemek_protein_yuzde": "2",
-			"yemek_yag_yuzde": "3",
+			"yemek_adi": "Haşlanmış Yumurta",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/haslanmis_yumurta_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/haslanmis_yumurta_detay.jpg",
+			"yemek_detay_aciklama": "Haslanmış yumurta, protein, folik asit, fosfor, demir, çinko açısından zengindir. Vücudun ihtiyacı olan aminoasitleri içerir. Sağlıklı bireyler her gün et veya peynir yerine yüksek kolesterolü olanlar haftada 2-3 kez haşlanmış yumurta tüketebilir. Bağışıklık sistemini güçlendirir. Kas ve kemik gelişiminde büyük etkisi vardır. Yüksek miktarda protein içerdiğinden kaslara çok faydalıdır. İçerdiği amino asit ve vitaminler ile vücudu besler. Göz sağlığı için çok yararlıdır ve göz bozukluklarına fayda eder. İyi kolesterolü yükseltir. Kalp sağlığını korur. Hafıza problemlerine iyi gelir. Beyin sağlığı için çok faydalıdır. Vücudun demir seviyesini artırır.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/haslanmis_yumurta_besin.PNG",
 			"yemek_porsiyonlari": {
-				"porsiyon1": "1 Tam Elma",
-				"porsiyon2": "Yarım Elma",
-				"porsiyon3": "100",
-				"porsiyon4": "1 Dilim (Çeyrek)",
+				"porsiyon1": "1 Adet",
+				"porsiyon2": "100 Gram",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
 				"porsiyon5": "null"
 			},
 			"yemek_kcal": {
-				"porsiyon1": "50",
-				"porsiyon2": "25",
-				"porsiyon3": "100",
-				"porsiyon4": "1 Dilim (Çeyrek)",
+				"porsiyon1": "78",
+				"porsiyon2": "155",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
 				"porsiyon5": "null"
 			},
 			"yemek_karbonhidrat": {
-				"porsiyon1": "13",
-				"porsiyon2": "8",
-				"porsiyon3": "14",
-				"porsiyon4": "4",
+				"porsiyon1": "0.56",
+				"porsiyon2": "1.12",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
 				"porsiyon5": "null"
 			},
 			"yemek_protein": {
-				"porsiyon1": "0.20",
-				"porsiyon2": "0.10",
-				"porsiyon3": "0.22",
-				"porsiyon4": "0.05",
+				"porsiyon1": "6.29",
+				"porsiyon2": "12.58",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
 				"porsiyon5": "null"
-			},"yemek_yag": {
-				"porsiyon1": "0.15",
-				"porsiyon2": "0.8",
-				"porsiyon3": "0.17",
-				"porsiyon4": "0.04",
+			},
+			"yemek_yag": {
+				"porsiyon1": "5.31",
+				"porsiyon2": "10.61",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
 				"porsiyon5": "null"
 			}
-
 		},
 
 		{
 			"yemek_id": "2",
-			"yemek_adi": "Elma",
-			"yemek_ogun_saati": "Ara Öğün",
-			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna1.jpg",
-			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna1.jpg",
-			"yemek_detay_aciklama": "LoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLorem",
-			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/elma_besin.PNG",
-			"yemek_karbonhidrat_yuzde": "95",
-			"yemek_protein_yuzde": "2",
-			"yemek_yag_yuzde": "3",
+			"yemek_adi": "Makarna",
+			"yemek_ogun_saati": "Öğle Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/makarna_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/makarna_detay.jpg",
+			"yemek_detay_aciklama": "Vitamin ve mineraller bakımından çok zengin ve çok yararlı bir besin kaynağıdır. Makarna A, B1, B2 vitaminleri, demir, kalsiyum, fosfor, potasyum ve protein yönünden de çok zengindir. Yağsızdır. Çok az (%1-1,5 minör yağ bileşenlerini ve yüksek oranda linoleik yağ asidi içerdiğinden kolesterolü düşürücü etkisi vardır.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/makarna_besin.PNG",
 			"yemek_porsiyonlari": {
-				"porsiyon1": "1 Tam Elma",
-				"porsiyon2": "Yarım Elma",
-				"porsiyon3": "100",
-				"porsiyon4": "1 Dilim (Çeyrek)",
+				"porsiyon1": "1 Tam Tabak",
+				"porsiyon2": "1 Yarım Tabak",
+				"porsiyon3": "1 Kase",
+				"porsiyon4": "100 Gram",
 				"porsiyon5": "null"
 			},
 			"yemek_kcal": {
-				"porsiyon1": "50",
-				"porsiyon2": "25",
-				"porsiyon3": "100",
-				"porsiyon4": "1 Dilim (Çeyrek)",
+				"porsiyon1": "314",
+				"porsiyon2": "157",
+				"porsiyon3": "236",
+				"porsiyon4": "157",
 				"porsiyon5": "null"
 			},
 			"yemek_karbonhidrat": {
-				"porsiyon1": "13",
-				"porsiyon2": "8",
-				"porsiyon3": "14",
-				"porsiyon4": "4",
+				"porsiyon1": "61.18",
+				"porsiyon2": "30.59",
+				"porsiyon3": "45.89",
+				"porsiyon4": "30.59",
 				"porsiyon5": "null"
 			},
 			"yemek_protein": {
-				"porsiyon1": "0.20",
-				"porsiyon2": "0.10",
-				"porsiyon3": "0.22",
-				"porsiyon4": "0.05",
+				"porsiyon1": "11.6",
+				"porsiyon2": "5.8",
+				"porsiyon3": "8.7",
+				"porsiyon4": "5.8",
 				"porsiyon5": "null"
-			},"yemek_yag": {
-				"porsiyon1": "0.15",
-				"porsiyon2": "0.8",
-				"porsiyon3": "0.17",
-				"porsiyon4": "0.04",
+			},
+			"yemek_yag": {
+				"porsiyon1": "1.86",
+				"porsiyon2": "0.93",
+				"porsiyon3": "1.4",
+				"porsiyon4": "0.93",
 				"porsiyon5": "null"
 			}
-
 		},
 
 		{
 			"yemek_id": "1",
-			"yemek_adi": "Armut",
+			"yemek_adi": "Elma",
 			"yemek_ogun_saati": "Ara Öğün",
-			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna2.jpg",
-			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna2.jpg",
-			"yemek_detay_aciklama": "LoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLoremLorem",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinResimleri/elmakucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinResimleri/elmabuyuk.jpg",
+			"yemek_detay_aciklama": "Elma çerdiği C vitamini sayesinde, kolon kanseri ve akciğer kanseri başta olmak üzere kansere yakalanma riskini azaltır. Elma kabuğunda bulunan çözünmez posa su tutarak sindirim yolunun temizlenmesini sağlar. Kalp ve damar sağlığı ile bağışıklık sisteminin güçlenmesine de katkı sağlıyor. C, A, E, B6 ve K vitaminleri açısından oldukça zengin olan bu meyve potasyum gibi pek çok minerali de içeriğinde barındırıyor. Aynı zamanda beyin fonksiyonlarının, ağız ve diş sağlığının korunmasına yardımcı oluyor. Dişlerin beyazlığının korunmasına destek olma, diş çürümelerini yavaşlatma ve tükürük bezlerinin çalışmasını sağlama gibi özelliklere de sahip. Sabahları aç karınla bir dilim dahi olsa elma yemek kabızlık ve ishal gibi sindirim sorunlarına iyi geliyor. Her gün düzenli şekilde elma tüketimi karaciğer için de oldukça sağlıklı. Vücutta biriken toksinlerin en büyük düşmanı olan bu besin karaciğeri bu zararlı maddelerden arındırıyor. Doğal bir antioksidan olduğu için bağışıklık sistemini güçlendiriyor, vücutta oluşan ödemin dışarı atılmasına yardımcı oluyor. Doğal lif kaynaklarından biri olan elma bu özelliğiyle kalp sağlığına da faydalı. İçerdiği lifler sayesinde arter ve damarlarda oluşan plakların çözülmesine katkı sağlıyor ve kan akışını hızlandırıyor. Tüm bunların yanı sıra bilimsel çalışmalar elmanın kanser hücrelerinin çoğalmasını önlediğini belirtiyor. Bazı araştırmalar ise elma suyunun cildi güzelleştirdiğini ve gerginliğinin korunmasına yardımcı olduğunu ortaya konuyor.",
 			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/elma_besin.PNG",
 			"yemek_karbonhidrat_yuzde": "95",
 			"yemek_protein_yuzde": "2",
@@ -255,15 +281,15 @@
 			"yemek_porsiyonlari": {
 				"porsiyon1": "1 Tam Elma",
 				"porsiyon2": "Yarım Elma",
-				"porsiyon3": "100",
+				"porsiyon3": "100 Gram",
 				"porsiyon4": "1 Dilim (Çeyrek)",
 				"porsiyon5": "null"
 			},
 			"yemek_kcal": {
 				"porsiyon1": "50",
 				"porsiyon2": "25",
-				"porsiyon3": "100",
-				"porsiyon4": "1 Dilim (Çeyrek)",
+				"porsiyon3": "52",
+				"porsiyon4": "16",
 				"porsiyon5": "null"
 			},
 			"yemek_karbonhidrat": {
