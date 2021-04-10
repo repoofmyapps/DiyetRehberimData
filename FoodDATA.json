@@ -5,8 +5,229 @@
 
 
 
+		{
+			"yemek_id": "15",
+			"yemek_adi": "Mantar",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/mantar_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/mantar_detay.jpg",
+			"yemek_detay_aciklama": "Neredeyse sıfıra yakın yağ oranı ile dikkat çeken mantar düşük kalori miktarı, yüksek protein içeriği ve kolesterol içermemesi nedeniyle özellikle diyet listelerinin aranan gıdaları arasında yer alıyor. Yüksek oranda lif içeren besin vitamin ve mineral açısından da zengin bir kaynak olarak gösteriliyor.</br></br></br></br></br></br></br></br></br></br></br></br> Besinsel faydaları türüne bağlı olarak değişse de mantarların sağlık üzerine genel faydalarından bahsedebiliriz. Selenyum minerali başta olmak üzere birçok antioksidan bileşeni içeren mantar kalp hastalığı ve kanser gibi olumsuz sağlık durumlarına neden olabilen serbest radikallere karşı vücut hücrelerinin korunmasına yardımcı oluyor.<br/> <br>Hücrelerin yaşlanma nedeniyle hasar görmesini engelliyor ve bağışıklık sistemini güçlendirerek hastalıklara karşı vücudun savunma sistemini destekliyor. Ayrıca mantarın içeriğinde yer alan beta-glukan adlı çözünen diyet lifi sayesinde kolesterol üzerinde olumlu etkiler yarattığını söyleyebiliriz. Kan şekerinin düzenlenmesinde de etkili bir rol oynayan beta-glukan, ‌Tip2 diyabet riskini de azaltıyor. Özellikle istiridye ve ‌shiitake türlerinin en etkili beta-glukanlara sahip olduğuna inanılıyor. Riboflavin, ‌niyasin ve ‌pantotenik asit gibi B vitaminleri açısından zengin olan mantar, kırmızı kan hücresi yapımını destekliyor, sindirim sisteminin düzenlenmesinde önemli rol üstleniyor. Sağlıklı bir cilt dokusu için düzenli olarak tüketilmesi önerilen bu besinin içerdiği B vitaminleri sinir sisteminin düzenli olarak çalışmasına da yardımcı oluyor. Bakır yönünden de zengin bir besin olan mantar, kırmızı kan hücresi yapımında da vücut dokularını destekliyor. Sağlıklı kemik yapısı ve sinir iletiminin sağlanmasında önemli role sahip olan bakır, düzenli olarak mantar tüketenlerde yeterli miktarda bulunuyor. Kalp, kas ve sinir sisteminin düzenli çalışmasında önemli rolleri olan potasyum açısından da zengin bir kaynak olan bu besin yüksek protein içeriği sayesinde özellikle vejetaryen beslenenlerin diyetlerinde vazgeçilmez bir yer tutuyor.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/mantar_besin.PNG",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Adet",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "22",
+				"porsiyon2": "3",
+				"porsiyon3": "22",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "3.26",
+				"porsiyon2": "0.49",
+				"porsiyon3": "3.26",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "3.09",
+				"porsiyon2": "0.46",
+				"porsiyon3": "3.09",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "0.34",
+				"porsiyon2": "0.05",
+				"porsiyon3": "0.34",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
 
+		{
+			"yemek_id": "14",
+			"yemek_adi": "Kısır",
+			"yemek_ogun_saati": "Öğle Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/kisir_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/kisir_detay.jpg",
+			"yemek_detay_aciklama": "Sağlık açısından son derece faydalı olan ve bulgur ile yapılan kısır, lezzetli ve besleyici bir yemek. Çay saati eşlikçisi olarak da oldukça popüler diyebiliriz. İster ana yemek ister atıştırmalık olarak hazırlanabilen kısır, içerisindeki birçok faydalı baharat ve yeşillikler ile çoğu insanın beğenisini kazanıyor.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/kisir_besin.PNG",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Kase (Orta)",
+				"porsiyon3": "1 Çorba Kaşığı",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "178",
+				"porsiyon2": "178",
+				"porsiyon3": "24",
+				"porsiyon4": "162",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "31.69",
+				"porsiyon2": "31.69",
+				"porsiyon3": "4.32",
+				"porsiyon4": "28.81",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "4.59",
+				"porsiyon2": "4.59",
+				"porsiyon3": "0.63",
+				"porsiyon4": "4.18",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "3.75",
+				"porsiyon2": "3.75",
+				"porsiyon3": "0.51",
+				"porsiyon4": "3.41",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "13",
+			"yemek_adi": "Bulgur Pilavı",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/bulgur_pilavi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/bulgur_pilavi_detay.jpg",
+			"yemek_detay_aciklama": "Bulgur en faydalı tahıl gruplarının başında geliyor. Türk mutfağının başlıca besin kaynaklarından biri olan bulgur pilavdan köfteye, çorbadan salataya her türlü yemeğin yapımında kullanılıyor. Karbonhidrat kaynaklarından biri olan buğday çeşitli işlemlerden geçerek bulgur halini alıyor ve ince, pilavlık, esmer, beyaz gibi farklı çeşitleri bulunuyor.  Sağlıklı beslenmenin vazgeçilmez besinlerinden olan bulgur protein, mineral, lif ve posa açısından oldukça zengin. En önemli faydalarından biri yüksek karbonhidrat değeri sayesinde enerji verici özelliğe sahip olması. İçeriğinde bulunan lif uzun süre tokluk sağlamasının yanı sıra bağırsak sisteminin düzenli çalışmasına da destek oluyor. rnrnYapısındaki B1 vitamini sayesinde sinir ve sindirim sistemini güçlendiren bulgur, içerisinde bulunan folik asitten ötürü de hamilelik döneminde anne adaylarının ve gelişim çağındaki çocukların düzenli şekilde beslenmelerinde yer vermesi gereken besinlerden. Bulgurun bir diğer faydası ise kan şekerini dengelemesi. Kötü kolesterolün yükselmesini engelleyen bu besin düzenli tüketildiği takdirde damar sağlığı açısından da olumlu etki gösteriyor. Böylece kalp krizi, beyin kanaması gibi damar hastalıkları riskini azaltıyor. Bulgurun en dikkat çekici olumlu özelliklerinden biri de doymamış yağ oranına sahip olduğundan kilo artışına yol açmaması.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/bulgur_pilavi_besin.PNG",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Porsiyon (Büyük)",
+				"porsiyon3": "1 Çorba Kaşığı",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "149",
+				"porsiyon2": "286",
+				"porsiyon3": "23",
+				"porsiyon4": "114",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "23.64",
+				"porsiyon2": "45.47",
+				"porsiyon3": "3.64",
+				"porsiyon4": "18.19",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "3.61",
+				"porsiyon2": "6.94",
+				"porsiyon3": "0.56",
+				"porsiyon4": "2.78",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "4.4",
+				"porsiyon2": "8.47",
+				"porsiyon3": "0.68",
+				"porsiyon4": "3.39",
+				"porsiyon5": "null"
+			}
+		},
 
+		{
+			"yemek_id": "12",
+			"yemek_adi": "Pizza Karışık",
+			"yemek_ogun_saati": "Öğle Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pizza_karisik_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pizza_karisik_detay.jpg",
+			"yemek_detay_aciklama": "Dünyanın her noktasında bolca tüketilen pizza her kültürün ağız tadına ve yeme alışkanlıklarına bağlı olarak çeşitlilik gösterebiliyor. Yöresel lezzetlerle bütünleşerek değişik malzemelerle bir arada pişirilebilen pizzanın temel malzemeleri salça ve peynir. Diyetisyenler ve sağlık uzmanları tarafından sağlıklı malzemelerle yapılan pizza çeşitleri de yararlı yiyecekler arasında kendisine bir yer buluyor. Kullanılan malzeme bütün beslenme yaklaşımlarına göre fazlasıyla dengelidir. İnce hamur fazla karbonhidrat yükü getirmez, domates sosu, peynir ve kullanılan sebzeler de diğer besleyici unsurları sağlar. Zeytin, biber, kapari gibi bileşenleri de sayarsanız pek 'fast-food' denemez. Bunun bir istisnası kullanılan sosis, sucuk gibi bileşenlerin kalitesiz olmasıdır. Zira malzemenin zengin olması pizzanın kaliteli olmasını sağlamaz. Ama iyi şarküteri ürünleri kullanıyorsanız zaten lezzet sorununuz yoktur. Kullanılan malzeme kaliteli, taze olursa kilo yapmaz. Öyle olsaydı İtalyanlar bol miktarda pizza tüketiyor, onlarda kilo sorunu olurdu",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/pizza_karisik_besin.PNG",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Dilim (Orta)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "344",
+				"porsiyon2": "241",
+				"porsiyon3": "186",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "56.44",
+				"porsiyon2": "39.66",
+				"porsiyon3": "30.51",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "10.8",
+				"porsiyon2": "7.59",
+				"porsiyon3": "5.84",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "8.02",
+				"porsiyon2": "5.63",
+				"porsiyon3": "4.33",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "11",
+			"yemek_adi": "Yeşil Elma",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/yesil_elma_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/yesil_elma_detay.jpg",
+			"yemek_detay_aciklama": "K vitamini içeriği zengin olan yeşil elma, kanın pıhtılaşmasını yardımcı olur. Cilt hücrelerinin serbest radikallerden uzak kalmasına destek olan yeşil elma, çok önemli bir C vitamini kaynağıdır. A vitamini içeriği de zengin olan yeşil elma, görmeyi kolaylaştırır. Yeşil elma, yaşlanmanın gecikmesine imkan tanır.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/yesil_elma_besin.PNG",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Adet",
+				"porsiyon2": "100 Gram",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "52",
+				"porsiyon2": "58",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "12.25",
+				"porsiyon2": "13.61",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.4",
+				"porsiyon2": "0.44",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "0.17",
+				"porsiyon2": "0.19",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
 
 		{
 			"yemek_id": "10",
