@@ -13,6 +13,9 @@
 			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/mantar_detay.jpg",
 			"yemek_detay_aciklama": "Neredeyse sıfıra yakın yağ oranı ile dikkat çeken mantar düşük kalori miktarı, yüksek protein içeriği ve kolesterol içermemesi nedeniyle özellikle diyet listelerinin aranan gıdaları arasında yer alıyor. Yüksek oranda lif içeren besin vitamin ve mineral açısından da zengin bir kaynak olarak gösteriliyor.</br></br></br></br></br></br></br></br></br></br></br></br> Besinsel faydaları türüne bağlı olarak değişse de mantarların sağlık üzerine genel faydalarından bahsedebiliriz. Selenyum minerali başta olmak üzere birçok antioksidan bileşeni içeren mantar kalp hastalığı ve kanser gibi olumsuz sağlık durumlarına neden olabilen serbest radikallere karşı vücut hücrelerinin korunmasına yardımcı oluyor.<br/> <br>Hücrelerin yaşlanma nedeniyle hasar görmesini engelliyor ve bağışıklık sistemini güçlendirerek hastalıklara karşı vücudun savunma sistemini destekliyor. Ayrıca mantarın içeriğinde yer alan beta-glukan adlı çözünen diyet lifi sayesinde kolesterol üzerinde olumlu etkiler yarattığını söyleyebiliriz. Kan şekerinin düzenlenmesinde de etkili bir rol oynayan beta-glukan, ‌Tip2 diyabet riskini de azaltıyor. Özellikle istiridye ve ‌shiitake türlerinin en etkili beta-glukanlara sahip olduğuna inanılıyor. Riboflavin, ‌niyasin ve ‌pantotenik asit gibi B vitaminleri açısından zengin olan mantar, kırmızı kan hücresi yapımını destekliyor, sindirim sisteminin düzenlenmesinde önemli rol üstleniyor. Sağlıklı bir cilt dokusu için düzenli olarak tüketilmesi önerilen bu besinin içerdiği B vitaminleri sinir sisteminin düzenli olarak çalışmasına da yardımcı oluyor. Bakır yönünden de zengin bir besin olan mantar, kırmızı kan hücresi yapımında da vücut dokularını destekliyor. Sağlıklı kemik yapısı ve sinir iletiminin sağlanmasında önemli role sahip olan bakır, düzenli olarak mantar tüketenlerde yeterli miktarda bulunuyor. Kalp, kas ve sinir sisteminin düzenli çalışmasında önemli rolleri olan potasyum açısından da zengin bir kaynak olan bu besin yüksek protein içeriği sayesinde özellikle vejetaryen beslenenlerin diyetlerinde vazgeçilmez bir yer tutuyor.",
 			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/mantar_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "46",
+			"yemek_protein_yuzde": "43",
+			"yemek_yag_yuzde": "11",
 			"yemek_porsiyonlari": {
 				"porsiyon1": "1 Porsiyon (Orta)",
 				"porsiyon2": "1 Adet",
@@ -58,6 +61,9 @@
 			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/kisir_detay.jpg",
 			"yemek_detay_aciklama": "Sağlık açısından son derece faydalı olan ve bulgur ile yapılan kısır, lezzetli ve besleyici bir yemek. Çay saati eşlikçisi olarak da oldukça popüler diyebiliriz. İster ana yemek ister atıştırmalık olarak hazırlanabilen kısır, içerisindeki birçok faydalı baharat ve yeşillikler ile çoğu insanın beğenisini kazanıyor.",
 			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/kisir_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "71",
+			"yemek_protein_yuzde": "10",
+			"yemek_yag_yuzde": "19",
 			"yemek_porsiyonlari": {
 				"porsiyon1": "1 Porsiyon (Orta)",
 				"porsiyon2": "1 Kase (Orta)",
@@ -102,6 +108,9 @@
 			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/bulgur_pilavi_detay.jpg",
 			"yemek_detay_aciklama": "Bulgur en faydalı tahıl gruplarının başında geliyor. Türk mutfağının başlıca besin kaynaklarından biri olan bulgur pilavdan köfteye, çorbadan salataya her türlü yemeğin yapımında kullanılıyor. Karbonhidrat kaynaklarından biri olan buğday çeşitli işlemlerden geçerek bulgur halini alıyor ve ince, pilavlık, esmer, beyaz gibi farklı çeşitleri bulunuyor.  Sağlıklı beslenmenin vazgeçilmez besinlerinden olan bulgur protein, mineral, lif ve posa açısından oldukça zengin. En önemli faydalarından biri yüksek karbonhidrat değeri sayesinde enerji verici özelliğe sahip olması. İçeriğinde bulunan lif uzun süre tokluk sağlamasının yanı sıra bağırsak sisteminin düzenli çalışmasına da destek oluyor. rnrnYapısındaki B1 vitamini sayesinde sinir ve sindirim sistemini güçlendiren bulgur, içerisinde bulunan folik asitten ötürü de hamilelik döneminde anne adaylarının ve gelişim çağındaki çocukların düzenli şekilde beslenmelerinde yer vermesi gereken besinlerden. Bulgurun bir diğer faydası ise kan şekerini dengelemesi. Kötü kolesterolün yükselmesini engelleyen bu besin düzenli tüketildiği takdirde damar sağlığı açısından da olumlu etki gösteriyor. Böylece kalp krizi, beyin kanaması gibi damar hastalıkları riskini azaltıyor. Bulgurun en dikkat çekici olumlu özelliklerinden biri de doymamış yağ oranına sahip olduğundan kilo artışına yol açmaması.",
 			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/bulgur_pilavi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "63",
+			"yemek_protein_yuzde": "10",
+			"yemek_yag_yuzde": "27",
 			"yemek_porsiyonlari": {
 				"porsiyon1": "1 Porsiyon (Orta)",
 				"porsiyon2": "1 Porsiyon (Büyük)",
@@ -147,6 +156,9 @@
 			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pizza_karisik_detay.jpg",
 			"yemek_detay_aciklama": "Dünyanın her noktasında bolca tüketilen pizza her kültürün ağız tadına ve yeme alışkanlıklarına bağlı olarak çeşitlilik gösterebiliyor. Yöresel lezzetlerle bütünleşerek değişik malzemelerle bir arada pişirilebilen pizzanın temel malzemeleri salça ve peynir. Diyetisyenler ve sağlık uzmanları tarafından sağlıklı malzemelerle yapılan pizza çeşitleri de yararlı yiyecekler arasında kendisine bir yer buluyor. Kullanılan malzeme bütün beslenme yaklaşımlarına göre fazlasıyla dengelidir. İnce hamur fazla karbonhidrat yükü getirmez, domates sosu, peynir ve kullanılan sebzeler de diğer besleyici unsurları sağlar. Zeytin, biber, kapari gibi bileşenleri de sayarsanız pek 'fast-food' denemez. Bunun bir istisnası kullanılan sosis, sucuk gibi bileşenlerin kalitesiz olmasıdır. Zira malzemenin zengin olması pizzanın kaliteli olmasını sağlamaz. Ama iyi şarküteri ürünleri kullanıyorsanız zaten lezzet sorununuz yoktur. Kullanılan malzeme kaliteli, taze olursa kilo yapmaz. Öyle olsaydı İtalyanlar bol miktarda pizza tüketiyor, onlarda kilo sorunu olurdu",
 			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/pizza_karisik_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "66",
+			"yemek_protein_yuzde": "13",
+			"yemek_yag_yuzde": "21",
 			"yemek_porsiyonlari": {
 				"porsiyon1": "1 Porsiyon (Orta)",
 				"porsiyon2": "1 Dilim (Orta)",
@@ -192,6 +204,9 @@
 			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/yesil_elma_detay.jpg",
 			"yemek_detay_aciklama": "K vitamini içeriği zengin olan yeşil elma, kanın pıhtılaşmasını yardımcı olur. Cilt hücrelerinin serbest radikallerden uzak kalmasına destek olan yeşil elma, çok önemli bir C vitamini kaynağıdır. A vitamini içeriği de zengin olan yeşil elma, görmeyi kolaylaştırır. Yeşil elma, yaşlanmanın gecikmesine imkan tanır.",
 			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/yesil_elma_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "93",
+			"yemek_protein_yuzde": "3",
+			"yemek_yag_yuzde": "3",
 			"yemek_porsiyonlari": {
 				"porsiyon1": "1 Adet",
 				"porsiyon2": "100 Gram",
@@ -237,6 +252,9 @@
 			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/taze_fasulye_detay.jpg",
 			"yemek_detay_aciklama": "Taze fasulye düşük kalorili olması nedeniyle kilo vermeye çalışanların diyet programında sıklıkla yer alıyor. Lifli yapısıyla sindirimi kolaylaştırıyor ve kilo vermeye yardımcı oluyor. Enerji veren yapısıyla vücudu güçlendiren bu lezzetli sebzeyi tüketerek beden ve zihin yorgunluğundan kurtulabilirsiniz. Vücut gelişimini destekleyen ve kemikleri güçlendiren sebze, romatizma ve siyatik ağrılara iyi gelebiliyor. Böbrekleri güçlendirerek böbrek kumu ve taşlarını dökmeye yardım ettiği konusunda görüşler var. Kandaki şeker miktarını düşürme özelliğiyle de şeker hastalarına önerilen bir sebze. Taze fasulye yaşlanma etkilerine karşı koyabilen yapısıyla vücudu onarma ve yenileme özelliği gösteriyor. Ayrıca vücudu güçlendiriyor, pankreas bezinin doğru çalışmasına ve kalp ritminin düzenli olmasına yardımcı oluyor. Kalp sağlığı için de öneriliyor. Karaciğer yetmezliği yaşayanlar için faydalı bir özellik gösterebiliyor. Zehirlenme olayı yaşayanlar hemen taze fasulye yemeği yerlerse iyileşme süreçleri hızlanabiliyor. Çünkü taze fasulye toksinlerin vücuttan atılmasında etkili özellik gösteriyor. Kalp ritmini ve kan basıncını kontrol eden potasyum mineralini içeren sebze oldukça faydalı.",
 			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/taze_fasulye_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "59",
+			"yemek_protein_yuzde": "15",
+			"yemek_yag_yuzde": "26",
 			"yemek_porsiyonlari": {
 				"porsiyon1": "1 Porsiyon (Orta)",
 				"porsiyon2": "1 Yemek Kaşığı",
@@ -281,6 +299,9 @@
 			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/kuru_fasulye_etsiz_detay.jpg",
 			"yemek_detay_aciklama": "Türklerin milli yemeği olarak gösterilen kuru fasulyenin sağlığa birçok faydası bulunuyor.rnrnCilt sağlığı için oldukça faydalı. Akneyi ve yağ bezesi oluşumunu önlemeye yardımcı oluyor. Metabolizmayı hızlandırarak kabızlığa mâni oluyor, zayıflatıcı etkisi de bulunuyor. Kemik yapısını güçlendiriyor, karaciğer yetmezliği, kalp çarpıntısı ve idrar tutukluğuna karşı doğal ilaç vazifesi görüyor.rnrnYüksek miktarda protein içerdiği için et yiyemeyenlerin sıklıkla tüketmesi tavsiye edilen besinler arasında yer alıyor. Enerji veriyor, mental ve fiziksel yorgunluğa iyi geliyor.rnrnBöbrek rahatsızlığı olanların da rahatlıkla tüketebileceği bir besin. Folik asit ve demir açısından zengin olan kuru fasulye, özellikle hamile kadınlar ve çocuklar için öneriliyor. Hipertansiyon riskine karşı koruyor ve yüksek tansiyonu düşürmekte etkili olduğu biliniyor.rnrnProtein, inorganik tuzlar, A, B, C vitaminleri, besin lifi ve potasyum içeriği, bir yetişkinin günlük ihtiyacını karşılayabiliyor. İçeriğinde bulunan omega-3, vücudun enerji üretimine katkıda bulunarak yorgunluğu gideriyor.",
 			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/kuru_fasulye_etsiz_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "51",
+			"yemek_protein_yuzde": "33",
+			"yemek_yag_yuzde": "15",
 			"yemek_porsiyonlari": {
 				"porsiyon1": "1 Porsiyon (Orta)",
 				"porsiyon2": "1 Yemek Kaşığı",
@@ -325,6 +346,9 @@
 			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pirinc_pilavi_detay.jpg",
 			"yemek_detay_aciklama": "Pirinç kalsiyum, fosfor ve D vitamini için iyi birer kaynak. Bu nedenle de kemik gelişimi, cilt ve tırnak sağlığı için faydalı. Pirinç hazımsızlığı önler ve özellikle ishal durumunda en etkili besinlerden birisi. İshal bağışıklık sistemini olumsuz etkileyen bir problem. Tek başına tüketilen pirinç; vücudumuzun kan glukoz seviyesini hızlı yükselttiğinden, diyabet hastaları porsiyon kontrolüne dikkat etmelidir.",
 			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/pirinc_pilavi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "66",
+			"yemek_protein_yuzde": "6",
+			"yemek_yag_yuzde": "28",
 			"yemek_porsiyonlari": {
 				"porsiyon1": "1 Porsiyon (Orta)",
 				"porsiyon2": "100 Gram",
@@ -369,6 +393,9 @@
 			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/peynirli_makarna_detay.jpg",
 			"yemek_detay_aciklama": "Vitamin ve mineraller bakımından çok zengin ve çok yararlı bir besin kaynağıdır. Makarna A, B1, B2 vitaminleri, demir, kalsiyum, fosfor, potasyum ve protein yönünden de çok zengindir. Yağsızdır. Çok az (%1-1,5 minör yağ bileşenlerini ve yüksek oranda linoleik yağ asidi içerdiğinden kolesterolü düşürücü etkisi vardır. Güçlü bir antioksidan kaynağı olan peynirler, düzenli tüketilmesi halinde kanser riskini en aza indirmektedir. Bağışıklık sistemini güçlendirerek hastalıklara karşı vücut direncinizin artmasını sağlamaktadır. Vücutta kötü huylu tümörlerin oluşumunu engellemektedir. Peynir ürünleri, düzenli tüketilmesi halinde kalp krizi riskini en aza indirmektedir. Kan basıncını düzenleyerek kolesterol seviyesini düzene sokmaya yardımcı olan bir gıda maddesidir. Sindirim sisteminin çalışmasını düzenleyerek ishal ve kabız gibi rahatsızlıkların geçmesinde önemli bir etkiye sahiptir.",
 			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/peynirli_makarna_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "64",
+			"yemek_protein_yuzde": "15",
+			"yemek_yag_yuzde": "21",
 			"yemek_porsiyonlari": {
 				"porsiyon1": "1 Porsiyon (Orta)",
 				"porsiyon2": "100 Gram",
@@ -413,6 +440,9 @@
 			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/patates_kizartmasi_detay.jpg",
 			"yemek_detay_aciklama": "Patates kızartması, fazlasıyla yağ çektiğinden dolayı sağlık açısından sakıncalıdır. 1 orta boy patates kızartmasında 250 kalori bulunmaktadır. Bu kaloriyi yakmak için bireyin yaklaşık 2 saat tempolu bir şekilde yürümesi gerekir.",
 			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/patates_kizartmasi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "53",
+			"yemek_protein_yuzde": "4",
+			"yemek_yag_yuzde": "42",
 			"yemek_porsiyonlari": {
 				"porsiyon1": "1 Paket",
 				"porsiyon2": "1 Avuç",
@@ -457,6 +487,9 @@
 			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/manti_detay.jpg",
 			"yemek_detay_aciklama": "Yüksek miktarda karbonhidrat içerdiği için vücut için gerekli olan enerjiyi sağlayabiliyor. Yemeğin üzerine konulan yoğurt, yüksek miktarda protein ve kalsiyum içeriyor. Kas ve kemik gelişimi üzerinde olumlu etkiler gösteriyor. Bağışıklık sistemini kuvvetlendirerek, damar hastalıklarına iyi geliyor. Tansiyonu düzenliyor ve sindirimi kolaylaştırıyor. Yoğurdun içine konulacak sarımsakta ise bol iyot ve kükürt bulunuyor. Damar sertliğini gidermesinin yanı sıra kalbi de kuvvetlendiriyor. Vücudu zehirlerden temizliyor. Kanı sulandırarak kan dolaşımının hızlanmasına yardımcı oluyor. Yüksek kalorili bu yemeği tüketmek ciddi yağlanma kilo alma problemlerini ortaya çıkarabiliyor. Bu yüzden dikkatli olmakta fayda var.",
 			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/manti_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "71",
+			"yemek_protein_yuzde": "10",
+			"yemek_yag_yuzde": "19",
 			"yemek_porsiyonlari": {
 				"porsiyon1": "1 Tam Tabak",
 				"porsiyon2": "1 Yarım Tabak",
@@ -501,6 +534,9 @@
 			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavada_yumurta_detay.jpg",
 			"yemek_detay_aciklama": "Tavada yumurta, protein, folik asit, fosfor, demir, çinko açısından zengin bir besindir. Tavada yumurta kalorisi ve yağ içeriği açısından biraz yüksektir. Mümkünse haşlanmış yumurta tercih edilmelidir. Yumurtada, kemik erimesini önleyen ve kemiklerinizi güçlendiren kalsiyum bulunur. Ayrıca yumurtada bulunan D vitamini vücuttaki kalsiyum dengesini sağlayarak dişlerinizin de gelişmesini sağlar.",
 			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/tavada_yumurta_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "4",
+			"yemek_protein_yuzde": "21",
+			"yemek_yag_yuzde": "75",
 			"yemek_porsiyonlari": {
 				"porsiyon1": "1 Adet",
 				"porsiyon2": "1 Tabak",
@@ -545,6 +581,9 @@
 			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/haslanmis_yumurta_detay.jpg",
 			"yemek_detay_aciklama": "Haslanmış yumurta, protein, folik asit, fosfor, demir, çinko açısından zengindir. Vücudun ihtiyacı olan aminoasitleri içerir. Sağlıklı bireyler her gün et veya peynir yerine yüksek kolesterolü olanlar haftada 2-3 kez haşlanmış yumurta tüketebilir. Bağışıklık sistemini güçlendirir. Kas ve kemik gelişiminde büyük etkisi vardır. Yüksek miktarda protein içerdiğinden kaslara çok faydalıdır. İçerdiği amino asit ve vitaminler ile vücudu besler. Göz sağlığı için çok yararlıdır ve göz bozukluklarına fayda eder. İyi kolesterolü yükseltir. Kalp sağlığını korur. Hafıza problemlerine iyi gelir. Beyin sağlığı için çok faydalıdır. Vücudun demir seviyesini artırır.",
 			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/haslanmis_yumurta_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "3",
+			"yemek_protein_yuzde": "34",
+			"yemek_yag_yuzde": "64",
 			"yemek_porsiyonlari": {
 				"porsiyon1": "1 Adet",
 				"porsiyon2": "100 Gram",
@@ -590,6 +629,9 @@
 			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/makarna_detay.jpg",
 			"yemek_detay_aciklama": "Vitamin ve mineraller bakımından çok zengin ve çok yararlı bir besin kaynağıdır. Makarna A, B1, B2 vitaminleri, demir, kalsiyum, fosfor, potasyum ve protein yönünden de çok zengindir. Yağsızdır. Çok az (%1-1,5 minör yağ bileşenlerini ve yüksek oranda linoleik yağ asidi içerdiğinden kolesterolü düşürücü etkisi vardır.",
 			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/makarna_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "80",
+			"yemek_protein_yuzde": "15",
+			"yemek_yag_yuzde": "5",
 			"yemek_porsiyonlari": {
 				"porsiyon1": "1 Tam Tabak",
 				"porsiyon2": "1 Yarım Tabak",
