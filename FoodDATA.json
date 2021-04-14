@@ -6,6 +6,341 @@
 
 
 		{
+			"yemek_id": "22",
+			"yemek_adi": "Pınar Üçgen Peynir",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pinar_ucgen_peynir_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pinar_ucgen_peynir_detay.jpg",
+			"yemek_detay_aciklama": "Pınar Üçgen Peynir, kahvaltıları çeşitlendirmek için çok sık olmayacak şekilde tüketilebilir. Tüketileceği zaman 2 orta üçgen kadar tüketilmesi yeterlidir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/pinar_ucgen_peynir_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "5",
+			"yemek_protein_yuzde": "25",
+			"yemek_yag_yuzde": "70",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Adet",
+				"porsiyon2": "100 Gram",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "39",
+				"porsiyon2": "312",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 0.5",
+				"porsiyon2": "4",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "2.4",
+				"porsiyon2": " 19.2",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "3",
+				"porsiyon2": "24",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+
+
+		{
+			"yemek_id": "21",
+			"yemek_adi": "Sütaş Kaşar Peyniri",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/sutas_kasar_peyniri_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/sutas_kasar_peyniri_detay.jpg",
+			"yemek_detay_aciklama": "rnSütaş Kaşar Peynir, kalsiyum içeriği yüksek bir peynirdir. Gümlük kalsiyum ihtiyacını karşılamak için tercih edilebilir ancak yağ içeriği de yüksek bir peynir olduğu için kahvaltılarda ve tüketileceği zamanlarda 2 ince dilim tüketilmesi yeterlidir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/sutas_kasar_peyniri_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "2",
+			"yemek_protein_yuzde": "32",
+			"yemek_yag_yuzde": "66",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Dilim (İnce)",
+				"porsiyon2": "1 Dilim (Kalın)",
+				"porsiyon3": "1 Paket (250 gr)",
+				"porsiyon4": "1 Paket (8 Dilimli)",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "68",
+				"porsiyon2": "102",
+				"porsiyon3": "850",
+				"porsiyon4": "544",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 0.34",
+				"porsiyon2": " 0.51",
+				"porsiyon3": " 4.25",
+				"porsiyon4": " 2.72",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "5.4",
+				"porsiyon2": " 8.1",
+				"porsiyon3": " 67.5",
+				"porsiyon4": " 43.2",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "5",
+				"porsiyon2": " 7.5",
+				"porsiyon3": " 62.5",
+				"porsiyon4": "40",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "20",
+			"yemek_adi": "Etsiz Patates Yemeği",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/patates_yemegi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/patates_yemegi_detay.jpg",
+			"yemek_detay_aciklama": "Patatesin yüksek lif içeriği sindirimi kolaylaştırır. Lif, sindirimi destekler ve dışkıya kütle ekleyerek bağırsak düzenini destekler. Patates ayrıca ishalden hızlıca kurtulmanıza yardımcı olabilir. Patates, ishal sırasında aşırı derecede kaybedilen bir mineral olan potasyum bakımından zengindir",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/patates_yemegi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "35",
+			"yemek_protein_yuzde": "6",
+			"yemek_yag_yuzde": "59",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Yemek Kaşığı",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "444",
+				"porsiyon2": "19",
+				"porsiyon3": "193",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 38.65",
+				"porsiyon2": " 1.68",
+				"porsiyon3": " 16.8",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "6.24",
+				"porsiyon2": "0.27",
+				"porsiyon3": " 2.71",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 29.24",
+				"porsiyon2": " 1.27",
+				"porsiyon3": "12.71",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "19",
+			"yemek_adi": "Şehriye Çorbası",
+			"yemek_ogun_saati": "Öğle Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/sehriye_corbasi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/sehriye_corbasi_detay.jpg",
+			"yemek_detay_aciklama": "Hastalar için adeta şifa kaynağı olan şehriye çorbası, kış aylarında da içimizi ısıtan ve sevilen çorbalardan biridir. Arpa içerisinde bol miktarda protein, B1, B3 ve B6 vitaminleri içermesi nedeniyle oldukça besleyici olmaktadır. Arpa şehriye çorbası kalbi kuvvetlendirmeye yarayan en faydalı çorbadır.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/sehriye_corbasi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "66",
+			"yemek_protein_yuzde": "9",
+			"yemek_yag_yuzde": "25",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Kase (Orta)",
+				"porsiyon2": "1 Kase (Küçük)",
+				"porsiyon3": "1 Kepçe",
+				"porsiyon4": "1 Çorba Kaşığı",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "181",
+				"porsiyon2": "136",
+				"porsiyon3": "136",
+				"porsiyon4": "9",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "30",
+				"porsiyon2": " 22.5",
+				"porsiyon3": "22.5",
+				"porsiyon4": " 1.5",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "4",
+				"porsiyon2": "3",
+				"porsiyon3": "3",
+				"porsiyon4": "0.2",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "5",
+				"porsiyon2": " 3.75",
+				"porsiyon3": " 3.75",
+				"porsiyon4": "0.25",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "18",
+			"yemek_adi": "Beyaz Peynir",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/beyaz_peynir_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/beyaz_peynir_detay.jpg",
+			"yemek_detay_aciklama": "Peynir, hemen hemen herkes tarafından sevilen ve sabah kahvaltılarının vazgeçilmezi haline gelen bir besin olarak anılıyor. Beyaz peynir, enerji değeri bakımından oldukça yüksek ve protein, ‌B2 ve kalsiyum yönünden zengin bir süt ürünü olarak biliniyor. Peynir yağda çözünen A, ‌C, D, E ve K vitaminlerini içeriyor ve A vitamini açısından en zengin besinler arasında yer alıyor. Sağlıklı içeriğiyle her evin demirbaşı olan besin, organların sağlığı için hayati önem taşıyan ‌B6 ve ‌B12 vitaminlerini de içeriyor. Tüm bu vitaminlerin yanı sıra vücudun ihtiyacı olan ‌tiamin, ‌riboflavin, ‌niasin, ‌folat ve ‌pantotenik asit de barındırıyor. Peynir, içerdiği besinler sayesinde sağlık açısından birçok fayda sağlıyor. Kemiklerin güçlenmesinden diş sağlığının korunmasına ve kanserin önlenmesine değin birçok konuda peynir tüketimi önemli rol oynuyor.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/beyaz_peynir_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "3",
+			"yemek_protein_yuzde": "26",
+			"yemek_yag_yuzde": "70",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Dilim (Orta)",
+				"porsiyon2": "1 Dilim (Yarım)",
+				"porsiyon3": "1 Çorba Kaşığı",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "93",
+				"porsiyon2": "47",
+				"porsiyon3": "31",
+				"porsiyon4": "310",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 0.76",
+				"porsiyon2": " 0.38",
+				"porsiyon3": "0.25",
+				"porsiyon4": " 2.53",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "6.11",
+				"porsiyon2": "3.06",
+				"porsiyon3": "2.04",
+				"porsiyon4": " 20.38",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "7.29",
+				"porsiyon2": "3.65",
+				"porsiyon3": " 2.43",
+				"porsiyon4": " 24.31",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "17",
+			"yemek_adi": "Yeşil Zeytin",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/yesil_zeytin_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/yesil_zeytin_detay.jpg",
+			"yemek_detay_aciklama": "Yeşil Zeytin, yağ, içeriği yüksek bir besindir. Tuz içeriği fazla olduğundan tuz kısıtlaması olanlar tuzsuz zeytin tercih etmelidir. 8 adet yeşil zeytin 1 tatlı kaşığı yağ yerine tüketilebilir. Zeytinler, iltihabın neden olduğu oksidatif stresi azaltmaya yardımcı olduğu için, hayati organların (yani beyniniz!) dokularını zararlı ve geri dönüşü olmayan hasarlardan korurlar. Bir diğer fayda: Zeytinler, gelişmiş biliş ve bilişsel düşme riskinini azaltma ile bağlantılı bir antioksidan olan E vitamini içerir. Birincil yağ kaynağı olarak zeytinyağına dayanan diyetlerin, Alzheimer hastalığı riskini azaltmada etkili olduğu kanıtlanmıştır.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/yesil_zeytin_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "9",
+			"yemek_protein_yuzde": "3",
+			"yemek_yag_yuzde": "87",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Adet",
+				"porsiyon2": "1 Porsiyon (Orta 6 Adet)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "6",
+				"porsiyon2": "35",
+				"porsiyon3": "145",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "0.15",
+				"porsiyon2": " 0.92",
+				"porsiyon3": " 3.84",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 0.05",
+				"porsiyon2": "0.31",
+				"porsiyon3": "1.3",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 0.61",
+				"porsiyon2": " 3.68",
+				"porsiyon3": " 15.32",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "16",
+			"yemek_adi": "Siyah Zeytin",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/siyah_zeytin_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/siyah_zeytin_detay.jpg",
+			"yemek_detay_aciklama": "Zeytinler kan basıncını kontrol eder. Zeytin, meyve ve sebzelere alternatif olarak bir diyet lifi kaynağıdır. Zeytinler antioksidan görevi görür, hücreleri korur. Zeytinler Alzheimer, iyi huylu ve habis tümörler gibi dejeneratif hastalıkların etkilerini azaltır. Zeytinler, iltihabın neden olduğu oksidatif stresi azaltmaya yardımcı olduğu için, hayati organların dokularını zararlı ve geri dönüşü olmayan hasarlardan korurlar. Bir diğer fayda: Zeytinler, gelişmiş biliş ve bilişsel düşme riskinini azaltma ile bağlantılı bir antioksidan olan E vitamini içerir. Birincil yağ kaynağı olarak zeytinyağına dayanan diyetlerin, Alzheimer hastalığı riskini azaltmada etkili olduğu kanıtlanmıştır.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/siyah_zeytin_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "19",
+			"yemek_protein_yuzde": "2",
+			"yemek_yag_yuzde": "78",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Adet",
+				"porsiyon2": "1 Porsiyon (Orta 6 Adet)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "5",
+				"porsiyon2": "27",
+				"porsiyon3": "116",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "0.24",
+				"porsiyon2": "1.39",
+				"porsiyon3": "6.04",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.03",
+				"porsiyon2": "0.19",
+				"porsiyon3": "0.84",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "0.44",
+				"porsiyon2": "2.51",
+				"porsiyon3": "10.9",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
 			"yemek_id": "15",
 			"yemek_adi": "Mantar",
 			"yemek_ogun_saati": "Kahvaltı",
