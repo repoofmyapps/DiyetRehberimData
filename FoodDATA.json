@@ -1,7 +1,7 @@
 {
 	"DiyetRehberim":[	
 
-		
+
 
 		{
 			"yemek_id": "28",
@@ -247,7 +247,7 @@
 			"yemek_ogun_saati": "Kahvaltı",
 			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/susamli_simit_kucuk.jpg",
 			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/susamli_simit_detay.jpg",
-			"yemek_detay_aciklama": "Simit, lezzetli bir besin olduğu kadar aynı zamanda yararlı da bir besindir. Simidin üzerinde bulunan susamların içerisinde bulunan vitamin ve antioksidan maddeler sağlığımıza oldukça yararlıdır. Bağışıklık güçlendirici özelliği bulunmaktadır. Daha dirençli bir vücut yapısının oluşmasını sağlar. Latince ismi "Sesamum indicum" olan bitkinin olgunlaşmış tohumlarından presleme işlemi yapılarak elde edilen susam yağı, sesamolin, sesamol ve sesamin isminde antioksidan özellikli bileşikler içeriyor. Önemli miktarda A, E ve C vitamini ihtiva ediyor. Beyin ve sinir hücreleri için faydalı olan lesitin maddesi ve kansızlık (anemi) için gereken demir minerali bakımından zengin bir içeriğe sahip olan susam yağı, barsak kanserine karşı koruyucu etki gösteriyor. Susam yağı, kolesterol seviyesini korumaya ve diyabet hastalığını önlemeye yardımcı oluyor. Ancak simit gibi bol susam içeren besinlerin fazla miktarda alınması, kilo problemine yol açabiliyor. Alerjik reaksiyon geliştirmeye yatkın yapıdaki kişilerde ciltte kızarıklık, kaşıntı ve döküntü sorunlarına neden olabiliyor.",
+			"yemek_detay_aciklama": "Simit, lezzetli bir besin olduğu kadar aynı zamanda yararlı da bir besindir. Simidin üzerinde bulunan susamların içerisinde bulunan vitamin ve antioksidan maddeler sağlığımıza oldukça yararlıdır. Bağışıklık güçlendirici özelliği bulunmaktadır. Daha dirençli bir vücut yapısının oluşmasını sağlar. Latince ismi Sesamum indicum olan bitkinin olgunlaşmış tohumlarından presleme işlemi yapılarak elde edilen susam yağı, sesamolin, sesamol ve sesamin isminde antioksidan özellikli bileşikler içeriyor. Önemli miktarda A, E ve C vitamini ihtiva ediyor. Beyin ve sinir hücreleri için faydalı olan lesitin maddesi ve kansızlık (anemi) için gereken demir minerali bakımından zengin bir içeriğe sahip olan susam yağı, barsak kanserine karşı koruyucu etki gösteriyor. Susam yağı, kolesterol seviyesini korumaya ve diyabet hastalığını önlemeye yardımcı oluyor. Ancak simit gibi bol susam içeren besinlerin fazla miktarda alınması, kilo problemine yol açabiliyor. Alerjik reaksiyon geliştirmeye yatkın yapıdaki kişilerde ciltte kızarıklık, kaşıntı ve döküntü sorunlarına neden olabiliyor.",
 			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/susamli_simit_besin.PNG",
 			"yemek_karbonhidrat_yuzde": "75",
 			"yemek_protein_yuzde": "14",
