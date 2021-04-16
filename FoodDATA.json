@@ -1,10 +1,293 @@
 {
 	"DiyetRehberim":[	
 
+		
 
+		{
+			"yemek_id": "28",
+			"yemek_adi": "Yoğurt",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/yogurt_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/yogurt_detay.jpg",
+			"yemek_detay_aciklama": "Yoğurt,çok iyi bir kalsiyum kaynağı olup, aynı zamanda da her gün diyette olması gereken bir besindir. Az yağlı tercih edildiğinde iyi bir protein kaynağıdır. 1 kase yoğurt 1 süt değişimine eşit olmaktadır.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/yogurt_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "31",
+			"yemek_protein_yuzde": "23",
+			"yemek_yag_yuzde": "47",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Kase (200 gr)",
+				"porsiyon2": "1 Yemek Kaşığı",
+				"porsiyon3": "1 Su Bardağı",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "122",
+				"porsiyon2": "27",
+				"porsiyon3": "110",
+				"porsiyon4": "61",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 9.32",
+				"porsiyon2": " 2.1",
+				"porsiyon3": " 8.39",
+				"porsiyon4": " 4.66",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 6.94",
+				"porsiyon2": " 1.56",
+				"porsiyon3": "6.25",
+				"porsiyon4": " 3.47",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 6.5",
+				"porsiyon2": " 1.46",
+				"porsiyon3": "5.85",
+				"porsiyon4": " 3.25",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "27",
+			"yemek_adi": "Bezelye Yemeği",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/bezelye_yemegi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/bezelye_yemegi_detay.jpg",
+			"yemek_detay_aciklama": "Besin içeriği açısından bezelye, A vitamini, C vitamini, demir, potasyum, diyet lifi, magnezyum, folik asit ve küçük sağlıklı yağlar ile doludur. Bezelyede bol miktarda bulunan kumarestrol adı verilen koruyucu polifenolün özellikle mide kanseri gibi korkunç hastalıkları önlediği bilinmektedir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/bezelye_yemegi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "66",
+			"yemek_protein_yuzde": "18",
+			"yemek_yag_yuzde": "16",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "100 Gram",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "235",
+				"porsiyon2": "66",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "39.95",
+				"porsiyon2": " 11.21",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 10.96",
+				"porsiyon2": " 3.07",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 4.26",
+				"porsiyon2": " 1.2",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "26",
+			"yemek_adi": "Bezelye Çorbası",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/bezelye_corbasi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/bezelye_corbasi_detay.jpg",
+			"yemek_detay_aciklama": "Bezelye Çorbası, hem nişastalı sebze olan bezleye hem de un içeriği nedeni ile karbonhidrat içeriği yüksek bir çorbadır. Şeker hastaları çok sık tercih etmemelidirler.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/bezelye_corbasi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "38",
+			"yemek_protein_yuzde": "14",
+			"yemek_yag_yuzde": "48",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Kase (Orta)",
+				"porsiyon2": "1 Kepçe",
+				"porsiyon3": "1 Çorba Kaşığı",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "41",
+				"porsiyon2": "31",
+				"porsiyon3": "2",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 4.09",
+				"porsiyon2": " 3.06",
+				"porsiyon3": " 0.2",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 1.4",
+				"porsiyon2": " 1.05",
+				"porsiyon3": " 0.07",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 2.14",
+				"porsiyon2": " 1.6",
+				"porsiyon3": " 0.11",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
 
+		{
+			"yemek_id": "25",
+			"yemek_adi": "Taze Bezelye (Pişmiş)",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/taze_bezelye_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/taze_bezelye_detay.jpg",
+			"yemek_detay_aciklama": "Zengin bir protein kaynağı olmasıyla öne çıkan bezelye, vejetaryen ve vegan beslenenler başta olmak üzere herkes için oldukça önemli bir besin. Baklagiller familyasından olan bezelyenin ağırlıklı olarak yeşil taneleri tüketiliyor. Bu taneler sadece protein değil, pek çok vitamin ve mineral de içeriyor. 100 gram taze bezelyede 12.59 gram karbonhidrat, 0.49 gram yağ, 84 kalori, 6.71 gram protein, 5.29 gram lif, 27 miligram kalsiyum, 74 miligram A vitamini, 1.78 miligram demir, 15.64 miligram C vitamini, 2 miligram sodyum ve 259 miligram potasyum var. Lif açısından zengin olan bezelye, sağlıklı beslenme içerisinde özel bir yere sahip.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/taze_bezelye_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "73",
+			"yemek_protein_yuzde": "24",
+			"yemek_yag_yuzde": "2",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Su Bardağı",
+				"porsiyon2": "1 Yemek Kaşığı",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "126",
+				"porsiyon2": "13",
+				"porsiyon3": "84",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 23.45",
+				"porsiyon2": "2.34",
+				"porsiyon3": "15.63",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "8.04",
+				"porsiyon2": " 0.8",
+				"porsiyon3": " 5.36",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 0.33",
+				"porsiyon2": "0.03",
+				"porsiyon3": " 0.22",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
 
+		{
+			"yemek_id": "24",
+			"yemek_adi": "Poğaça",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pogaca_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pogaca_detay.jpg",
+			"yemek_detay_aciklama": "Poğaça diğer besinlere göre daha az vitamin, mineral ve lif içerir. Bu duruma rağmen poğaçanın faydaları şu şekildedir; Hazmı kolaylaştırır.Vücutta oluşan alerjileri engeller.Enerji verir.Kan şekerini düşürür.İdrar söktürür. Hormon seviyesini dengeler.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/pogaca_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "37",
+			"yemek_protein_yuzde": "8",
+			"yemek_yag_yuzde": "55",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Adet (Orta)",
+				"porsiyon2": "1 Porsiyon (Orta)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "243",
+				"porsiyon2": "225",
+				"porsiyon3": "347",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 22.33",
+				"porsiyon2": " 20.74",
+				"porsiyon3": " 31.9",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 4.91",
+				"porsiyon2": "4.55",
+				"porsiyon3": " 7.01",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 14.74",
+				"porsiyon2": " 13.69",
+				"porsiyon3": " 21.06",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
 
+		{
+			"yemek_id": "23",
+			"yemek_adi": "Susamlı Simit",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/susamli_simit_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/susamli_simit_detay.jpg",
+			"yemek_detay_aciklama": "Simit, lezzetli bir besin olduğu kadar aynı zamanda yararlı da bir besindir. Simidin üzerinde bulunan susamların içerisinde bulunan vitamin ve antioksidan maddeler sağlığımıza oldukça yararlıdır. Bağışıklık güçlendirici özelliği bulunmaktadır. Daha dirençli bir vücut yapısının oluşmasını sağlar. Latince ismi "Sesamum indicum" olan bitkinin olgunlaşmış tohumlarından presleme işlemi yapılarak elde edilen susam yağı, sesamolin, sesamol ve sesamin isminde antioksidan özellikli bileşikler içeriyor. Önemli miktarda A, E ve C vitamini ihtiva ediyor. Beyin ve sinir hücreleri için faydalı olan lesitin maddesi ve kansızlık (anemi) için gereken demir minerali bakımından zengin bir içeriğe sahip olan susam yağı, barsak kanserine karşı koruyucu etki gösteriyor. Susam yağı, kolesterol seviyesini korumaya ve diyabet hastalığını önlemeye yardımcı oluyor. Ancak simit gibi bol susam içeren besinlerin fazla miktarda alınması, kilo problemine yol açabiliyor. Alerjik reaksiyon geliştirmeye yatkın yapıdaki kişilerde ciltte kızarıklık, kaşıntı ve döküntü sorunlarına neden olabiliyor.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/susamli_simit_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "75",
+			"yemek_protein_yuzde": "14",
+			"yemek_yag_yuzde": "11",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Adet (Orta) (100 gr)",
+				"porsiyon2": "1 Adet (Yarım)",
+				"porsiyon3": "1 Adet (Çeyrek)",
+				"porsiyon4": "1 Adet (Büyük)",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "275",
+				"porsiyon2": "138",
+				"porsiyon3": "69",
+				"porsiyon4": "413",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 57.14",
+				"porsiyon2": "28.57",
+				"porsiyon3": " 14.29",
+				"porsiyon4": " 85.71",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 10.71",
+				"porsiyon2": " 5.36",
+				"porsiyon3": "2.68",
+				"porsiyon4": " 16.07",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "3.57",
+				"porsiyon2": " 1.79",
+				"porsiyon3": " 0.89",
+				"porsiyon4": " 5.36",
+				"porsiyon5": "null"
+			}
+		},
 		{
 			"yemek_id": "22",
 			"yemek_adi": "Pınar Üçgen Peynir",
