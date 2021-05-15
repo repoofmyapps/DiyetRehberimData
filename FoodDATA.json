@@ -1,11 +1,58 @@
 {
-	"DiyetRehberim":[	
+	"DiyetRehberim":[
 
 
 
 
+		
 
-
+		{
+			"yemek_id": "29",
+			"yemek_adi": "Baklava",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/baklava_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/baklava_detay.jpg",
+			"yemek_detay_aciklama": "Birçok insanın severek yediği tatlıların başında gelen baklava, şerbetli tatlılar arasında öne çıkıyor. Ancak şeker ve karbonhidrat oranı yüksek olan bu tatlıyı tüketirken dikkatli olmak gerekiyor. Evinizdeki malzemeler ile de kolaylıkla yapabileceğiniz baklava, özellikle bayram sofralarının vazgeçilmezi.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/baklava_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "47",
+			"yemek_protein_yuzde": "7",
+			"yemek_yag_yuzde": "46",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Adet",
+				"porsiyon2": "1 Porsiyon (Orta)",
+				"porsiyon3": "1 Adet (Yarım)",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "165",
+				"porsiyon2": "659",
+				"porsiyon3": "82",
+				"porsiyon4": "412",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 19.74",
+				"porsiyon2": " 78.97",
+				"porsiyon3": " 9.87",
+				"porsiyon4": "49.36",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "3.09",
+				"porsiyon2": " 12.36",
+				"porsiyon3": " 1.55",
+				"porsiyon4": " 7.73",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 8.59",
+				"porsiyon2": " 34.36",
+				"porsiyon3": " 4.3",
+				"porsiyon4": "21.48",
+				"porsiyon5": "null"
+			}
+		},
 		{
 			"yemek_id": "28",
 			"yemek_adi": "Yoğurt",
