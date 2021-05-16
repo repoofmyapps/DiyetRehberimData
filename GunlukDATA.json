@@ -1,12 +1,6 @@
 {
 	"DiyetRehberim": [
 		{
-			"diyet_id": "8",
-			"resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/bayramv3.jpg",
-			"title": "",
-			"desc": ""
-		},
-		{
 			"diyet_id": "7",
 			"resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/hurma.jpg",
 			"title": "HURMA",
