@@ -1,8 +1,288 @@
 {
 	"DiyetRehberim":[
 
-
-
+		{
+			"yemek_id": "44",
+			"yemek_adi": "Süt (Yağsız)",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/sut_yagsiz_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/sut_yagsiz_buyuk.jpg",
+			"yemek_detay_aciklama": "Büyümeyi ve gelişmeyi sağlayan süt, vücuda güç verir ve kemikleri sağlamlaştırır ve kemik erimesini önlemeye yardımcıdır. Mikropların neden olduğu enfeksiyonlara karşı vücuda direnç verir. Cildin yıpranmasını ve yaşlanmasını engeller. Beyin için oldukça faydalıdır ve beynin ihtiyacı olan enerjiyi sağlar. Vücudumuzda ödeme neden olan sıvıların toplanmasını engeller. İshalin geçmesinde faydalıdır. Mide rahatsızlıklarına çok iyi gelir. Saçın uzamasında önemli bir etkisi vardır. Tırnakların sağlam bir şekilde uzaması için faydalıdır. Diş çürümelerine oldukça iyi gelir. Kasların güçlenmesinde faydalıdır.rn",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/sut_yagsiz_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "65",
+			"yemek_protein_yuzde": "32",
+			"yemek_yag_yuzde": "3",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Su Bardağı",
+				"porsiyon2": "1 Yarım Su Bardağı",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "68",
+				"porsiyon2": "34",
+				"porsiyon3": "34",
+				"porsiyon4": "3",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "11.04",
+				"porsiyon2": "5.52",
+				"porsiyon3": "5.52",
+				"porsiyon4": "0.55",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "5.62",
+				"porsiyon2": "2.81",
+				"porsiyon3": "2.81",
+				"porsiyon4": " 0.28",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "0.22",
+				"porsiyon2": "0.11",
+				"porsiyon3": "0.11",
+				"porsiyon4": " 0.01",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "43",
+			"yemek_adi": "Süt",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/sut_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/sut_buyuk.jpg",
+			"yemek_detay_aciklama": "Büyümeyi ve gelişmeyi sağlayan süt, vücuda güç verir ve kemikleri sağlamlaştırır ve kemik erimesini önlemeye yardımcıdır. Mikropların neden olduğu enfeksiyonlara karşı vücuda direnç verir. Cildin yıpranmasını ve yaşlanmasını engeller. Beyin için oldukça faydalıdır ve beynin ihtiyacı olan enerjiyi sağlar. Vücudumuzda ödeme neden olan sıvıların toplanmasını engeller. İshalin geçmesinde faydalıdır. Mide rahatsızlıklarına çok iyi gelir. Saçın uzamasında önemli bir etkisi vardır. Tırnakların sağlam bir şekilde uzaması için faydalıdır. Diş çürümelerine oldukça iyi gelir. Kasların güçlenmesinde faydalıdır.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/sut_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "31",
+			"yemek_protein_yuzde": "21",
+			"yemek_yag_yuzde": "48",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Su Bardağı",
+				"porsiyon2": "1 Yarım Su Bardağı",
+				"porsiyon3": "1 Fincan",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "122",
+				"porsiyon2": "73",
+				"porsiyon3": "46",
+				"porsiyon4": "61",
+				"porsiyon5": "6"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 9.4",
+				"porsiyon2": "5.64",
+				"porsiyon3": " 3.53",
+				"porsiyon4": " 4.7",
+				"porsiyon5": "0.47"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 6.6",
+				"porsiyon2": "3.96",
+				"porsiyon3": "2.48",
+				"porsiyon4": "3.3",
+				"porsiyon5": "0.33"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 6.6",
+				"porsiyon2": "3.96",
+				"porsiyon3": "2.48",
+				"porsiyon4": "3.3",
+				"porsiyon5": "0.33"
+			}
+		},
+		{
+			"yemek_id": "42",
+			"yemek_adi": "Marul",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/marul_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/marul_buyuk.jpg",
+			"yemek_detay_aciklama": "Dünyanın hemen her yerinde çiğ olarak salatalarda kullanılan, herkesin severek tükettiği marul vitamin ve mineral bakımından oldukça zengin bir besin. İçeriğinde A, B, C, D, E vitaminleri ile bakır, çinko, demir, fosfor, iyot, kalsiyum, sodyum mineralleri bulunduruyor. Güçlü bir lif ve antioksidan kaynağı olan marul, saç ve cilt hastalıklarından kalp sağlığına kadar birçok açıdan faydalıdır. Kolesterol seviyelerini düşürür. Cilt hücrelerini yeniler. Anti-kanser potansiyeli. Diyabet riskini azaltır. Görmeyi geliştirir. Sindirim sağlığını destekler.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/marul_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "54",
+			"yemek_protein_yuzde": "32",
+			"yemek_yag_yuzde": "15",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Demet",
+				"porsiyon2": "1 Tam (Orta)",
+				"porsiyon3": "1 Parça (Küçük)",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "16",
+				"porsiyon2": "80",
+				"porsiyon3": "8",
+				"porsiyon4": "16",
+				"porsiyon5": "2"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 1.7",
+				"porsiyon2": "8.5",
+				"porsiyon3": " 0.85",
+				"porsiyon4": " 1.7",
+				"porsiyon5": " 0.17"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 0.9",
+				"porsiyon2": "4.5",
+				"porsiyon3": " 0.45",
+				"porsiyon4": " 0.9",
+				"porsiyon5": " 0.09"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 0.2",
+				"porsiyon2": " 1",
+				"porsiyon3": " 0.1",
+				"porsiyon4": " 0.2",
+				"porsiyon5": " 0.02"
+			}
+		},
+		{
+			"yemek_id": "41",
+			"yemek_adi": "Brokoli",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/brokoli_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/brokoli_buyuk.jpg",
+			"yemek_detay_aciklama": "Sağlık açısından oldukça yararlı olan brokoli kanser, diyabet, kalp ve sindirim sistemine ilişkin ciddi hastalıkların önüne geçilmesinde, bağışıklık sistemini güçlendirmede ve yaşlanmayı geciktirmede etkili olan antioksidanlar bakımından çok zengin olan bu sebze, vücudun toksinlerden arınmasına yardımcı oluyor. Aynı zamanda içerdiği beta-karotenler sayesinde de mide, yemek borusu ve bağırsak kanserlerinin önlenmesine destek oluyor. Düzenli tüketildiğinde vücutta demir ve mineral eksikliğini gideriyor, vücudun pH seviyesini dengeleyerek cildin canlı ve sağlıklı kalmasına yardımcı oluyor. K ve C vitamini, kalsiyum, magnezyum, çinko ve fosfor açısından da oldukça zengin olan brokolinin bir tutamı günlük kalsiyum ihtiyacının yarısından fazlasını karşılamaya yetiyor. Bu yönüyle kemik ve diş sağlığının gelişmesinde de etki gösteriyor. İçerisinde bulunan krom sayesinde kan şekerini düzenliyor, sağlıklı insülin salınımına katkı sağlıyor. Tüm bunların yanı sıra folik asit içeriğinden ötürü özellikle hamilelik ve emziklilik dönemlerinde tüketilmesi tavsiye ediliyor.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/brokoli_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "40",
+			"yemek_protein_yuzde": "52",
+			"yemek_yag_yuzde": "8",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Kase (Orta)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "39",
+				"porsiyon2": "26",
+				"porsiyon3": "26",
+				"porsiyon4": "3",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "3.77",
+				"porsiyon2": "2.51",
+				"porsiyon3": "2.51",
+				"porsiyon4": " 0.25",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "4.95",
+				"porsiyon2": " 3.3",
+				"porsiyon3": " 3.3",
+				"porsiyon4": " 0.33",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 0.3",
+				"porsiyon2": " 0.2",
+				"porsiyon3": " 0.2",
+				"porsiyon4": " 0.02",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "40",
+			"yemek_adi": "Ceviz",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/ceviz_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/ceviz_buyuk.jpg",
+			"yemek_detay_aciklama": "Düzenli tüketildiğinde cevizin faydaları artar ve bağışıklık sistemini güçlendirir. Cildin uzun süre parlamasını sağlar ve ciltte kırışıklık oluşumunu engeller. Ceviz tüketimi kandaki melatonin seviyesini yükseltir ve uykuya neden olur. Bu nedenle uyku gelişimine katkı sağlar.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/ceviz_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "6",
+			"yemek_protein_yuzde": "14",
+			"yemek_yag_yuzde": "80",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Adet (Orta)",
+				"porsiyon2": "1 Adet (Yarım)",
+				"porsiyon3": "1 Çay Bardağı",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "31",
+				"porsiyon2": "12",
+				"porsiyon3": "619",
+				"porsiyon4": "619",
+				"porsiyon5": "62"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "0.48",
+				"porsiyon2": " 0.19",
+				"porsiyon3": " 9.58",
+				"porsiyon4": " 9.58",
+				"porsiyon5": "0.96"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 1.2",
+				"porsiyon2": " 0.48",
+				"porsiyon3": " 24.06",
+				"porsiyon4": " 24.06",
+				"porsiyon5": " 2.41"
+			},
+			"yemek_yag": {
+				"porsiyon1": "2.97",
+				"porsiyon2": " 1.19",
+				"porsiyon3": " 59.33",
+				"porsiyon4": " 59.33",
+				"porsiyon5": " 5.93"
+			}
+		},
+		{
+			"yemek_id": "39",
+			"yemek_adi": "Domates",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/domates_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/domates_buyuk.jpg",
+			"yemek_detay_aciklama": "Yararları saymakla bitmeyen domates diyabet, cilt problemleri ve idrar yolu enfeksiyonlarından da rahatlama sağlar, ayrıca, sindirimi artırır, kan dolaşımını uyarır, kolesterol seviyelerini azaltır, sıvı dengesini artırır, böbrekleri korur, vücudu detoksifiye eder, erken yaşlanmayı önler ve iltihabı azaltır.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/domates_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "73",
+			"yemek_protein_yuzde": "18",
+			"yemek_yag_yuzde": "9",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Adet (Orta)",
+				"porsiyon2": "1 Adet (Yarım)",
+				"porsiyon3": "1 Çeyrek",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "20",
+				"porsiyon2": "10",
+				"porsiyon3": "5",
+				"porsiyon4": "18",
+				"porsiyon5": "2"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 4.28",
+				"porsiyon2": " 2.14",
+				"porsiyon3": " 0.97",
+				"porsiyon4": " 3.89",
+				"porsiyon5": " 0.39"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 0.97",
+				"porsiyon2": " 0.48",
+				"porsiyon3": " 0.22",
+				"porsiyon4": " 0.88",
+				"porsiyon5": " 0.09"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 0.22",
+				"porsiyon2": " 0.11",
+				"porsiyon3": " 0.05",
+				"porsiyon4": " 0.2",
+				"porsiyon5": " 0.02"
+			}
+		},
 		{
 			"yemek_id": "38",
 			"yemek_adi": "Lifalif Yulaf Ezmesi",
