@@ -4,6 +4,384 @@
 
 
 
+
+
+		{
+			"yemek_id": "61",
+			"yemek_adi": "Karpuz",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/karpuz_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/karpuz_buyuk.jpg",
+			"yemek_detay_aciklama": "Karpuz A, C vitamini, potasyum minerali yüksek, lif içeriği düşük bir meyvedir. Diyet yaparken tüketilecek karpuz miktarına dikkat edilmelidir. Çünkü kalorisinin büyük bir kısmı karbonhidrattan gelir ve kan şekerini fazla yükseltebilir. Çok iyi bir lif kaynağı olarak bilinen karpuzun mideye faydaları çoktur. İçerisindeki lif mide ve bağırsak sistemini düzenler. Kabızlık ve hazımsızlık gibi sorunları önler. Likopen içeren karpuz, kansere yol açan doku hasarlarını önlemede önemli bir rol oynamaktadır.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/karpuz_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "91",
+			"yemek_protein_yuzde": "6",
+			"yemek_yag_yuzde": "3",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Dilim (Orta)",
+				"porsiyon3": "1 Küçük Üçgen",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "45",
+				"porsiyon2": "105",
+				"porsiyon3": "15",
+				"porsiyon4": "30",
+				"porsiyon5": "3"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "11.33",
+				"porsiyon2": "26.43",
+				"porsiyon3": "3.78",
+				"porsiyon4": "7.55",
+				"porsiyon5": "0.76"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.92",
+				"porsiyon2": "2.13",
+				"porsiyon3": "3.78",
+				"porsiyon4": "0.61",
+				"porsiyon5": "0.06"
+			},
+			"yemek_yag": {
+				"porsiyon1": "0.23",
+				"porsiyon2": "0.53",
+				"porsiyon3": "0.08",
+				"porsiyon4": "0.15",
+				"porsiyon5": "0.02"
+			}
+		},		
+		{
+			"yemek_id": "60",
+			"yemek_adi": "Bamya Çorbası",
+			"yemek_ogun_saati": "Öğle Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/bamya_corbasi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/bamya_corbasi_buyuk.jpg",
+			"yemek_detay_aciklama": "Bamya Çorbası, lif içeriği yüksek bir çorbadır. Diyet yaparken tüketilmesinde bir sakınca yoktur. 1 kepçe bamya çorbasını 3 yemek kaşığı sebze yemeği yerine tüketebilirsiniz. Yüksek vitamin ve mineral içeriğine sahiptir. Bamya tohumunda B grubu vitaminleri ile kalsiyum, demir ve çinko gibi mineraller bol miktarda yer alır. Enfeksiyonlara karşı koruyucu etki sağlar. Kansere karşı korur. Sindirim sistemini düzenler. Bilişsel fonksiyonları iyileştirir. Kilo vermeye yardımcıdır.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/bamya_corbasi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "41",
+			"yemek_protein_yuzde": "12",
+			"yemek_yag_yuzde": "47",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Kase (Orta)",
+				"porsiyon3": "1 Kepçe",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "45",
+				"porsiyon2": "45",
+				"porsiyon3": "22",
+				"porsiyon4": "17",
+				"porsiyon5": "2"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "4.42",
+				"porsiyon2": "4.42",
+				"porsiyon3": "2.13",
+				"porsiyon4": "1.64",
+				"porsiyon5": "0.16"
+			},
+			"yemek_protein": {
+				"porsiyon1": "1.25",
+				"porsiyon2": "1.25",
+				"porsiyon3": "0.6",
+				"porsiyon4": "0.46",
+				"porsiyon5": "0.05"
+			},
+			"yemek_yag": {
+				"porsiyon1": "2.3",
+				"porsiyon2": "2.3",
+				"porsiyon3": "1.11",
+				"porsiyon4": "0.85",
+				"porsiyon5": "0.09"
+			}
+		},
+		{
+			"yemek_id": "59",
+			"yemek_adi": "Tavuk Baget (Derisiz)",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_baget_(derisiz)_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_baget_(derisiz)_buyuk.jpg",
+			"yemek_detay_aciklama": "Tavuk eti, protein, potasyum, fosfor, demir, çinko açısından zengindir. Derisiz olarak, haşlama, fırın ya da ızgara pişirme yöntemleriyle tüketilmesi önerilir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/tavuk_baget_(derisiz)_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "0",
+			"yemek_protein_yuzde": "67",
+			"yemek_yag_yuzde": "33",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Adet (Büyük)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "106",
+				"porsiyon2": "156",
+				"porsiyon3": "120",
+				"porsiyon4": "12",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "0",
+				"porsiyon2": "0",
+				"porsiyon3": "0",
+				"porsiyon4": "0",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "16.86",
+				"porsiyon2": "24.91",
+				"porsiyon3": "19.16",
+				"porsiyon4": "1.92",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "3.71",
+				"porsiyon2": "5.49",
+				"porsiyon3": "4.22",
+				"porsiyon4": "0.42",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "58",
+			"yemek_adi": "Tavuk Baget (Derili)",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_baget_(derili)_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_baget_(derili)_buyuk.jpg",
+			"yemek_detay_aciklama": "Tavuk eti, protein, potasyum, fosfor, demir, çinko açısından zengindir. Ancak kolesterol içeriği yüksektir. Derili tüketimi tüketilecek yağ ve kalori miktarını artırır bu nedenle tüketiminden kaçınılmalıdır.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/tavuk_baget_(derili)_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "0",
+			"yemek_protein_yuzde": "31",
+			"yemek_yag_yuzde": "69",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Adet (Orta)",
+				"porsiyon3": "1 Adet (Küçük)",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "238",
+				"porsiyon2": "161",
+				"porsiyon3": "107",
+				"porsiyon4": "214",
+				"porsiyon5": "21"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "0.19",
+				"porsiyon2": "0.13",
+				"porsiyon3": "0.09",
+				"porsiyon4": "0.17",
+				"porsiyon5": "0.02"
+			},
+			"yemek_protein": {
+				"porsiyon1": "18.17",
+				"porsiyon2": "12.28",
+				"porsiyon3": "8.19",
+				"porsiyon4": "16.37",
+				"porsiyon5": "1.64"
+			},
+			"yemek_yag": {
+				"porsiyon1": "17.7",
+				"porsiyon2": "11.96",
+				"porsiyon3": "7.98",
+				"porsiyon4": "15.95",
+				"porsiyon5": "1.6"
+			}
+		},
+		{
+			"yemek_id": "57",
+			"yemek_adi": "Tavuk Sote",
+			"yemek_ogun_saati": "Öğle Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_sote_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_sote_buyuk.jpg",
+			"yemek_detay_aciklama": "Tavuk Sote, tavuk eti, domates, biber gibi malzemeler kullanılarak yapılır. Protein, C vitamini, folik asit, potasyum, fosfor ve lif açısından zengin bir yemektir. Sote yapımında yağ miktarına dikkat edildiği takdirde öğünlerde tüketilebilir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/tavuk_sote_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "11",
+			"yemek_protein_yuzde": "41",
+			"yemek_yag_yuzde": "48",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Çorba Kaşığı",
+				"porsiyon3": "1 Büyük Çorba Kaşığı",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "288",
+				"porsiyon2": "51",
+				"porsiyon3": "59",
+				"porsiyon4": "169",
+				"porsiyon5": "17"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "7.67",
+				"porsiyon2": "1.35",
+				"porsiyon3": "1.58",
+				"porsiyon4": "4.51",
+				"porsiyon5": "0.45"
+			},
+			"yemek_protein": {
+				"porsiyon1": "28.46",
+				"porsiyon2": "5.02",
+				"porsiyon3": "5.86",
+				"porsiyon4": "16.74",
+				"porsiyon5": "1.67"
+			},
+			"yemek_yag": {
+				"porsiyon1": "15.2",
+				"porsiyon2": "2.68",
+				"porsiyon3": "3.13",
+				"porsiyon4": "8.94",
+				"porsiyon5": "0.89"
+			}
+		},
+		{
+			"yemek_id": "56",
+			"yemek_adi": "Limonata",
+			"yemek_ogun_saati": "İçecek",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/limonata_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/limonata_buyuk.jpg",
+			"yemek_detay_aciklama": "Limonata, ev yapımı olduğu için özellikle sıcak havada asitli içecek ve meyve suyu yerine tercih edilebilir. Hazırlanırken kullanılan şeker miktarına dikkat edilmelidir. Limonata tüketileceği zaman, 1 su bardağı kadar tüketilmesi yeterlidir. Hatırlatma: 1 Bardak 200ml, 1 Fincan 150ml, 1 Su Bardağı 250ml",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/limonata_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "97",
+			"yemek_protein_yuzde": "0",
+			"yemek_yag_yuzde": "3",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Bardak",
+				"porsiyon2": "1 Fincan",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "73",
+				"porsiyon2": "55",
+				"porsiyon3": "37",
+				"porsiyon4": "4",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "14.69",
+				"porsiyon2": "11.02",
+				"porsiyon3": "7.34",
+				"porsiyon4": "0.73",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.24",
+				"porsiyon2": "0.18",
+				"porsiyon3": "0.12",
+				"porsiyon4": "0.01",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "0.2",
+				"porsiyon2": "0.15",
+				"porsiyon3": "0.1",
+				"porsiyon4": "0.01",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "55",
+			"yemek_adi": "Nescafe 2'si 1 Arada",
+			"yemek_ogun_saati": "İçecek",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/nescafe_2si1_arada_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/nescafe_2si1_arada_buyuk.jpg",
+			"yemek_detay_aciklama": "Nescafe 2'si 1 Arada (11gr), şekersiz olduğu için 3'ü 1 aradalara göre rahat tüketilir. Hatırlatma: 1 Bardak 200ml, 1 Fincan 150ml, 1 Su Bardağı 250ml",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/nescafe_2si1_arada_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "57",
+			"yemek_protein_yuzde": "5",
+			"yemek_yag_yuzde": "39",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Bardak",
+				"porsiyon2": "1 Fincan",
+				"porsiyon3": "1 Su Bardağı",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "50",
+				"porsiyon2": "50",
+				"porsiyon3": "50",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "6.9",
+				"porsiyon2": "6.9",
+				"porsiyon3": "6.9",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.6",
+				"porsiyon2": "0.6",
+				"porsiyon3": "0.6",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "2.09",
+				"porsiyon2": "2.09",
+				"porsiyon3": "2.09",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "54",
+			"yemek_adi": "Nescafe 3'ü 1 Arada",
+			"yemek_ogun_saati": "İçecek",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/nescafe_3u1_arada_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/nescafe_3u1_arada_buyuk.jpg",
+			"yemek_detay_aciklama": "Nescafe 3'ü 1 Arada (18.5gr) kahve, süt tozu, şekerden oluşan ve sıcak tüketilen bir hazır kahve çeşididir. Hatırlatma: 1 Bardak 200ml, 1 Fincan 150ml, 1 Su Bardağı 250ml",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/nescafe_3u1_arada_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "76",
+			"yemek_protein_yuzde": "3",
+			"yemek_yag_yuzde": "21",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Bardak",
+				"porsiyon2": "1 Fincan",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "81",
+				"porsiyon2": "81",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "15.19",
+				"porsiyon2": "15.19",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.5",
+				"porsiyon2": "0.5",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "1.89",
+				"porsiyon2": "1.89",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
 		{
 			"yemek_id": "53",
 			"yemek_adi": "Tavuk Çorbası",
