@@ -2714,36 +2714,36 @@
 				"porsiyon1": "1 Adet",
 				"porsiyon2": "1 Tabak",
 				"porsiyon3": "100 Gram",
-				"porsiyon4": "",
-				"porsiyon5": ""
+				"porsiyon4": "null",
+				"porsiyon5": "null"
 			},
 			"yemek_kcal": {
 				"porsiyon1": "122",
 				"porsiyon2": "331",
 				"porsiyon3": "242",
-				"porsiyon4": "",
-				"porsiyon5": ""
+				"porsiyon4": "null",
+				"porsiyon5": "null"
 			},
 			"yemek_karbonhidrat": {
 				"porsiyon1": "1.04",
 				"porsiyon2": "2.84",
 				"porsiyon3": "1.89",
-				"porsiyon4": "",
-				"porsiyon5": ""
+				"porsiyon4": "null",
+				"porsiyon5": "null"
 			},
 			"yemek_protein": {
 				"porsiyon1": "6.4",
 				"porsiyon2": "17.45",
 				"porsiyon3": "11.63",
-				"porsiyon4": "",
-				"porsiyon5": ""
+				"porsiyon4": "null",
+				"porsiyon5": "null"
 			},
 			"yemek_yag": {
 				"porsiyon1": "10.34",
 				"porsiyon2": "28.19",
 				"porsiyon3": "18.8",
-				"porsiyon4": "",
-				"porsiyon5": ""
+				"porsiyon4": "null",
+				"porsiyon5": "null"
 			}
 		},
 		{
