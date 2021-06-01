@@ -1,16 +1,6 @@
 {
 	"DiyetRehberim": [
 		{
-			"id": "10",
-			"image": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/sabir.jpg",
-			"title": "null",
-			"desc": "null",
-			"tag": "explanation",
-			"related": "both",
-			"content":"link",
-			"url":"www.google.com"
-		},
-		{
 			"id": "9",
 			"image": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/sabir.jpg",
 			"title": "null",
@@ -28,7 +18,7 @@
 			"tag": "explanation",
 			"related": "both",
 			"content":"link",
-			"url":"https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/sabir.jpg"
+			"url":"null"
 		},
 		{
 			"id": "7",
