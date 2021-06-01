@@ -3,8 +3,8 @@
 		{
 			"id": "8",
 			"image": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/sabir.jpg",
-			"title": "",
-			"desc": "",
+			"title": "null",
+			"desc": "null",
 			"tag": "explanation",
 			"related": "both",
 			"content":"mail"
@@ -12,8 +12,8 @@
 		{
 			"id": "8",
 			"image": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/sabir.jpg",
-			"title": "",
-			"desc": "",
+			"title": "null",
+			"desc": "null",
 			"tag": "explanation",
 			"related": "both",
 			"content":"link"
