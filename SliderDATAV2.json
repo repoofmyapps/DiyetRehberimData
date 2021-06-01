@@ -7,7 +7,8 @@
 			"desc": "null",
 			"tag": "explanation",
 			"related": "both",
-			"content":"mail"
+			"content":"mail",
+			"url":"https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/sabir.jpg"
 		},
 		{
 			"id": "8",
@@ -16,7 +17,8 @@
 			"desc": "null",
 			"tag": "explanation",
 			"related": "both",
-			"content":"link"
+			"content":"link",
+			"url":"null"
 		},
 		{
 			"id": "7",
@@ -25,8 +27,8 @@
 			"desc": "KANSERE KARŞI KORUYUCU ETKİ GÖSTERİR.\nBAĞIŞIKLIK SİSTEMİNİ GÜÇLENDİRİR.\nKANSIZLIĞA İYİ GELİR.",
 			"tag": "content",
 			"related": "both",
-			"content":"link"
-
+			"content":"link",
+			"url":"null"
 		},
 		{
 			"id": "6",
@@ -35,7 +37,8 @@
 			"desc": "LİF, PROTEİN VE MİNERAL DEPOSUDUR.\nKİLO VERMEYE YARDIMCIDIR.",
 			"tag": "content",
 			"related": "both",
-			"content":"link"
+			"content":"link",
+			"url":"null"
 		},
 		{
 			"id": "5",
@@ -44,7 +47,8 @@
 			"desc": "BAĞIŞIKLIK SİSTEMİNİ GÜÇLENDİRİR.\nHER YUMURTA 6-12 GR ARASI PROTEİN İÇERİR.",
 			"tag": "content",
 			"related": "both",
-			"content":"link"
+			"content":"link",
+			"url":"null"
 		},
 		{
 			"id": "4",
@@ -53,7 +57,8 @@
 			"desc": "PROTEİN VE YAĞ AÇISINDAN ÖNEMLİ BİR KAYNAKTIR.\nAYRICA GÜÇLÜ BİR ANTİOKSİDANDIR.",
 			"tag": "content",
 			"related": "both",
-			"content":"link"
+			"content":"link",
+			"url":"null"
 		},
 		{
 			"id": "3",
@@ -80,7 +85,8 @@
 			"desc": "DEMİR, İYOT, POTASYUM, ÇİNKO VE KALSİYUM AÇISINDAN OLDUKÇA ZENGİNDİR.",
 			"tag": "content",
 			"related": "both",
-			"content":"link"
+			"content":"link",
+			"url":"null"
 		}
 	]
 }
