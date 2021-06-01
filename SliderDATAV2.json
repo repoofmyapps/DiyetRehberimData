@@ -77,7 +77,8 @@
 			"desc": "METABOLİZMANIZI HIZLANDIRIR.\nYAĞ YAKIMINA YARDIMCI OLUR.\nHAFIZANIZI GÜÇLENDİRİR.",
 			"tag": "content",
 			"related": "both",
-			"content":"link"
+			"content":"link",
+			"url":"null"
 		},
 		{
 			"id": "2",
@@ -86,7 +87,8 @@
 			"desc": "BAĞIRSAK PROBLEMLERİNİZ İÇİN SAĞLIKLI VE BESLEYİCİ BİR MEYVE TÜRÜDÜR.",
 			"tag": "content",
 			"related": "both",
-			"content":"link"
+			"content":"link",
+			"url":"null"
 		},
 		{
 			"id": "1",
