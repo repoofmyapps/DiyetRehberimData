@@ -2,8 +2,100 @@
 	"DiyetRehberim":[
 
 
-
-
+		{
+			"yemek_id": "63",
+			"yemek_adi": "Kepekli Ekmek",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/kepekli_ekmek_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/kepekli_ekmek_buyuk.jpg",
+			"yemek_detay_aciklama": "Kepekli ekmek, beyaz una kepek karıştırılması ile elde edilen bir ekmektir. Kepekli ekmek beyaz ekmeğe göre lif ve doyuruculuk açısından daha değerlidir. Diyabetliler, yüksek kolesterolü olanlar ve kilo kontrolü sağlamak isteyenler tüketebilirler.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/kepekli_ekmek_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "82",
+			"yemek_protein_yuzde": "11",
+			"yemek_yag_yuzde": "6",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Dilim (İnce)",
+				"porsiyon2": "1 Dilim (Orta)",
+				"porsiyon3": "1 Dilim (Kalın)",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "54",
+				"porsiyon2": "86",
+				"porsiyon3": "108",
+				"porsiyon4": "216",
+				"porsiyon5": "22"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "11.14",
+				"porsiyon2": "17.82",
+				"porsiyon3": "22.27",
+				"porsiyon4": "44.54",
+				"porsiyon5": "4.45"
+			},
+			"yemek_protein": {
+				"porsiyon1": "1.51",
+				"porsiyon2": "2.41",
+				"porsiyon3": "3.02",
+				"porsiyon4": "6.03",
+				"porsiyon5": "0.6"
+			},
+			"yemek_yag": {
+				"porsiyon1": "0.38",
+				"porsiyon2": "0.6",
+				"porsiyon3": "0.75",
+				"porsiyon4": "1.5",
+				"porsiyon5": "0.15"
+			}
+		},
+		{
+			"yemek_id": "62",
+			"yemek_adi": "Muz",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/muz_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/muz_buyuk.jpg",
+			"yemek_detay_aciklama": "İçerisinde bol miktarda potasyum, protein, manganez ve çeşitli vitaminler bulunuyor.\nEnerji verir. İçerisinde bulunan potasyumdan dolayı, güçlü bir enerji kaynağıdır.\nKan basıncını düzenler.\nZayıflamaya yardımcı olur.\nMutlu eder.nrn6- Mide hastalıklarını dindirir.\nCildi güzelleştirir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/muz_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "93",
+			"yemek_protein_yuzde": "4",
+			"yemek_yag_yuzde": "3",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Adet (Orta)",
+				"porsiyon2": "1 Adet (Yarım)",
+				"porsiyon3": "1 Adet (Çeyrek)",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "151",
+				"porsiyon2": "76",
+				"porsiyon3": "36",
+				"porsiyon4": "89",
+				"porsiyon5": "9"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "38.83",
+				"porsiyon2": "19.41",
+				"porsiyon3": "9.14",
+				"porsiyon4": "22.84",
+				"porsiyon5": "2.28"
+			},
+			"yemek_protein": {
+				"porsiyon1": "1.85",
+				"porsiyon2": "0.93",
+				"porsiyon3": "0.44",
+				"porsiyon4": "1.09",
+				"porsiyon5": "0.11"
+			},
+			"yemek_yag": {
+				"porsiyon1": "0.56",
+				"porsiyon2": "0.28",
+				"porsiyon3": "0.13",
+				"porsiyon4": "0.33",
+				"porsiyon5": "0.03"
+			}
+		},
 		{
 			"yemek_id": "61",
 			"yemek_adi": "Karpuz",
