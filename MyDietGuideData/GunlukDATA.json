@@ -1,0 +1,46 @@
+{
+	"DiyetRehberim": [
+		{
+			"diyet_id": "8",
+			"resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/sabir.jpg",
+			"title": "",
+			"desc": ""
+		},
+		{
+			"diyet_id": "6",
+			"resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/yulaf.jpg",
+			"title": "OAT",
+			"desc": "IT IS FIBER, PROTEIN AND MINERAL STORAGE.\nHELPS LOSE WEIGHT."
+		},
+		{
+			"diyet_id": "5",
+			"resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/yumurta.jpg",
+			"title": "EGG",
+			"desc": "STRENGTHENS THE IMMUNE SYSTEM.\nEACH EGG CONTAINS 6-12 GR OF PROTEIN."
+		},
+		{
+			"diyet_id": "4",
+			"resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/badem.jpg",
+			"title": "ALMOND",
+			"desc": "IT IS AN IMPORTANT SOURCE OF PROTEIN AND FAT.\nA STRONG ANTIOXIDANT."
+		},
+		{
+			"diyet_id": "3",
+			"resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/balik_yagi.jpg",
+			"title": "FISH OIL",
+			"desc": "SPEED YOUR METABOLISM.\nHELP BURN FAT.\nSTRENGTHEN YOUR MEMORY."
+		},
+		{
+			"diyet_id": "2",
+			"resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/muz.jpg",
+			"title": "BANANA",
+			"desc": "IT IS A HEALTHY AND NUTRITIVE FRUIT FOR YOUR BOTTOM PROBLEMS."
+		},
+		{
+			"diyet_id": "1",
+			"resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/ispanak.jpg",
+			"title": "SPINACH",
+			"desc": "IT IS HIGHLY RICH IN IRON, IODINE, POTASSIUM, ZINC AND CALCIUM."
+		}
+	]
+}

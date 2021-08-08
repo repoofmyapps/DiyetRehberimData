@@ -1,0 +1,747 @@
+{
+	"DiyetRehberim":[	
+		{
+			"diyet_id": "99999",
+			"diyet_adi": "proitem",
+			"diyet_resim": "proitem",
+			"diyet_url": "proitem",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "proitem",
+			"kategori_adi_ek": "proitem"
+		},
+		{
+			"diyet_id": "99998",
+			"diyet_adi": "proitem",
+			"diyet_resim": "proitem",
+			"diyet_url": "proitem",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "proitem",
+			"kategori_adi_ek": "proitem"
+		},
+
+
+
+
+		{
+			"diyet_id": "82",
+			"diyet_adi": "KIYMALI VE DOMATESLİ MAKARNA TARİFİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna2.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/kiymali_makarna.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Ana Yemekler",
+			"kategori_adi_ek": "Etli Yemekler"
+		},
+		{
+			"diyet_id": "81",
+			"diyet_adi": "UNSUZ ÇİKOLATALI KEK",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/unsuz2.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/unsuz_kek.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Tatlılar",
+			"kategori_adi_ek": "Atıştırmalıklar"
+		},
+		{
+			"diyet_id": "80",
+			"diyet_adi": "BAHARATLI PATATESLİ OMLET",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/patatesliyum2.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/patatesli_yumurta.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Kahvaltılık Tarifler",
+			"kategori_adi_ek": "Atıştırmalıklar"
+		},
+		{
+			"diyet_id": "79",
+			"diyet_adi": "ETSİZ KOLAY ÇİĞ KÖFTE",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/cigkofte2.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/etsiz_cig_kofte.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Atıştırmalıklar",
+			"kategori_adi_ek": "Yöresel Yemekler"
+		},
+		{
+			"diyet_id": "78",
+			"diyet_adi": "ARPACIK SOĞANLI KÖFTE",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/arpacik1.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/arpacik_soganli_kofte.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Ana Yemekler",
+			"kategori_adi_ek": "Etli Yemekler"
+		},
+		{
+			"diyet_id": "77",
+			"diyet_adi": "LOR PEYNİRİNİN FAYDALARI",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/lor3.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/lorpeyniri.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Faydalı İçerikler",
+			"kategori_adi_ek": "Faydalı İçerikler"
+		},
+		{
+			"diyet_id": "76",
+			"diyet_adi": "KİLO ALMA TAVSİYELERİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/kiloal_tavsiyeler.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/kilo_alma_tavsiyeleri.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Aldıran Diyet Listeleri",
+			"kategori_adi_ek": "Faydalı İçerikler"
+		},
+		{
+			"diyet_id": "75",
+			"diyet_adi": "DİLARA KOÇAK TAVSİYESİ İLE KİLO ALMA PROGRAMI",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/kiloal_yeni.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/dilara_kocak_kiloal.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Aldıran Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Aldıran Diyet Listeleri"
+		},
+		{
+			"diyet_id": "74",
+			"diyet_adi": "1 HAFTADA 5 KİLO ALDIRAN BESLENME PROGRAMI",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/kiloal8.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/kiloaldiran_diyet_listesi.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Aldıran Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Aldıran Diyet Listeleri"
+		},
+		{
+			"diyet_id": "73",
+			"diyet_adi": "5 GÜNDE 2 KİLO VERDİREN MİKROBİYOTA DİYETİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/mikro1.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/mikrobiyata_diyeti.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},
+		{
+			"diyet_id": "72",
+			"diyet_adi": "BÖBREKLERİ TEMİZLEYEN BESİNLER!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/bobrek_agrisi.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/bobrekler.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Faydalı İçerikler",
+			"kategori_adi_ek": "Faydalı İçerikler"
+		},
+
+		{
+			"diyet_id": "71",
+			"diyet_adi": "4 GÜNDE 1-2 KİLO VERDİREN DİYET",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet62.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet40.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},
+		{
+			"diyet_id": "70",
+			"diyet_adi": "LİF KAYNAĞI 30 BESİN!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/lifkaynagibesinler.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/lifkaynagibesinler.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Faydalı İçerikler",
+			"kategori_adi_ek": "Faydalı İçerikler"
+		},
+		{
+			"diyet_id": "69",
+			"diyet_adi": "7 GÜNLÜK VEJETARYEN DİYET LİSTESİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet56.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet39.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Vejetaryen Diyet Listeleri",
+			"kategori_adi_ek": "Vejetaryen Diyet Listeleri"
+		},
+		{
+			"diyet_id": "68",
+			"diyet_adi": "1 HAFTADA HIZLA FORM KAZANIN!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet49.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet38.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},
+		{
+			"diyet_id": "67",
+			"diyet_adi": "METABOLİZMAYI YAVAŞLATAN 10 HATA!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet37.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet37_pos.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Faydalı İçerikler",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},
+		{
+			"diyet_id": "66",
+			"diyet_adi": "KİLO VERMENİZİ HIZLANDIRAN BESİNLER!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/kilohead.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/kilovermeyi.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Faydalı İçerikler",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},
+		{
+			"diyet_id": "65",
+			"diyet_adi": "YAĞ YAKIMINI DESTEKLEYEN 15 BESİN!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/beslenme15.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/yagyakicibesinler15.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Faydalı İçerikler",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},
+		{
+			"diyet_id": "64",
+			"diyet_adi": "5 GÜNLÜK ÇORBA DİYETİ!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet36.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet19.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},
+		{
+			"diyet_id": "63",
+			"diyet_adi": "PATATES YOĞURT DİYETİ!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/patates1.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/patatesdiyeti.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},
+		{
+			"diyet_id": "62",
+			"diyet_adi": "PROBİYOTİKLER VE PREBİYOTİKLER",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/probiyotik3.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/probiyotiknedir.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi":"Faydalı İçerikler",
+			"kategori_adi_ek": "Faydalı İçerikler"
+		},
+		{
+			"diyet_id": "61",
+			"diyet_adi": "7 GÜNLÜK DİYET LİSTESİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/karatayhead2.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/karataydiyeti.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},
+		{
+			"diyet_id": "60",
+			"diyet_adi": "1 HAFTADA 5 KİLO VERDİREN KARPUZ DİYETİ!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/karpuz1.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet18.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},
+		{
+			"diyet_id": "59",
+			"diyet_adi": "HAFTADA 2-3 KİLO VERDİREN DİYET",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet30.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet17.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},
+		{
+			"diyet_id": "58",
+			"diyet_adi": "DUKAN DİYETİ NASIL YAPILIR?",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/dukan1.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyetdukan.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Faydalı İçerikler"
+		},
+		{
+			"diyet_id": "57",
+			"diyet_adi": "4 GÜNDE 2 KİLO VERDİREN DİYET",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet24.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet16.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},
+		{
+			"diyet_id": "56",
+			"diyet_adi": "ENDER SARAÇ'TAN 10 KİLO VERDİREN RAMAZAN DİYETİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet15.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet15.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},    
+		{
+			"diyet_id": "55",
+			"diyet_adi": "EN ETKİLİ GÖBEK YAĞI ERİTME YOLLARI",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet4.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet14.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Faydalı İçerikler"
+		},
+		{
+			"diyet_id": "54",
+			"diyet_adi": "3 GÜNLÜK ŞOK DİYET",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet14.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet13.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},		
+		{
+			"diyet_id": "53",
+			"diyet_adi": "4 HAFTALIK SÜT DİYETİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet1.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet12.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},
+		{
+			"diyet_id": "52",
+			"diyet_adi": "KETOJENİK DİYET NEDİR?",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyetitem41.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet11.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi":"Ketojenik Diyet Listeleri",
+			"kategori_adi_ek": "Faydalı İçerikler"
+		},
+		{
+			"diyet_id": "51",
+			"diyet_adi": "ENDER SARAÇ PATATES DİYETİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyetitem8.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet10.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},
+		{
+			"diyet_id": "50",
+			"diyet_adi": "ENDER SARAÇ MUCİZE HURMA YOĞURT DİYETİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyetitem7.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet9.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},
+		{
+			"diyet_id": "49",
+			"diyet_adi": "1 HAFTADA 4 KİLO VERDİREN ŞOK DİYET!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyetitem1.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet8.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},
+		{
+			"diyet_id": "48",
+			"diyet_adi": "ENDER SARAÇ YUMURTA DİYETİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyetitem29.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet7.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},
+		{
+			"diyet_id": "47",
+			"diyet_adi": "3 GÜNDE 1-2 KİLO VERDİREN DİYET!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyetitem10.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet6.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},
+		{
+			"diyet_id": "46",
+			"diyet_adi": "1 HAFTADA 5 KİLO VERDİREN ÖDEM ATTIRAN ŞOK DİYET",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyetitem3.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet5.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},
+		{
+			"diyet_id": "45",
+			"diyet_adi": "ENDER SARAÇ DİYETİ İLE 15 GÜNDE 5 KİLO VER!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyetitem4.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet4.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},
+		{
+			"diyet_id": "44",
+			"diyet_adi": "1 AYDA 5 İLE 10 KİLO VERDİREN DİYET!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyetitem2.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet3.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},
+		{
+			"diyet_id": "43",
+			"diyet_adi": "1 HAFTADA 5 KİLO VERDİREN ÖDEM ATTIRAN ŞOK DİYET",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyetitem3.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet2.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},
+		{
+			"diyet_id": "42",
+			"diyet_adi": "SANGU TALAK DİYETİ İLE 7 GÜNDE HIZLA KİLO VER",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyetitem5.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet1.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Kilo Verdiren Diyet Listeleri",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri"
+		},
+		{
+			"diyet_id": "41",
+			"diyet_adi": "KEREVİZ SALATASI",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek86.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/kereviz.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Salatalar",
+			"kategori_adi_ek": "Diyet Tarifleri"
+		},
+		{
+			"diyet_id": "40",
+			"diyet_adi": "YAĞ YAKAN LAHANA ÇORBASI",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek85.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/lahana.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Çorbalar",
+			"kategori_adi_ek": "Diyet Tarifleri"
+		},
+		{
+			"diyet_id": "39",
+			"diyet_adi": "KÖRİLİ KARNABAHAR",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet68.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/karnabahar.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Ana Yemekler",
+			"kategori_adi_ek": "Ana Yemekler"
+		},
+		{
+			"diyet_id": "38",
+			"diyet_adi": "ZAYIFLATAN BULGURLU PIRASA",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet64.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/pirasa.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Ana Yemekler",
+			"kategori_adi_ek": "Diyet Tarifleri"
+		},
+		{
+			"diyet_id": "37",
+			"diyet_adi": "ELMA SİRKELİ DETOKS",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek83.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif37.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Detoks Tarifleri",
+			"kategori_adi_ek": "Diyet Tarifleri"
+		},
+		{
+			"diyet_id": "36",
+			"diyet_adi": "ÇİLEKLİ NANELİ DETOKS TARİFİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek77.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif36.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Detoks Tarifleri",
+			"kategori_adi_ek": "Diyet Tarifleri"
+		},
+		{
+			"diyet_id": "35",
+			"diyet_adi": "KARPUZ VE ÇİLEKLİ NANE DETOKSU",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek76.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif35.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Detoks Tarifleri",
+			"kategori_adi_ek": "Diyet Tarifleri"
+		},
+		{
+			"diyet_id": "34",
+			"diyet_adi": "MANGOLU DETOKS TARİFİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek78.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif34.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Detoks Tarifleri",
+			"kategori_adi_ek": "Diyet Tarifleri"
+		},
+		{
+			"diyet_id": "33",
+			"diyet_adi": "YABANMERSİNİ VE PORTAKALLI DETOKS",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek74.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif33.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Detoks Tarifleri",
+			"kategori_adi_ek": "Diyet Tarifleri"
+		},
+		{
+			"diyet_id": "32",
+			"diyet_adi": "LİMON VE SALATALIK DETOKSU",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek72.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif32.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Detoks Tarifleri",
+			"kategori_adi_ek": "Diyet Tarifleri"
+		},
+		{
+			"diyet_id": "31",
+			"diyet_adi": "ELMALI TARÇINLI DETOKS İÇECEĞİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek71.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif31.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Detoks Tarifleri",
+			"kategori_adi_ek": "Diyet Tarifleri"
+		},		
+		{
+			"diyet_id": "30",
+			"diyet_adi": "FIRINDA LEVREK",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek33.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif30.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Ana Yemekler",
+			"kategori_adi_ek": "Ana Yemekler"
+		},
+		{
+			"diyet_id": "29",
+			"diyet_adi": "ISPANAKLI BORANİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek13.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif29.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Ana Yemekler",
+			"kategori_adi_ek": "Diyet Tarifleri"
+		},
+		{
+			"diyet_id": "28",
+			"diyet_adi": "MISIR ÇORBASI TARİFİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek45.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif28.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Ana Yemekler",
+			"kategori_adi_ek": "Çorbalar"
+		},
+		{
+			"diyet_id": "27",
+			"diyet_adi": "DİYET MANTI",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek42.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif27.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Diyet Tarifleri",
+			"kategori_adi_ek": "Ana Yemekler"
+		},
+		{
+			"diyet_id": "26",
+			"diyet_adi": "YOĞURTLU PATATES SALATASI",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek54.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif26.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Salatalar",
+			"kategori_adi_ek": "Diyet Tarifleri"
+		},
+		{
+			"diyet_id": "25",
+			"diyet_adi": "ÖDEM ATAN LAHANA SALATASI",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek03.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif25.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Diyet Tarifleri",
+			"kategori_adi_ek": "Salatalar"
+		},
+		{
+			"diyet_id": "24",
+			"diyet_adi": "FIRINDA KABAK",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek30.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif24.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Ana Yemekler",
+			"kategori_adi_ek": "Diyet Tarifleri"
+		},
+		{
+			"diyet_id": "23",
+			"diyet_adi": "YUMURTA SALATASI",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek62.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif23.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Salatalar",
+			"kategori_adi_ek": "Diyet Tarifleri"
+		},
+		{
+			"diyet_id": "22",
+			"diyet_adi": "DİYET DOSTU DONDURMA TARİFİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek18.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif22.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Atıştırmalıklar",
+			"kategori_adi_ek": "Diyet Tarifleri"
+		},
+		{
+			"diyet_id": "21",
+			"diyet_adi": "LAHANA ÇORBASI",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek35.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif21.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Çorbalar",
+			"kategori_adi_ek": "Diyet Tarifleri"
+		},
+		{
+			"diyet_id": "20",
+			"diyet_adi": "SEBZE ÇORBASI",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek50.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif20.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Çorbalar",
+			"kategori_adi_ek": "Diyet Tarifleri"
+		},
+		{
+			"diyet_id": "19",
+			"diyet_adi": "BEZELYELİ PATATES PÜRESİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek11.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif19.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Ana Yemekler",
+			"kategori_adi_ek": "Diyet Tarifleri"
+		},
+		{
+			"diyet_id": "16",
+			"diyet_adi": "DİYET MÜCVER TARİFİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek22.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif16.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Diyet Tarifleri",
+			"kategori_adi_ek": "Ana Yemekler"
+		},
+		{
+			"diyet_id": "15",
+			"diyet_adi": "BAHÇIVAN SALATA",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek09.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif15.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Salatalar",
+			"kategori_adi_ek": "Diyet Tarifleri"
+		},
+		{
+			"diyet_id": "14",
+			"diyet_adi": "YOĞURTLU SEMİZOTU",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek56.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif14.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Diyet Tarifleri",
+			"kategori_adi_ek": "Diyet Tarifleri"
+		},
+		{
+			"diyet_id": "13",
+			"diyet_adi": "FIRINDA YUMURTALI DOMATES",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek59.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif13.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Ana Yemekler",
+			"kategori_adi_ek": "Diyet Tarifleri"
+		},
+		{
+			"diyet_id": "12",
+			"diyet_adi": "BROKOLİ SALATASI",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek49.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif12.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Salatalar",
+			"kategori_adi_ek": "Diyet Tarifleri"
+		},
+		{
+			"diyet_id": "11",
+			"diyet_adi": "YULAFLI PUDİNG",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek57.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif11.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Diyet Tarifleri",
+			"kategori_adi_ek": "Atıştırmalıklar"
+		},
+		{
+			"diyet_id": "10",
+			"diyet_adi": "SEMİZOTLU BULGUR KÖFTESİ TARİFİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek48.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif10.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Ana Yemekler",
+			"kategori_adi_ek": "Diyet Tarifleri"
+		},
+		{
+			"diyet_id": "9",
+			"diyet_adi": "KEKİKLİ YULAF BİSKÜVİSİ TARİFİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek26.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif9.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Diyet Tarifleri",
+			"kategori_adi_ek": "Atıştırmalıklar"
+		},
+		{
+			"diyet_id": "8",
+			"diyet_adi": "CHİA TOHUMLU PUDİNG TARİFİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek08.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif8.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Diyet Tarifleri",
+			"kategori_adi_ek": "Atıştırmalıklar"
+		},
+		{
+			"diyet_id": "7",
+			"diyet_adi": "MEYVE PÜRELİ KAKAOLU KEK",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek02.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif7.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Tatlı Tarifleri",
+			"kategori_adi_ek": "Atıştırmalıklar"
+		},
+		{
+			"diyet_id": "6",
+			"diyet_adi": "KEREVİZLİ FASULYE KÖFTELERİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek23.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif6.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Diyet Tarifleri",
+			"kategori_adi_ek": "Ana Yemekler"
+		},
+		{
+			"diyet_id": "5",
+			"diyet_adi": "EKMEKSİZ IZGARA EV KÖFTESİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek29.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif5.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Diyet Tarifleri",
+			"kategori_adi_ek": "Ana Yemekler"
+		},
+		{
+			"diyet_id": "4",
+			"diyet_adi": "HAVUÇLU KEK TARİFİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek20.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif4.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Tatlı Tarifleri",
+			"kategori_adi_ek": "Atıştırmalıklar"
+		},
+		{
+			"diyet_id": "3",
+			"diyet_adi": "PROTEİNLİ YEŞİLLİK SALATASI",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek46.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif3.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Salatalar",
+			"kategori_adi_ek": "Diyet Tarifleri"
+		},
+		{
+			"diyet_id": "2",
+			"diyet_adi": "KİNOA KISIRI",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek05.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif2.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Salatalar",
+			"kategori_adi_ek": "Diyet Tarifleri"
+		},
+		{
+			"diyet_id": "1",
+			"diyet_adi": "SMOOTHİE KASESİ TARİFİ",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek60.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif1.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Tatlı Tarifleri",
+			"kategori_adi_ek": "Atıştırmalıklar"
+		}
+	]
+}

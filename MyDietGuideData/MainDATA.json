@@ -1,0 +1,793 @@
+{
+	"DiyetRehberim":[	
+		{
+			"diyet_id": "99999",
+			"diyet_adi": "proitem",
+			"diyet_resim": "proitem",
+			"diyet_url": "proitem",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "proitem",
+			"kategori_adi_ek": "proitem"
+		},
+		{
+			"diyet_id": "99998",
+			"diyet_adi": "proitem",
+			"diyet_resim": "proitem",
+			"diyet_url": "proitem",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "proitem",
+			"kategori_adi_ek": "proitem"
+		},
+
+
+		
+
+
+		{
+			"diyet_id": "87",
+			"diyet_adi": "Sourdough Village Bread",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/koyekmegi6.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/koy_ekmegi.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Appetizers",
+			"kategori_adi_ek": "Local Meals"
+		},
+		{
+			"diyet_id": "86",
+			"diyet_adi": "Tripe Soup",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/iskembe1.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/iskembe_corbasi.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Soups",
+			"kategori_adi_ek": "Local Meals"
+		},
+		{
+			"diyet_id": "85",
+			"diyet_adi": "3 Kilos Fat Burning Diet in 1 Week!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/yagdankiloverme.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/haftada3yag.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Loss Diet Lists",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "84",
+			"diyet_adi": "Why Can't I Lose Weight From Fat?",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/yagdan1.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/yagdan_kilo_verme.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Useful Content",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "83",
+			"diyet_adi": "What is the Water Diet? How is it applied?",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/sudiyeti1.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/su_diyeti_nedir.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Useful Content",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "82",
+			"diyet_adi": "Meat and Tomato Pasta Recipe",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/makarna2.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/kiymali_makarna.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Main Courses",
+			"kategori_adi_ek": "Meat Dishes"
+		},
+		{
+			"diyet_id": "81",
+			"diyet_adi": "Flourless Chocolate Cake",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/unsuz2.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/unsuz_kek.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Desserts",
+			"kategori_adi_ek": "Snacks"
+		},
+		{
+			"diyet_id": "80",
+			"diyet_adi": "Spicy Potato Omelette",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/patatesliyum2.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/patatesli_yumurta.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Breakfast Recipes",
+			"kategori_adi_ek": "Snacks"
+		},
+		{
+			"diyet_id": "79",
+			"diyet_adi": "Meatless Easy Raw Meatballs",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/cigkofte2.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/etsiz_cig_kofte.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Snacks",
+			"kategori_adi_ek": "Local Meals"
+		},
+		{
+			"diyet_id": "78",
+			"diyet_adi": "Meatballs with Shallots",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/TarifResimleri/arpacik1.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/arpacik_soganli_kofte.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Main Courses",
+			"kategori_adi_ek": "Meat Dishes"
+		},
+		{
+			"diyet_id": "77",
+			"diyet_adi": "Benefits of Curd Cheese",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/lor3.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/lorpeyniri.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Useful Content",
+			"kategori_adi_ek": "Useful Content"
+		},
+		{
+			"diyet_id": "76",
+			"diyet_adi": "Weight Gain Advice",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/kiloal_tavsiyeler.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/kilo_alma_tavsiyeleri.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Gain Diet Lists",
+			"kategori_adi_ek": "Useful Content"
+		},
+		{
+			"diyet_id": "75",
+			"diyet_adi": "Weight Gain Program with Dilara Koçak Advice",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/kiloal_yeni.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/dilara_kocak_kiloal.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Gain Diet Lists",
+			"kategori_adi_ek": "Weight Gain Diet Lists"
+		},
+		{
+			"diyet_id": "74",
+			"diyet_adi": "Nutrition Program to Gain 5 Weights in 1 Week",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/kiloal8.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/kiloaldiran_diyet_listesi.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Gain Diet Lists",
+			"kategori_adi_ek": "Weight Gain Diet Lists"
+		},
+		{
+			"diyet_id": "73",
+			"diyet_adi": "Microbiota Diet to Lose 2 Kilos in 5 Days",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/mikro1.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/mikrobiyata_diyeti.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Loss Diet Lists",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "72",
+			"diyet_adi": "Foods That Cleanse The Kidneys!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/bobrek_agrisi.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/bobrekler.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Useful Content",
+			"kategori_adi_ek": "Useful Content"
+		},
+
+		{
+			"diyet_id": "71",
+			"diyet_adi": "Diet to Lose 1-2 Kilos in 4 Days",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet62.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet40.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Loss Diet Lists",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "70",
+			"diyet_adi": "30 Nutrients That Source Fiber!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/lifkaynagibesinler.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/lifkaynagibesinler.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Useful Content",
+			"kategori_adi_ek": "Useful Content"
+		},
+		{
+			"diyet_id": "69",
+			"diyet_adi": "7-Day Vegetarian Diet List",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet56.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet39.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Vegetarian Diet Lists",
+			"kategori_adi_ek": "Vegetarian Diet Lists"
+		},
+		{
+			"diyet_id": "68",
+			"diyet_adi": "Get in Shape Fast in 1 Week!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet49.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet38.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Loss Diet Lists",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "67",
+			"diyet_adi": "10 Mistakes That Slow Down Metabolism!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet37.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet37_pos.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Useful Content",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "66",
+			"diyet_adi": "Foods That Accelerate Your Weight Loss!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/kilohead.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/kilovermeyi.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Useful Content",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "65",
+			"diyet_adi": "15 Foods That Support Fat Burning!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/beslenme15.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/yagyakicibesinler15.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Useful Content",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "64",
+			"diyet_adi": "5 Day Soup Diet!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet36.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet19.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Loss Diet Lists",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "63",
+			"diyet_adi": "Potato Yogurt Diet!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/patates1.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/patatesdiyeti.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Loss Diet Lists",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "62",
+			"diyet_adi": "Probiotics and Prebiotics",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/probiyotik3.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/probiyotiknedir.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi":"Useful Content",
+			"kategori_adi_ek": "Useful Content"
+		},
+		{
+			"diyet_id": "61",
+			"diyet_adi": "7-Day Diet List",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/karatayhead2.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/karataydiyeti.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Loss Diet Lists",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "60",
+			"diyet_adi": "Watermelon Diet to Lose 5 Kilos in 1 Week!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/karpuz1.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet18.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Loss Diet Lists",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "59",
+			"diyet_adi": "Diet to Lose 2-3 Kilos a Week",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet30.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet17.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Loss Diet Lists",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "58",
+			"diyet_adi": "How To Do The Dukan Diet?",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/dukan1.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyetdukan.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Loss Diet Lists",
+			"kategori_adi_ek": "Useful Content"
+		},
+		{
+			"diyet_id": "57",
+			"diyet_adi": "Diet to Lose 2 Kilos in 4 Days",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet24.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet16.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Loss Diet Lists",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "56",
+			"diyet_adi": "Ramadan Diet to Lose 10 Kilos by Ender Saraç",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet15.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet15.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Loss Diet Lists",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},    
+		{
+			"diyet_id": "55",
+			"diyet_adi": "The Most Effective Ways to Lose Belly Fat",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet4.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet14.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Loss Diet Lists",
+			"kategori_adi_ek": "Useful Content"
+		},
+		{
+			"diyet_id": "54",
+			"diyet_adi": "3-Day Shock Diet",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet14.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet13.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Loss Diet Lists",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},		
+		{
+			"diyet_id": "53",
+			"diyet_adi": "4 Week Dairy Diet",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet1.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet12.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Loss Diet Lists",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "52",
+			"diyet_adi": "What is the Ketogenic Diet?",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyetitem41.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet11.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi":"Ketogenic Diet Lists",
+			"kategori_adi_ek": "Useful Content"
+		},
+		{
+			"diyet_id": "51",
+			"diyet_adi": "Ender Saraç Potato Diet",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyetitem8.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet10.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Loss Diet Lists",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "50",
+			"diyet_adi": "Ender Saraç Miracle Date Yogurt Diet",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyetitem7.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet9.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Loss Diet Lists",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "49",
+			"diyet_adi": "Shock Diet That Lose 4 Kilos in 1 Week!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyetitem1.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet8.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Loss Diet Lists",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "48",
+			"diyet_adi": "Ender Saraç Egg Diet",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyetitem29.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet7.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Loss Diet Lists",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "47",
+			"diyet_adi": "Diet to Lose 1-2 Kilos in 3 Days!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyetitem10.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet6.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Loss Diet Lists",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "46",
+			"diyet_adi": "Shock Diet That Loses 5 Kilos in 1 Week",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyetitem3.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet5.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Loss Diet Lists",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "45",
+			"diyet_adi": "Lose 5 Kilos in 15 Days with Ender Saraç Diet!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyetitem4.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet4.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Loss Diet Lists",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "44",
+			"diyet_adi": "Diet to Lose 5 to 10 Weight in 1 Month!",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyetitem2.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet3.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Loss Diet Lists",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "43",
+			"diyet_adi": "Shock Diet That Loses 5 Kilos in 1 Week",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyetitem3.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet2.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Loss Diet Lists",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "42",
+			"diyet_adi": "Lose Weight Quickly in 7 Days with the Sangu Talak Diet",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyetitem5.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/diyet1.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Weight Loss Diet Lists",
+			"kategori_adi_ek": "Weight Loss Diet Lists"
+		},
+		{
+			"diyet_id": "41",
+			"diyet_adi": "Celery Salad",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek86.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/kereviz.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Salads",
+			"kategori_adi_ek": "Diet Recipes"
+		},
+		{
+			"diyet_id": "40",
+			"diyet_adi": "Fat Burning Cabbage Soup",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek85.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/lahana.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Soups",
+			"kategori_adi_ek": "Diet Recipes"
+		},
+		{
+			"diyet_id": "39",
+			"diyet_adi": "Cauliflower Curry",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet68.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/karnabahar.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Main Courses",
+			"kategori_adi_ek": "Main Courses"
+		},
+		{
+			"diyet_id": "38",
+			"diyet_adi": "Leek With Bulgur For Weakening",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/diyet64.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/pirasa.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Main Courses",
+			"kategori_adi_ek": "Diet Recipes"
+		},
+		{
+			"diyet_id": "37",
+			"diyet_adi": "Apple Cider Vinegar Detox",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek83.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif37.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Detox Recipes",
+			"kategori_adi_ek": "Diet Recipes"
+		},
+		{
+			"diyet_id": "36",
+			"diyet_adi": "Strawberry Mint Detox Recipe",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek77.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif36.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Detox Recipes",
+			"kategori_adi_ek": "Diet Recipes"
+		},
+		{
+			"diyet_id": "35",
+			"diyet_adi": "Watermelon and Strawberry Mint Detox",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek76.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif35.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Detox Recipes",
+			"kategori_adi_ek": "Diet Recipes"
+		},
+		{
+			"diyet_id": "34",
+			"diyet_adi": "Mango Detox Recipe",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek78.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif34.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Detox Recipes",
+			"kategori_adi_ek": "Diet Recipes"
+		},
+		{
+			"diyet_id": "33",
+			"diyet_adi": "Blueberry and Orange Detox",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek74.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif33.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Detox Recipes",
+			"kategori_adi_ek": "Diet Recipes"
+		},
+		{
+			"diyet_id": "32",
+			"diyet_adi": "Lemon and Cucumber Detox",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek72.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif32.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Detox Recipes",
+			"kategori_adi_ek": "Diet Recipes"
+		},
+		{
+			"diyet_id": "31",
+			"diyet_adi": "Apple Cinnamon Detox Drink",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek71.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif31.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Detox Recipes",
+			"kategori_adi_ek": "Diet Recipes"
+		},		
+		{
+			"diyet_id": "30",
+			"diyet_adi": "Baked Sea Bass",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek33.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif30.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Main Courses",
+			"kategori_adi_ek": "Main Courses"
+		},
+		{
+			"diyet_id": "29",
+			"diyet_adi": "Spinach Borani",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek13.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif29.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Main Courses",
+			"kategori_adi_ek": "Diet Recipes"
+		},
+		{
+			"diyet_id": "28",
+			"diyet_adi": "Corn Soup Recipe",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek45.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif28.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Main Courses",
+			"kategori_adi_ek": "Soups"
+		},
+		{
+			"diyet_id": "27",
+			"diyet_adi": "Diet Ravioli",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek42.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif27.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Diet Recipes",
+			"kategori_adi_ek": "Main Courses"
+		},
+		{
+			"diyet_id": "26",
+			"diyet_adi": "Potato Salad with Yogurt",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek54.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif26.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Salads",
+			"kategori_adi_ek": "Diet Recipes"
+		},
+		{
+			"diyet_id": "25",
+			"diyet_adi": "Edema Cabbage Salad",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek03.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif25.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Diet Recipes",
+			"kategori_adi_ek": "Salads"
+		},
+		{
+			"diyet_id": "24",
+			"diyet_adi": "Baked Pumpkin",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek30.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif24.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Main Courses",
+			"kategori_adi_ek": "Diet Recipes"
+		},
+		{
+			"diyet_id": "23",
+			"diyet_adi": "Egg Salad",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek62.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif23.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Salads",
+			"kategori_adi_ek": "Diet Recipes"
+		},
+		{
+			"diyet_id": "22",
+			"diyet_adi": "Diet Friendly Ice Cream Recipe",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek18.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif22.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Snacks",
+			"kategori_adi_ek": "Diet Recipes"
+		},
+		{
+			"diyet_id": "21",
+			"diyet_adi": "Cabbage Soup",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek35.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif21.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Soups",
+			"kategori_adi_ek": "Diet Recipes"
+		},
+		{
+			"diyet_id": "20",
+			"diyet_adi": "Vegetable Soup",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek50.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif20.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Soups",
+			"kategori_adi_ek": "Diet Recipes"
+		},
+		{
+			"diyet_id": "19",
+			"diyet_adi": "Mashed Potatoes with Peas",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek11.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif19.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Main Courses",
+			"kategori_adi_ek": "Diet Recipes"
+		},
+		{
+			"diyet_id": "16",
+			"diyet_adi": "Diet Mucver Recipe",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek22.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif16.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Diet Recipes",
+			"kategori_adi_ek": "Main Courses"
+		},
+		{
+			"diyet_id": "15",
+			"diyet_adi": "Gardener Salad",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek09.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif15.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Salads",
+			"kategori_adi_ek": "Diet Recipes"
+		},
+		{
+			"diyet_id": "14",
+			"diyet_adi": "Purslane with Yogurt",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek56.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif14.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Diet Recipes",
+			"kategori_adi_ek": "Diet Recipes"
+		},
+		{
+			"diyet_id": "13",
+			"diyet_adi": "Baked Tomatoes with Eggs",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek59.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif13.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Main Courses",
+			"kategori_adi_ek": "Diet Recipes"
+		},
+		{
+			"diyet_id": "12",
+			"diyet_adi": "Broccoli Salad",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek49.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif12.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Salads",
+			"kategori_adi_ek": "Diet Recipes"
+		},
+		{
+			"diyet_id": "11",
+			"diyet_adi": "Oat Pudding",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek57.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif11.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Diet Recipes",
+			"kategori_adi_ek": "Snacks"
+		},
+		{
+			"diyet_id": "10",
+			"diyet_adi": "Bulgur Meatballs with Purslane Recipe",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek48.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif10.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Main Courses",
+			"kategori_adi_ek": "Diet Recipes"
+		},
+		{
+			"diyet_id": "9",
+			"diyet_adi": "Oat Biscuits with Thyme Recipe",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek26.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif9.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Diet Recipes",
+			"kategori_adi_ek": "Snacks"
+		},
+		{
+			"diyet_id": "8",
+			"diyet_adi": "Chia Seed Pudding Recipe",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek08.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif8.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Diet Recipes",
+			"kategori_adi_ek": "Snacks"
+		},
+		{
+			"diyet_id": "7",
+			"diyet_adi": "Fruit Puree Cocoa Cake",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek02.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif7.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Tatlı Tarifleri",
+			"kategori_adi_ek": "Snacks"
+		},
+		{
+			"diyet_id": "6",
+			"diyet_adi": "Bean Meatballs with Celery",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek23.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif6.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Diet Recipes",
+			"kategori_adi_ek": "Main Courses"
+		},
+		{
+			"diyet_id": "5",
+			"diyet_adi": "Breadless Grilled Homemade Meatballs",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek29.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif5.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Diet Recipes",
+			"kategori_adi_ek": "Main Courses"
+		},
+		{
+			"diyet_id": "4",
+			"diyet_adi": "Carrot Cake Recipe",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek20.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif4.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Tatlı Tarifleri",
+			"kategori_adi_ek": "Snacks"
+		},
+		{
+			"diyet_id": "3",
+			"diyet_adi": "Protein Greens Salad",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek46.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif3.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Salads",
+			"kategori_adi_ek": "Diet Recipes"
+		},
+		{
+			"diyet_id": "2",
+			"diyet_adi": "Quinoa Juice",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek05.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif2.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Salads",
+			"kategori_adi_ek": "Diet Recipes"
+		},
+		{
+			"diyet_id": "1",
+			"diyet_adi": "Smoothie Bowl Recipe",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/TarifResimleri/yemek60.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/TarifListeleri/tarif1.html",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Tatlı Tarifleri",
+			"kategori_adi_ek": "Snacks"
+		}
+	]
+}

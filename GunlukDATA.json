@@ -1,0 +1,52 @@
+{
+	"DiyetRehberim": [
+		{
+			"diyet_id": "8",
+			"resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/sabir.jpg",
+			"title": "",
+			"desc": ""
+		},
+		{
+			"diyet_id": "7",
+			"resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/hurma.jpg",
+			"title": "HURMA",
+			"desc": "KANSERE KARŞI KORUYUCU ETKİ GÖSTERİR.\nBAĞIŞIKLIK SİSTEMİNİ GÜÇLENDİRİR.\nKANSIZLIĞA İYİ GELİR."
+		},
+		{
+			"diyet_id": "6",
+			"resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/yulaf.jpg",
+			"title": "YULAF",
+			"desc": "LİF, PROTEİN VE MİNERAL DEPOSUDUR.\nKİLO VERMEYE YARDIMCIDIR."
+		},
+		{
+			"diyet_id": "5",
+			"resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/yumurta.jpg",
+			"title": "YUMURTA",
+			"desc": "BAĞIŞIKLIK SİSTEMİNİ GÜÇLENDİRİR.\nHER YUMURTA 6-12 GR ARASI PROTEİN İÇERİR."
+		},
+		{
+			"diyet_id": "4",
+			"resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/badem.jpg",
+			"title": "BADEM",
+			"desc": "PROTEİN VE YAĞ AÇISINDAN ÖNEMLİ BİR KAYNAKTIR.\nAYRICA GÜÇLÜ BİR ANTİOKSİDANDIR."
+		},
+		{
+			"diyet_id": "3",
+			"resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/balik_yagi.jpg",
+			"title": "BALIK YAĞI",
+			"desc": "METABOLİZMANIZI HIZLANDIRIR.\nYAĞ YAKIMINA YARDIMCI OLUR.\nHAFIZANIZI GÜÇLENDİRİR."
+		},
+		{
+			"diyet_id": "2",
+			"resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/muz.jpg",
+			"title": "MUZ",
+			"desc": "BAĞIRSAK PROBLEMLERİNİZ İÇİN SAĞLIKLI VE BESLEYİCİ BİR MEYVE TÜRÜDÜR."
+		},
+		{
+			"diyet_id": "1",
+			"resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/ispanak.jpg",
+			"title": "ISPANAK",
+			"desc": "DEMİR, İYOT, POTASYUM, ÇİNKO VE KALSİYUM AÇISINDAN OLDUKÇA ZENGİNDİR."
+		}
+	]
+}

@@ -1,0 +1,2981 @@
+{
+	"DiyetRehberim":[
+		{
+			"yemek_id": "63",
+			"yemek_adi": "Whole Wheat Bread",
+			"yemek_ogun_saati": "Breakfast",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/kepekli_ekmek_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/kepekli_ekmek_buyuk.jpg",
+			"yemek_detay_aciklama": "Whole wheat bread is a bread obtained by mixing the bran with white flour. It has fiber bread compared to white bread with wholemeal bread. Those who are high, ideal and those who want weight control can consume it.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/kepekli_ekmek_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "82",
+			"yemek_protein_yuzde": "11",
+			"yemek_yag_yuzde": "6",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Slice (Thin)",
+				"porsiyon2": "1 Slice (Medium)",
+				"porsiyon3": "1 Slice (Thick)",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "54",
+				"porsiyon2": "86",
+				"porsiyon3": "108",
+				"porsiyon4": "216",
+				"porsiyon5": "22"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "11.14",
+				"porsiyon2": "17.82",
+				"porsiyon3": "22.27",
+				"porsiyon4": "44.54",
+				"porsiyon5": "4.45"
+			},
+			"yemek_protein": {
+				"porsiyon1": "1.51",
+				"porsiyon2": "2.41",
+				"porsiyon3": "3.02",
+				"porsiyon4": "6.03",
+				"porsiyon5": "0.6"
+			},
+			"yemek_yag": {
+				"porsiyon1": "0.38",
+				"porsiyon2": "0.6",
+				"porsiyon3": "0.75",
+				"porsiyon4": "1.5",
+				"porsiyon5": "0.15"
+			}
+		},
+		{
+			"yemek_id": "62",
+			"yemek_adi": "Banana",
+			"yemek_ogun_saati": "Snack",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/muz_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/muz_buyuk.jpg",
+			"yemek_detay_aciklama": "It contains plenty of potassium, protein, magnesium and various vitamins.\nGives energy.\nDue to the potassium it contains, it is a powerful source of energy.\nRegulates blood pressure.\nHelps to lose weight.\nRelieves stomach diseases.\nBeautifies the skin.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/muz_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "93",
+			"yemek_protein_yuzde": "4",
+			"yemek_yag_yuzde": "3",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Piece (Medium)",
+				"porsiyon2": "1 Piece (Half)",
+				"porsiyon3": "1 Piece (Quarter)",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "151",
+				"porsiyon2": "76",
+				"porsiyon3": "36",
+				"porsiyon4": "89",
+				"porsiyon5": "9"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "38.83",
+				"porsiyon2": "19.41",
+				"porsiyon3": "9.14",
+				"porsiyon4": "22.84",
+				"porsiyon5": "2.28"
+			},
+			"yemek_protein": {
+				"porsiyon1": "1.85",
+				"porsiyon2": "0.93",
+				"porsiyon3": "0.44",
+				"porsiyon4": "1.09",
+				"porsiyon5": "0.11"
+			},
+			"yemek_yag": {
+				"porsiyon1": "0.56",
+				"porsiyon2": "0.28",
+				"porsiyon3": "0.13",
+				"porsiyon4": "0.33",
+				"porsiyon5": "0.03"
+			}
+		},
+		{
+			"yemek_id": "61",
+			"yemek_adi": "Watermelon",
+			"yemek_ogun_saati": "Snack",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/karpuz_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/karpuz_buyuk.jpg",
+			"yemek_detay_aciklama": "Watermelon is a fruit with high vitamin A, vitamin C, potassium mineral and low fiber content. While dieting, attention should be paid to the amount of watermelon to be consumed. Because most of its calories come from carbohydrates, it can raise blood sugar too much. Known as a very good source of fiber, watermelon has many benefits for the stomach. The fiber in it regulates the stomach and intestinal system. It prevents problems such as constipation and indigestion. Watermelon, which contains lycopene, plays an important role in preventing tissue damage that leads to cancer.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/karpuz_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "91",
+			"yemek_protein_yuzde": "6",
+			"yemek_yag_yuzde": "3",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "1 Slice (Medium)",
+				"porsiyon3": "1 Little Triangle",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "45",
+				"porsiyon2": "105",
+				"porsiyon3": "15",
+				"porsiyon4": "30",
+				"porsiyon5": "3"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "11.33",
+				"porsiyon2": "26.43",
+				"porsiyon3": "3.78",
+				"porsiyon4": "7.55",
+				"porsiyon5": "0.76"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.92",
+				"porsiyon2": "2.13",
+				"porsiyon3": "3.78",
+				"porsiyon4": "0.61",
+				"porsiyon5": "0.06"
+			},
+			"yemek_yag": {
+				"porsiyon1": "0.23",
+				"porsiyon2": "0.53",
+				"porsiyon3": "0.08",
+				"porsiyon4": "0.15",
+				"porsiyon5": "0.02"
+			}
+		},		
+		{
+			"yemek_id": "60",
+			"yemek_adi": "Gombo Soup",
+			"yemek_ogun_saati": "Lunch",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/bamya_corbasi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/bamya_corbasi_buyuk.jpg",
+			"yemek_detay_aciklama": "Gombo (Okro) Soup is a soup with high fiber content. There is no harm in consuming it while dieting. You can consume 1 scoop of okra soup instead of 3 tablespoons of vegetable food. It has high vitamin and mineral content. B group vitamins and minerals such as calcium, iron and zinc are abundant in okra seeds. It provides a protective effect against infections. It protects against cancer. It regulates the digestive system. It improves cognitive functions. It helps to lose weight.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/bamya_corbasi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "41",
+			"yemek_protein_yuzde": "12",
+			"yemek_yag_yuzde": "47",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "1 Bowl (Medium)",
+				"porsiyon3": "1 Soup Ladle",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "45",
+				"porsiyon2": "45",
+				"porsiyon3": "22",
+				"porsiyon4": "17",
+				"porsiyon5": "2"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "4.42",
+				"porsiyon2": "4.42",
+				"porsiyon3": "2.13",
+				"porsiyon4": "1.64",
+				"porsiyon5": "0.16"
+			},
+			"yemek_protein": {
+				"porsiyon1": "1.25",
+				"porsiyon2": "1.25",
+				"porsiyon3": "0.6",
+				"porsiyon4": "0.46",
+				"porsiyon5": "0.05"
+			},
+			"yemek_yag": {
+				"porsiyon1": "2.3",
+				"porsiyon2": "2.3",
+				"porsiyon3": "1.11",
+				"porsiyon4": "0.85",
+				"porsiyon5": "0.09"
+			}
+		},
+		{
+			"yemek_id": "59",
+			"yemek_adi": "Chicken Drumstick (Skinless)",
+			"yemek_ogun_saati": "Dinner",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_baget_(derisiz)_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_baget_(derisiz)_buyuk.jpg",
+			"yemek_detay_aciklama": "Chicken meat is rich in protein, potassium, phosphorus, iron and zinc. It is recommended to be consumed without skin, by boiling, oven or grill cooking methods.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/tavuk_baget_(derisiz)_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "0",
+			"yemek_protein_yuzde": "67",
+			"yemek_yag_yuzde": "33",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "1 Piece (Large)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "106",
+				"porsiyon2": "156",
+				"porsiyon3": "120",
+				"porsiyon4": "12",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "0",
+				"porsiyon2": "0",
+				"porsiyon3": "0",
+				"porsiyon4": "0",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "16.86",
+				"porsiyon2": "24.91",
+				"porsiyon3": "19.16",
+				"porsiyon4": "1.92",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "3.71",
+				"porsiyon2": "5.49",
+				"porsiyon3": "4.22",
+				"porsiyon4": "0.42",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "58",
+			"yemek_adi": "Chicken Drumstick (Skinned)",
+			"yemek_ogun_saati": "Dinner",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_baget_(derili)_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_baget_(derili)_buyuk.jpg",
+			"yemek_detay_aciklama": "Chicken meat is rich in protein, potassium, phosphorus, iron and zinc. But the cholesterol content is high. Consumption of skinned skin increases the amount of fat and calories to be consumed, so consumption should be avoided.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/tavuk_baget_(derili)_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "0",
+			"yemek_protein_yuzde": "31",
+			"yemek_yag_yuzde": "69",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "1 Piece (Medium)",
+				"porsiyon3": "1 Piece (Small)",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "238",
+				"porsiyon2": "161",
+				"porsiyon3": "107",
+				"porsiyon4": "214",
+				"porsiyon5": "21"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "0.19",
+				"porsiyon2": "0.13",
+				"porsiyon3": "0.09",
+				"porsiyon4": "0.17",
+				"porsiyon5": "0.02"
+			},
+			"yemek_protein": {
+				"porsiyon1": "18.17",
+				"porsiyon2": "12.28",
+				"porsiyon3": "8.19",
+				"porsiyon4": "16.37",
+				"porsiyon5": "1.64"
+			},
+			"yemek_yag": {
+				"porsiyon1": "17.7",
+				"porsiyon2": "11.96",
+				"porsiyon3": "7.98",
+				"porsiyon4": "15.95",
+				"porsiyon5": "1.6"
+			}
+		},
+		{
+			"yemek_id": "57",
+			"yemek_adi": "Chicken Saute",
+			"yemek_ogun_saati": "Lunch",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_sote_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_sote_buyuk.jpg",
+			"yemek_detay_aciklama": "Chicken Saute is made using ingredients such as chicken meat, tomatoes and peppers. It is a meal rich in protein, vitamin C, folic acid, potassium, phosphorus and fiber. It can be consumed at meals if attention is paid to the amount of oil in sauté making.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/tavuk_sote_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "11",
+			"yemek_protein_yuzde": "41",
+			"yemek_yag_yuzde": "48",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "1 Soup Spoon",
+				"porsiyon3": "1 Large Soup Spoon",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "288",
+				"porsiyon2": "51",
+				"porsiyon3": "59",
+				"porsiyon4": "169",
+				"porsiyon5": "17"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "7.67",
+				"porsiyon2": "1.35",
+				"porsiyon3": "1.58",
+				"porsiyon4": "4.51",
+				"porsiyon5": "0.45"
+			},
+			"yemek_protein": {
+				"porsiyon1": "28.46",
+				"porsiyon2": "5.02",
+				"porsiyon3": "5.86",
+				"porsiyon4": "16.74",
+				"porsiyon5": "1.67"
+			},
+			"yemek_yag": {
+				"porsiyon1": "15.2",
+				"porsiyon2": "2.68",
+				"porsiyon3": "3.13",
+				"porsiyon4": "8.94",
+				"porsiyon5": "0.89"
+			}
+		},
+		{
+			"yemek_id": "56",
+			"yemek_adi": "Lemonade",
+			"yemek_ogun_saati": "Drink",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/limonata_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/limonata_buyuk.jpg",
+			"yemek_detay_aciklama": "Since lemonade is homemade, it can be preferred instead of acidic beverages and fruit juices, especially in hot weather. Attention should be paid to the amount of sugar used during preparation. When lemonade is consumed, it is sufficient to consume 1 glass of water. Reminding: 1 Glass 200ml, 1 Cup 150ml, 1 Water Glass 250ml",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/limonata_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "97",
+			"yemek_protein_yuzde": "0",
+			"yemek_yag_yuzde": "3",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Glass",
+				"porsiyon2": "1 Cup",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "73",
+				"porsiyon2": "55",
+				"porsiyon3": "37",
+				"porsiyon4": "4",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "14.69",
+				"porsiyon2": "11.02",
+				"porsiyon3": "7.34",
+				"porsiyon4": "0.73",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.24",
+				"porsiyon2": "0.18",
+				"porsiyon3": "0.12",
+				"porsiyon4": "0.01",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "0.2",
+				"porsiyon2": "0.15",
+				"porsiyon3": "0.1",
+				"porsiyon4": "0.01",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "55",
+			"yemek_adi": "Nescafe 2 in 1",
+			"yemek_ogun_saati": "Drink",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/nescafe_2si1_arada_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/nescafe_2si1_arada_buyuk.jpg",
+			"yemek_detay_aciklama": "Nescafe 2-in-1 (11gr) is easily consumed compared to 3-in-1s since it is sugar-free. Reminding: 1 Glass 200ml, 1 Cup 150ml, 1 Water Glass 250ml",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/nescafe_2si1_arada_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "57",
+			"yemek_protein_yuzde": "5",
+			"yemek_yag_yuzde": "39",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Glass",
+				"porsiyon2": "1 Cup",
+				"porsiyon3": "1 Water Glass",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "50",
+				"porsiyon2": "50",
+				"porsiyon3": "50",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "6.9",
+				"porsiyon2": "6.9",
+				"porsiyon3": "6.9",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.6",
+				"porsiyon2": "0.6",
+				"porsiyon3": "0.6",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "2.09",
+				"porsiyon2": "2.09",
+				"porsiyon3": "2.09",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "54",
+			"yemek_adi": "Nescafe 3 in 1",
+			"yemek_ogun_saati": "Drink",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/nescafe_3u1_arada_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/nescafe_3u1_arada_buyuk.jpg",
+			"yemek_detay_aciklama": "Nescafe 3 in 1 (18.5gr) is a type of instant coffee consisting of coffee, milk powder, sugar and consumed hot. Reminding: 1 Glass 200ml, 1 Cup 150ml, 1 Water Glass 250ml",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/nescafe_3u1_arada_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "76",
+			"yemek_protein_yuzde": "3",
+			"yemek_yag_yuzde": "21",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Glass",
+				"porsiyon2": "1 Cup",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "81",
+				"porsiyon2": "81",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "15.19",
+				"porsiyon2": "15.19",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.5",
+				"porsiyon2": "0.5",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "1.89",
+				"porsiyon2": "1.89",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "53",
+			"yemek_adi": "Chicken Soup",
+			"yemek_ogun_saati": "Lunch",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_corbasi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_corbasi_buyuk.jpg",
+			"yemek_detay_aciklama": "Chicken soup is a soup made with chicken meat, chicken broth, flour, and noodle is also added. It is high in calories and fat.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/tavuk_corbasi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "29",
+			"yemek_protein_yuzde": "33",
+			"yemek_yag_yuzde": "38",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "1 Bowl (Medium)",
+				"porsiyon3": "1 Soup Ladle",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "132",
+				"porsiyon2": "110",
+				"porsiyon3": "83",
+				"porsiyon4": "55",
+				"porsiyon5": "6"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "8.2",
+				"porsiyon2": "6.84",
+				"porsiyon3": "5.13",
+				"porsiyon4": "3.42",
+				"porsiyon5": "0.34"
+			},
+			"yemek_protein": {
+				"porsiyon1": "9.53",
+				"porsiyon2": "7.95",
+				"porsiyon3": "5.96",
+				"porsiyon4": "3.97",
+				"porsiyon5": "0.4"
+			},
+			"yemek_yag": {
+				"porsiyon1": "4.71",
+				"porsiyon2": "3.93",
+				"porsiyon3": "2.95",
+				"porsiyon4": "1.96",
+				"porsiyon5": "0.2"
+			}
+		},
+		{
+			"yemek_id": "52",
+			"yemek_adi": "Chicken Wing (Skinned)",
+			"yemek_ogun_saati": "Lunch",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_kanadı_(derili)_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_kanadı_(derili)_buyuk.jpg",
+			"yemek_detay_aciklama": "The healthiest way to consume chicken is to consume it boiled. Since there is already fat in the chicken, it is much more beneficial for human health not to add additional fat. There are many benefits of consuming boiled chicken. Although it is beneficial to consume chicken, industrial / hormone chickens have a lot of harm. Some of these damages are as follows: Because antibiotics are used on chickens, they allow bacteria to form resistance. This ensures that beneficial bacteria die when it enters the human body. It causes girls to enter puberty at an early age. That's why, let's take care to protect ourselves and our family from hormone and packaged foods, and eat naturally grown chicken meat.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/tavuk_kanadı_(derili)_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "0",
+			"yemek_protein_yuzde": "38",
+			"yemek_yag_yuzde": "62",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "1 Piece (20gr)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "287",
+				"porsiyon2": "38",
+				"porsiyon3": "191",
+				"porsiyon4": "19",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "0",
+				"porsiyon2": "0",
+				"porsiyon3": "0",
+				"porsiyon4": "0",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "26.28",
+				"porsiyon2": "3.5",
+				"porsiyon3": "17.52",
+				"porsiyon4": "1.75",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "19.27",
+				"porsiyon2": "2.57",
+				"porsiyon3": "12.85",
+				"porsiyon4": "1.29",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "51",
+			"yemek_adi": "Chicken Wing (Skinless)",
+			"yemek_ogun_saati": "Lunch",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_kanadı_(derisiz)_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_kanadı_(derisiz)_buyuk.jpg",
+			"yemek_detay_aciklama": "The healthiest way to consume chicken is to consume it boiled. Since there is already fat in the chicken, it is much more beneficial for human health not to add additional fat. There are many benefits of consuming boiled chicken. Although it is beneficial to consume chicken, industrial / hormone chickens have a lot of harm. Some of these damages are as follows: Because antibiotics are used on chickens, they allow bacteria to form resistance. This ensures that beneficial bacteria die when it enters the human body. It causes girls to enter puberty at an early age. That's why, let's take care to protect ourselves and our family from hormone and packaged foods, and eat naturally grown chicken meat.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/tavuk_kanadı_(derisiz)_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "0",
+			"yemek_protein_yuzde": "73",
+			"yemek_yag_yuzde": "27",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "1 Piece",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "252",
+				"porsiyon2": "38",
+				"porsiyon3": "126",
+				"porsiyon4": "13",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "0",
+				"porsiyon2": "0",
+				"porsiyon3": "0",
+				"porsiyon4": "0",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "43.94",
+				"porsiyon2": "6.59",
+				"porsiyon3": "21.97",
+				"porsiyon4": "2.2",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "7.08",
+				"porsiyon2": "1.06",
+				"porsiyon3": "3.54",
+				"porsiyon4": "0.35",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "50",
+			"yemek_adi": "Chocolate Ball",
+			"yemek_ogun_saati": "Snack",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/cikolata_topu_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/cikolata_topu_buyuk.jpg",
+			"yemek_detay_aciklama": "Chocolate increases the level of serotonin in the brain and gives a feeling of happiness. Chocolate relaxes and relaxes the brain, gives happiness, causes the brain to release endorphins. This secretion makes us feel happy.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/cikolata_topu_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "61",
+			"yemek_protein_yuzde": "11",
+			"yemek_yag_yuzde": "28",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Piece (15gr)",
+				"porsiyon2": "100 Gram",
+				"porsiyon3": "10 Gram",
+				"porsiyon4": "5 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "44",
+				"porsiyon2": "292",
+				"porsiyon3": "29",
+				"porsiyon4": "15",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "6.67",
+				"porsiyon2": "44.49",
+				"porsiyon3": "4.45",
+				"porsiyon4": "2.22",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "1.17",
+				"porsiyon2": "7.77",
+				"porsiyon3": "0.78",
+				"porsiyon4": "0.39",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "1.35",
+				"porsiyon2": "9.02",
+				"porsiyon3": "0.9",
+				"porsiyon4": "0.45",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "49",
+			"yemek_adi": "Chocolate Milk",
+			"yemek_ogun_saati": "Drink",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/cikolatali_sut_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/cikolatali_sut_buyuk.jpg",
+			"yemek_detay_aciklama": "Chocolate milk is a beverage with a high sugar content. Diabetics and people who want to control weight should be careful not to consume. When healthy individuals suppress the sweet craving, they can consume up to 1 box, although not very often.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/cikolatali_sut_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "52",
+			"yemek_protein_yuzde": "14",
+			"yemek_yag_yuzde": "35",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Glass",
+				"porsiyon2": "100 Gram",
+				"porsiyon3": "1 Cup",
+				"porsiyon4": "Half of a Water Glass",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "187",
+				"porsiyon2": "93",
+				"porsiyon3": "140",
+				"porsiyon4": "117",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "24.57",
+				"porsiyon2": "12.29",
+				"porsiyon3": "18.43",
+				"porsiyon4": "15.36",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "6.73",
+				"porsiyon2": "3.37",
+				"porsiyon3": "5.05",
+				"porsiyon4": "4.21",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "7.37",
+				"porsiyon2": "3.69",
+				"porsiyon3": "5.53",
+				"porsiyon4": "4.61",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "48",
+			"yemek_adi": "Chocolate",
+			"yemek_ogun_saati": "Snack",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/cikolata_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/cikolata_buyuk.jpg",
+			"yemek_detay_aciklama": "Chocolate increases the level of serotonin in the brain and gives a feeling of happiness. Chocolate relaxes and relaxes the brain, gives happiness, causes the brain to release endorphins. This secretion makes us feel happy.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/cikolata_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "41",
+			"yemek_protein_yuzde": "3",
+			"yemek_yag_yuzde": "56",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Parça",
+				"porsiyon2": "1 Package (70gr)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "1 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "26",
+				"porsiyon2": "370",
+				"porsiyon3": "528",
+				"porsiyon4": "53",
+				"porsiyon5": "5"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "2.9",
+				"porsiyon2": "40.53",
+				"porsiyon3": "57.9",
+				"porsiyon4": "5.79",
+				"porsiyon5": "0.58"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.22",
+				"porsiyon2": "3.08",
+				"porsiyon3": "4.4",
+				"porsiyon4": "0.44",
+				"porsiyon5": "0.04"
+			},
+			"yemek_yag": {
+				"porsiyon1": "1.76",
+				"porsiyon2": "24.57",
+				"porsiyon3": "35.1",
+				"porsiyon4": "3.51",
+				"porsiyon5": "0.35"
+			}
+		},
+		{
+			"yemek_id": "47",
+			"yemek_adi": "Chocolate Flour Halva",
+			"yemek_ogun_saati": "Snack",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/cikolatali_un_helvasi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/cikolatali_un_helvasi_buyuk.jpg",
+			"yemek_detay_aciklama": "Chocolate flour halva is a dessert with high sugar and fat content, so it is also high in calories. Especially diabetics and people who want to control weight should be careful not to consume.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/cikolatali_un_helvasi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "36",
+			"yemek_protein_yuzde": "5",
+			"yemek_yag_yuzde": "59",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "1 Medium",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "447",
+				"porsiyon2": "103",
+				"porsiyon3": "344",
+				"porsiyon4": "34",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "39.53",
+				"porsiyon2": "9.12",
+				"porsiyon3": "30.41",
+				"porsiyon4": "3.04",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "5.22",
+				"porsiyon2": "1.2",
+				"porsiyon3": "4.01",
+				"porsiyon4": "0.4",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "28.79",
+				"porsiyon2": "6.64",
+				"porsiyon3": "22.15",
+				"porsiyon4": "2.21",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "46",
+			"yemek_adi": "Tripe Soup",
+			"yemek_ogun_saati": "Lunch",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/iskembe_corbasi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/iskembe_corbasi_buyuk.jpg",
+			"yemek_detay_aciklama": "It is possible to be protected from infectious diseases with tripe soup, which is rich in calcium, magnesium, phosphorus and iron. It shows the effects of increasing the body resistance. Tripe soup, with its abundant calcium, supports muscle and bone structures.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/iskembe_corbasi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "14",
+			"yemek_protein_yuzde": "44",
+			"yemek_yag_yuzde": "41",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Soup Ladle",
+				"porsiyon2": "1 Bowl (Medium)",
+				"porsiyon3": "1 Bowl (Small)",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "139",
+				"porsiyon2": "209",
+				"porsiyon3": "139",
+				"porsiyon4": "139",
+				"porsiyon5": "14"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "4.93",
+				"porsiyon2": "7.39",
+				"porsiyon3": "4.93",
+				"porsiyon4": "4.93",
+				"porsiyon5": "0.49"
+			},
+			"yemek_protein": {
+				"porsiyon1": "15.14",
+				"porsiyon2": "22.71",
+				"porsiyon3": "15.14",
+				"porsiyon4": "15.14",
+				"porsiyon5": "1.51"
+			},
+			"yemek_yag": {
+				"porsiyon1": "6.35",
+				"porsiyon2": "9.53",
+				"porsiyon3": "6.35",
+				"porsiyon4": "6.35",
+				"porsiyon5": "0.64"
+			}
+		},
+		{
+			"yemek_id": "45",
+			"yemek_adi": "Hazelnut",
+			"yemek_ogun_saati": "Snack",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/findik_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/findik_buyuk.jpg",
+			"yemek_detay_aciklama": "Unsaturated fats in hazelnut, which is a healthy snack besides being delicious, reduce the risk of heart attack by protecting cardiovascular health. This food, which is also rich in vitamin E, supports the prevention of the formation of many types of cancer, especially bladder cancer. Since vitamin E strengthens memory, consumption of hazelnuts also supports the strengthening of memory. Contributing to the increase in muscle volume and strengthening of the muscles, hazelnut also provides us with calcium and magnesium, which we need in abundance for strong bones. This nutrient, which also has a positive effect on skin health, keeps the body vigorous thanks to the vitamin E it contains.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/findik_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "10",
+			"yemek_protein_yuzde": "9",
+			"yemek_yag_yuzde": "81",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Handful",
+				"porsiyon2": "1 Piece",
+				"porsiyon3": "1 Cup",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "151",
+				"porsiyon2": "13",
+				"porsiyon3": "628",
+				"porsiyon4": "628",
+				"porsiyon5": "63"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "4.01",
+				"porsiyon2": "0.33",
+				"porsiyon3": "16.7",
+				"porsiyon4": "16.7",
+				"porsiyon5": "1.67"
+			},
+			"yemek_protein": {
+				"porsiyon1": "3.59",
+				"porsiyon2": "0.3",
+				"porsiyon3": "14.95",
+				"porsiyon4": "14.95",
+				"porsiyon5": "1.5"
+			},
+			"yemek_yag": {
+				"porsiyon1": "14.58",
+				"porsiyon2": "1.22",
+				"porsiyon3": "60.75",
+				"porsiyon4": "60.75",
+				"porsiyon5": "6.08"
+			}
+		},
+		{
+			"yemek_id": "44",
+			"yemek_adi": "Milk (Fat-Free)",
+			"yemek_ogun_saati": "Breakfast",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/sut_yagsiz_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/sut_yagsiz_buyuk.jpg",
+			"yemek_detay_aciklama": "Milk, which provides growth and development, gives strength to the body, strengthens bones and helps to prevent osteoporosis. It gives the body resistance against infections caused by microbes. It prevents skin wear and aging. It is very beneficial for the brain and provides the energy that the brain needs. It prevents the collection of fluids that cause edema in our body. It is useful in passing diarrhea. It is very good for stomach ailments. It has a significant effect on hair growth. It is beneficial for the nails to grow firmly. It is very good for tooth decay. It is useful in strengthening the muscles.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/sut_yagsiz_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "65",
+			"yemek_protein_yuzde": "32",
+			"yemek_yag_yuzde": "3",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Water Glass",
+				"porsiyon2": "Half of a Water Glass",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "68",
+				"porsiyon2": "34",
+				"porsiyon3": "34",
+				"porsiyon4": "3",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "11.04",
+				"porsiyon2": "5.52",
+				"porsiyon3": "5.52",
+				"porsiyon4": "0.55",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "5.62",
+				"porsiyon2": "2.81",
+				"porsiyon3": "2.81",
+				"porsiyon4": "0.28",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "0.22",
+				"porsiyon2": "0.11",
+				"porsiyon3": "0.11",
+				"porsiyon4": "0.01",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "43",
+			"yemek_adi": "Milk",
+			"yemek_ogun_saati": "Breakfast",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/sut_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/sut_buyuk.jpg",
+			"yemek_detay_aciklama": "Milk, which provides growth and development, gives strength to the body, strengthens bones and helps to prevent osteoporosis. It gives the body resistance against infections caused by microbes. It prevents skin wear and aging. It is very beneficial for the brain and provides the energy that the brain needs. It prevents the collection of fluids that cause edema in our body. It is useful in passing diarrhea. It is very good for stomach ailments. It has a significant effect on hair growth. It is beneficial for the nails to grow firmly. It is very good for tooth decay. It is useful in strengthening the muscles.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/sut_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "31",
+			"yemek_protein_yuzde": "21",
+			"yemek_yag_yuzde": "48",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Water Glass",
+				"porsiyon2": "Half of a Water Glass",
+				"porsiyon3": "1 Cup",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "122",
+				"porsiyon2": "73",
+				"porsiyon3": "46",
+				"porsiyon4": "61",
+				"porsiyon5": "6"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "9.4",
+				"porsiyon2": "5.64",
+				"porsiyon3": "3.53",
+				"porsiyon4": "4.7",
+				"porsiyon5": "0.47"
+			},
+			"yemek_protein": {
+				"porsiyon1": "6.6",
+				"porsiyon2": "3.96",
+				"porsiyon3": "2.48",
+				"porsiyon4": "3.3",
+				"porsiyon5": "0.33"
+			},
+			"yemek_yag": {
+				"porsiyon1": "6.6",
+				"porsiyon2": "3.96",
+				"porsiyon3": "2.48",
+				"porsiyon4": "3.3",
+				"porsiyon5": "0.33"
+			}
+		},
+		{
+			"yemek_id": "42",
+			"yemek_adi": "Lettuce",
+			"yemek_ogun_saati": "Snack",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/marul_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/marul_buyuk.jpg",
+			"yemek_detay_aciklama": "Lettuce is a very rich food in terms of vitamins and minerals, which is used raw in salads almost all over the world and loved by everyone. It contains vitamins A, B, C, D, E and minerals such as copper, zinc, iron, phosphorus, iodine, calcium and sodium. A powerful source of fiber and antioxidants, lettuce is beneficial in many ways, from hair and skin diseases to heart health. It lowers cholesterol levels. Renews skin cells. Anti-cancer potential. It reduces the risk of diabetes. It improves vision. Supports digestive health.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/marul_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "54",
+			"yemek_protein_yuzde": "32",
+			"yemek_yag_yuzde": "15",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Bundle",
+				"porsiyon2": "1 Full (Medium)",
+				"porsiyon3": "1 Piece (Small)",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "16",
+				"porsiyon2": "80",
+				"porsiyon3": "8",
+				"porsiyon4": "16",
+				"porsiyon5": "2"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 1.7",
+				"porsiyon2": "8.5",
+				"porsiyon3": " 0.85",
+				"porsiyon4": " 1.7",
+				"porsiyon5": " 0.17"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 0.9",
+				"porsiyon2": "4.5",
+				"porsiyon3": " 0.45",
+				"porsiyon4": " 0.9",
+				"porsiyon5": " 0.09"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 0.2",
+				"porsiyon2": " 1",
+				"porsiyon3": " 0.1",
+				"porsiyon4": " 0.2",
+				"porsiyon5": " 0.02"
+			}
+		},
+		{
+			"yemek_id": "41",
+			"yemek_adi": "Broccoli",
+			"yemek_ogun_saati": "Dinner",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/brokoli_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/brokoli_buyuk.jpg",
+			"yemek_detay_aciklama": "Broccoli, which is very beneficial for health, is very rich in antioxidants, which is effective in preventing cancer, diabetes, serious diseases related to the heart and digestive system, strengthening the immune system and delaying aging. At the same time, thanks to the beta-carotenes it contains, it supports the prevention of stomach, esophagus and intestinal cancers. When consumed regularly, it eliminates iron and mineral deficiencies in the body, helps to keep the skin alive and healthy by balancing the pH level of the body. A pinch of broccoli, which is also very rich in vitamins K and C, calcium, magnesium, zinc and phosphorus, is enough to meet more than half of the daily calcium need. In this respect, it also affects the development of bone and dental health. Thanks to the chromium contained in it, it regulates blood sugar and contributes to healthy insulin secretion. In addition to all these, due to its folic acid content, it is recommended to be consumed especially during pregnancy and lactation.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/brokoli_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "40",
+			"yemek_protein_yuzde": "52",
+			"yemek_yag_yuzde": "8",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "1 Bowl (Medium)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "39",
+				"porsiyon2": "26",
+				"porsiyon3": "26",
+				"porsiyon4": "3",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "3.77",
+				"porsiyon2": "2.51",
+				"porsiyon3": "2.51",
+				"porsiyon4": " 0.25",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "4.95",
+				"porsiyon2": " 3.3",
+				"porsiyon3": " 3.3",
+				"porsiyon4": " 0.33",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 0.3",
+				"porsiyon2": " 0.2",
+				"porsiyon3": " 0.2",
+				"porsiyon4": " 0.02",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "40",
+			"yemek_adi": "Walnut",
+			"yemek_ogun_saati": "Snack",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/ceviz_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/ceviz_buyuk.jpg",
+			"yemek_detay_aciklama": "When consumed regularly, the benefits of walnuts increase and strengthen the immune system. It makes the skin shine for a long time and prevents the formation of wrinkles on the skin. Walnut consumption increases the level of melatonin in the blood and causes sleepiness. Therefore, it contributes to the development of sleep.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/ceviz_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "6",
+			"yemek_protein_yuzde": "14",
+			"yemek_yag_yuzde": "80",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Piece (Medium)",
+				"porsiyon2": "1 Piece (Half)",
+				"porsiyon3": "1 Tea Cup",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "31",
+				"porsiyon2": "12",
+				"porsiyon3": "619",
+				"porsiyon4": "619",
+				"porsiyon5": "62"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "0.48",
+				"porsiyon2": " 0.19",
+				"porsiyon3": " 9.58",
+				"porsiyon4": " 9.58",
+				"porsiyon5": "0.96"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 1.2",
+				"porsiyon2": " 0.48",
+				"porsiyon3": " 24.06",
+				"porsiyon4": " 24.06",
+				"porsiyon5": " 2.41"
+			},
+			"yemek_yag": {
+				"porsiyon1": "2.97",
+				"porsiyon2": " 1.19",
+				"porsiyon3": " 59.33",
+				"porsiyon4": " 59.33",
+				"porsiyon5": " 5.93"
+			}
+		},
+		{
+			"yemek_id": "39",
+			"yemek_adi": "Tomato",
+			"yemek_ogun_saati": "Breakfast",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/domates_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/domates_buyuk.jpg",
+			"yemek_detay_aciklama": "The countless benefits of tomatoes also provide relief from diabetes, skin problems and urinary tract infections, as well as improve digestion, stimulate blood circulation, reduce cholesterol levels, increase fluid balance, protect kidneys, detoxify the body, prevent premature aging and reduce inflammation.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/domates_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "73",
+			"yemek_protein_yuzde": "18",
+			"yemek_yag_yuzde": "9",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Piece (Medium)",
+				"porsiyon2": "1 Piece (Half)",
+				"porsiyon3": "1 Quarter",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "20",
+				"porsiyon2": "10",
+				"porsiyon3": "5",
+				"porsiyon4": "18",
+				"porsiyon5": "2"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 4.28",
+				"porsiyon2": " 2.14",
+				"porsiyon3": " 0.97",
+				"porsiyon4": " 3.89",
+				"porsiyon5": " 0.39"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 0.97",
+				"porsiyon2": " 0.48",
+				"porsiyon3": " 0.22",
+				"porsiyon4": " 0.88",
+				"porsiyon5": " 0.09"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 0.22",
+				"porsiyon2": " 0.11",
+				"porsiyon3": " 0.05",
+				"porsiyon4": " 0.2",
+				"porsiyon5": " 0.02"
+			}
+		},
+		{
+			"yemek_id": "38",
+			"yemek_adi": "Lifalif Oatmeal",
+			"yemek_ogun_saati": "Breakfast",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/lifalif_yulaf_ezmesi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/lifalif_yulaf_ezmesi_buyuk.jpg",
+			"yemek_detay_aciklama": "Eti lisalif oatmeal has a high fiber content. It has the feature of supporting the digestive system. Attention should be paid to the amount of time to be consumed. It is enough to consume 3-4 tablespoons as 1 serving.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/lifalif_yulaf_ezmesi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "65",
+			"yemek_protein_yuzde": "16",
+			"yemek_yag_yuzde": "19",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "1 Soup Spoon",
+				"porsiyon3": "1 Tea Cup",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "110",
+				"porsiyon2": "44",
+				"porsiyon3": "165",
+				"porsiyon4": "367",
+				"porsiyon5": "37"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 16.86",
+				"porsiyon2": " 6.74",
+				"porsiyon3": "25.29",
+				"porsiyon4": " 56.2",
+				"porsiyon5": " 5.62"
+			},
+			"yemek_protein": {
+				"porsiyon1": "4.17",
+				"porsiyon2": "1.67",
+				"porsiyon3": "6.26",
+				"porsiyon4": " 13.9",
+				"porsiyon5": " 1.39"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 2.22",
+				"porsiyon2": "0.89",
+				"porsiyon3": " 3.33",
+				"porsiyon4": " 7.4",
+				"porsiyon5": " 0.74"
+			}
+		},
+		{
+			"yemek_id": "37",
+			"yemek_adi": "Rolled Oats",
+			"yemek_ogun_saati": "Breakfast",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/yulaf_ezmesi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/yulaf_ezmesi_buyuk.jpg",
+			"yemek_detay_aciklama": "It strengthens immunity, It helps to protect the health of the heart, It regulates the cholesterol level in the blood, It normalizes the blood sugar level with the digestive system, It has important benefits in the protection of skin health. It is a type of food that makes it easier for dieters to lose weight. It minimizes the risk of colon cancer. The antioxidant components in its content, together with vitamin C, prevent the damage of LDL cholesterol to the tissues and eliminate the risk of heart attack and stroke. Type-2 diabetes, one of the most common chronic diseases in the world, usually occurs due to decreased sensitivity to insulin hormone. Consumed regularly and in recommended amounts, oats help regulate blood sugar, especially in people who are overweight and have Type-2 diabetes. Beta-glucan, a soluble fiber found in oats, forms a thick gel in the stomach and delays gastric emptying, causing a slow rise in blood sugar.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/yulaf_ezmesi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "67",
+			"yemek_protein_yuzde": "17",
+			"yemek_yag_yuzde": "16",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Soup Spoon",
+				"porsiyon2": "1 Water Glass",
+				"porsiyon3": "1 Bowl (Medium)",
+				"porsiyon4": "1 Tatlı Kaşığı",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "39",
+				"porsiyon2": "272",
+				"porsiyon3": "389",
+				"porsiyon4": "12",
+				"porsiyon5": "39"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 6.63",
+				"porsiyon2": " 46.39",
+				"porsiyon3": " 66.27",
+				"porsiyon4": " 1.99",
+				"porsiyon5": " 6.63"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 1.69",
+				"porsiyon2": " 11.82",
+				"porsiyon3": " 16.89",
+				"porsiyon4": " 0.51",
+				"porsiyon5": " 1.69"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 0.69",
+				"porsiyon2": " 4.83",
+				"porsiyon3": " 6.9",
+				"porsiyon4": " 0.21",
+				"porsiyon5": " 0.69"
+			}
+		},
+		{
+			"yemek_id": "36",
+			"yemek_adi": "Lentil Salad",
+			"yemek_ogun_saati": "Snack",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/mercimek_salatasi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/mercimek_salatasi_buyuk.jpg",
+			"yemek_detay_aciklama": "Thanks to its high protein, green lentils contribute to bone health. Green lentils, which strengthen the body's muscular system, increase the body's immunity by reducing the number of diseased cells. It makes the stomach feel full for a long time. Green lentils, which are also rich in fiber, clean the intestines.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/mercimek_salatasi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "66",
+			"yemek_protein_yuzde": "29",
+			"yemek_yag_yuzde": "5",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "100 Gram",
+				"porsiyon3": "10 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "282",
+				"porsiyon2": "92",
+				"porsiyon3": "9",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "40.31",
+				"porsiyon2": "13.13",
+				"porsiyon3": " 1.31",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "17.54",
+				"porsiyon2": " 5.71",
+				"porsiyon3": " 0.57",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 1.22",
+				"porsiyon2": " 0.4",
+				"porsiyon3": " 0.04",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "35",
+			"yemek_adi": "Lentil Meatballs",
+			"yemek_ogun_saati": "Lunch",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/mercimek_koftesi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/mercimek_koftesi_buyuk.jpg",
+			"yemek_detay_aciklama": "Lentil meatballs are rich in vitamins of group A and B, potassium, iron, phosphorus, zinc, folic acid and fiber. When you eat 2 lentil patties, you should reduce your daily right by 1 slice of bread and 1 teaspoon of oil.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/mercimek_koftesi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "54",
+			"yemek_protein_yuzde": "13",
+			"yemek_yag_yuzde": "33",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "1 Piece",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "291",
+				"porsiyon2": "39",
+				"porsiyon3": "130",
+				"porsiyon4": "13",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 38.1",
+				"porsiyon2": " 5.08",
+				"porsiyon3": " 16.93",
+				"porsiyon4": " 1.69",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 9.07",
+				"porsiyon2": "1.21",
+				"porsiyon3": "4.03",
+				"porsiyon4": " 0.4",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 10.23",
+				"porsiyon2": " 1.36",
+				"porsiyon3": " 4.55",
+				"porsiyon4": " 0.45",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "34",
+			"yemek_adi": "Lentil Meal",
+			"yemek_ogun_saati": "Lunch",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/mercimek_yemegi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/mercimek_yemegi_buyuk.jpg",
+			"yemek_detay_aciklama": "Lentil meal is rich in vegetable protein and vitamins and minerals. It also has fiber content. Therefore, it can be preferred as legumes in main meals. It should be noted that the consumption of bread should be low.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/mercimek_yemegi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "47",
+			"yemek_protein_yuzde": "25",
+			"yemek_yag_yuzde": "28",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "1 Tablespoon",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "164",
+				"porsiyon2": "18",
+				"porsiyon3": "71",
+				"porsiyon4": "7",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 17.04",
+				"porsiyon2": " 1.85",
+				"porsiyon3": "7.41",
+				"porsiyon4": " 0.74",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 8.97",
+				"porsiyon2": "0.98",
+				"porsiyon3": " 3.9",
+				"porsiyon4": " 0.39",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 4.52",
+				"porsiyon2": " 0.49",
+				"porsiyon3": " 1.97",
+				"porsiyon4": " 0.2",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "33",
+			"yemek_adi": "Orange Juice",
+			"yemek_ogun_saati": "Drink",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/portakal_suyu_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/portakal_suyu_buyuk.jpg",
+			"yemek_detay_aciklama": "Orange juice is a beverage that improves your health with its important properties such as cancer prevention, fight against free radicals, strengthening the immune system and detoxification. The high level of vitamin C contained in oranges is an important nutrient that cannot be produced by the human body. For this reason, it must be taken from the outside through the diet. Orange juice is also rich in hesperidin, an important antioxidant that reduces the growth of tumors. Orange juice also contains ascorbic acid, one of the key components of collagen. A compound effective in the repair of collagen cells and the growth of new tissues in the body. Therefore, orange juice also plays an important role in delaying premature aging. Orange juice is also rich in vitamin A, which acts as an antioxidant. Moreover, since the juice supports kidney functions, it helps to cleanse the body of toxins. Vitamin A is also a nutrient that protects eye health. By consuming orange juice regularly, you can prevent the onset of many eye diseases such as macular degeneration.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/portakal_suyu_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "94",
+			"yemek_protein_yuzde": "3",
+			"yemek_yag_yuzde": "3",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Water Glass",
+				"porsiyon2": "Half of a Water Glass",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "120",
+				"porsiyon2": "60",
+				"porsiyon3": "60",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 29.28",
+				"porsiyon2": "14.64",
+				"porsiyon3": "14.64",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 0.8",
+				"porsiyon2": " 0.4",
+				"porsiyon3": " 0.4",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 0.33",
+				"porsiyon2": " 0.17",
+				"porsiyon3": " 0.17",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "32",
+			"yemek_adi": "Stuffed Meatballs (with Bulgur)",
+			"yemek_ogun_saati": "Dinner",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/icli_kofte_bulgurlu_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/icli_kofte_bulgurlu_buyuk.jpg",
+			"yemek_detay_aciklama": "Thanks to the bulgur used in making İçli Meatballs (Kitel), it is rich in pulp and B group vitamins. Boiling should be preferred instead of frying as a cooking method.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/icli_kofte_bulgurlu_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "49",
+			"yemek_protein_yuzde": "15",
+			"yemek_yag_yuzde": "36",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "1 Piece (Medium)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "459",
+				"porsiyon2": "153",
+				"porsiyon3": "219",
+				"porsiyon4": "22",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 55.44",
+				"porsiyon2": " 18.48",
+				"porsiyon3": " 26.4",
+				"porsiyon4": " 2.64",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 17.15",
+				"porsiyon2": " 5.72",
+				"porsiyon3": " 8.17",
+				"porsiyon4": " 0.82",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 18.36",
+				"porsiyon2": " 6.12",
+				"porsiyon3": " 8.74",
+				"porsiyon4": " 0.87",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "31",
+			"yemek_adi": "Stuffed Meatballs (with Minced Meat)",
+			"yemek_ogun_saati": "Dinner",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/icli_kofte_kiymali_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/icli_kofte_kiymali_buyuk.jpg",
+			"yemek_detay_aciklama": "Kibbeh is a stewed or fried dish that consists of minced meat, walnuts and various spices on the inside and includes semolina, bulgur, minced meat and tomato paste on the outside. It should not be preferred often, it should be boiled and eaten in small amounts when eaten.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/icli_kofte_kiymali_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "56",
+			"yemek_protein_yuzde": "17",
+			"yemek_yag_yuzde": "27",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "1 Piece (Medium)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "349",
+				"porsiyon2": "163",
+				"porsiyon3": "233",
+				"porsiyon4": "23",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 48.42",
+				"porsiyon2": " 22.6",
+				"porsiyon3": " 32.28",
+				"porsiyon4": " 3.23",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "14.8",
+				"porsiyon2": " 6.91",
+				"porsiyon3": " 9.87",
+				"porsiyon4": " 0.99",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "10.25",
+				"porsiyon2": "4.78",
+				"porsiyon3": " 6.83",
+				"porsiyon4": "0.68",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "30",
+			"yemek_adi": "Orange",
+			"yemek_ogun_saati": "Snack",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/portakal_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/portakal_buyuk.jpg",
+			"yemek_detay_aciklama": "Orange, a fruit from the citrus family, is one of the most popular fruits of the winter months. The fruit, which is considered as the harbinger of winter, has full round or egg-shaped varieties. Orange, which is mostly grown in the Mediterranean Region in Turkey, is also grown in regions with microclimate characteristics such as Rize. Orange, whose peel has a yellowish orange color, is one of the most consumed fruits with its nice smell, sour taste and benefits for body health.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/portakal_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "90",
+			"yemek_protein_yuzde": "6",
+			"yemek_yag_yuzde": "4",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Piece",
+				"porsiyon2": "1 Slice (Medium)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "101",
+				"porsiyon2": "14",
+				"porsiyon3": "46",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "25.39",
+				"porsiyon2": " 3.46",
+				"porsiyon3": " 11.54",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 1.54",
+				"porsiyon2": " 0.21",
+				"porsiyon3": " 0.7",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 0.46",
+				"porsiyon2": " 0.06",
+				"porsiyon3": " 0.21",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "29",
+			"yemek_adi": "Baklava",
+			"yemek_ogun_saati": "Snack",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/baklava_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/baklava_buyuk.jpg",
+			"yemek_detay_aciklama": "Baklava, which is one of the desserts that many people love to eat, stands out among the desserts with sherbet. However, it is necessary to be careful when consuming this dessert, which is high in sugar and carbohydrates. Baklava, which you can easily make with the materials at home, is an indispensable part of the holiday tables.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/baklava_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "47",
+			"yemek_protein_yuzde": "7",
+			"yemek_yag_yuzde": "46",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Piece",
+				"porsiyon2": "1 Portion (Medium)",
+				"porsiyon3": "1 Piece (Half)",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "165",
+				"porsiyon2": "659",
+				"porsiyon3": "82",
+				"porsiyon4": "412",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 19.74",
+				"porsiyon2": " 78.97",
+				"porsiyon3": " 9.87",
+				"porsiyon4": "49.36",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "3.09",
+				"porsiyon2": " 12.36",
+				"porsiyon3": " 1.55",
+				"porsiyon4": " 7.73",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 8.59",
+				"porsiyon2": " 34.36",
+				"porsiyon3": " 4.3",
+				"porsiyon4": "21.48",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "28",
+			"yemek_adi": "Yoghurt",
+			"yemek_ogun_saati": "Snack",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/yogurt_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/yogurt_buyuk.jpg",
+			"yemek_detay_aciklama": "Yogurt is a very good source of calcium, and at the same time, it is a food that should be in the diet every day. It is a good source of protein when low-fat is preferred. 1 bowl of yogurt is equal to 1 milk exchange.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/yogurt_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "31",
+			"yemek_protein_yuzde": "23",
+			"yemek_yag_yuzde": "47",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Bowl (200 gr)",
+				"porsiyon2": "1 Tablespoon",
+				"porsiyon3": "1 Water Glass",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "122",
+				"porsiyon2": "27",
+				"porsiyon3": "110",
+				"porsiyon4": "61",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 9.32",
+				"porsiyon2": " 2.1",
+				"porsiyon3": " 8.39",
+				"porsiyon4": " 4.66",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 6.94",
+				"porsiyon2": " 1.56",
+				"porsiyon3": "6.25",
+				"porsiyon4": " 3.47",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 6.5",
+				"porsiyon2": " 1.46",
+				"porsiyon3": "5.85",
+				"porsiyon4": " 3.25",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "27",
+			"yemek_adi": "Pea Meal",
+			"yemek_ogun_saati": "Dinner",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/bezelye_yemegi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/bezelye_yemegi_buyuk.jpg",
+			"yemek_detay_aciklama": "In terms of nutritional content, peas are packed with vitamin A, vitamin C, iron, potassium, dietary fiber, magnesium, folic acid, and little healthy fats. It is known that the protective polyphenol called coumestrol, which is abundant in peas, prevents terrible diseases such as stomach cancer.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/bezelye_yemegi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "66",
+			"yemek_protein_yuzde": "18",
+			"yemek_yag_yuzde": "16",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "100 Gram",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "235",
+				"porsiyon2": "66",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "39.95",
+				"porsiyon2": " 11.21",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 10.96",
+				"porsiyon2": " 3.07",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 4.26",
+				"porsiyon2": " 1.2",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "26",
+			"yemek_adi": "Split Pea Soup",
+			"yemek_ogun_saati": "Dinner",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/bezelye_corbasi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/bezelye_corbasi_buyuk.jpg",
+			"yemek_detay_aciklama": "Pea Soup is a soup with a high carbohydrate content due to its starchy vegetable peas and flour content. Diabetics should not choose too often.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/bezelye_corbasi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "38",
+			"yemek_protein_yuzde": "14",
+			"yemek_yag_yuzde": "48",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Bowl (Medium)",
+				"porsiyon2": "1 Soup Ladle",
+				"porsiyon3": "1 Soup Spoon",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "41",
+				"porsiyon2": "31",
+				"porsiyon3": "2",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 4.09",
+				"porsiyon2": " 3.06",
+				"porsiyon3": " 0.2",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 1.4",
+				"porsiyon2": " 1.05",
+				"porsiyon3": " 0.07",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 2.14",
+				"porsiyon2": " 1.6",
+				"porsiyon3": " 0.11",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "25",
+			"yemek_adi": "Fresh Peas (Cooked)",
+			"yemek_ogun_saati": "Dinner",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/taze_bezelye_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/taze_bezelye_buyuk.jpg",
+			"yemek_detay_aciklama": "Standing out as a rich source of protein, peas are a very important food for everyone, especially vegetarians and vegans. The green beans of the pea, which belongs to the legume family, are mostly consumed. These grains contain not only protein, but also many vitamins and minerals. There are 12.59 grams of carbohydrates, 0.49 grams of fat, 84 calories, 6.71 grams of protein, 5.29 grams of fiber, 27 milligrams of calcium, 74 milligrams of vitamin A, 1.78 milligrams of iron, 15.64 milligrams of vitamin C, 2 milligrams of sodium and 259 milligrams of potassium in 100 grams of fresh peas. Peas, which are rich in fiber, have a special place in healthy nutrition.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/taze_bezelye_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "73",
+			"yemek_protein_yuzde": "24",
+			"yemek_yag_yuzde": "2",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Water Glass",
+				"porsiyon2": "1 Tablespoon",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "126",
+				"porsiyon2": "13",
+				"porsiyon3": "84",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 23.45",
+				"porsiyon2": "2.34",
+				"porsiyon3": "15.63",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "8.04",
+				"porsiyon2": " 0.8",
+				"porsiyon3": " 5.36",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 0.33",
+				"porsiyon2": "0.03",
+				"porsiyon3": " 0.22",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "24",
+			"yemek_adi": "Pastry",
+			"yemek_ogun_saati": "Snack",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pogaca_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pogaca_buyuk.jpg",
+			"yemek_detay_aciklama": "Bun contains less vitamins, minerals and fiber than other foods. Despite this situation, the benefits of pastry are as follows; It facilitates digestion. It prevents allergies in the body. It gives energy. It lowers blood sugar. It removes urine. Balances the hormone level.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/pogaca_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "37",
+			"yemek_protein_yuzde": "8",
+			"yemek_yag_yuzde": "55",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Piece (Medium)",
+				"porsiyon2": "1 Portion (Medium)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "243",
+				"porsiyon2": "225",
+				"porsiyon3": "347",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 22.33",
+				"porsiyon2": " 20.74",
+				"porsiyon3": " 31.9",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 4.91",
+				"porsiyon2": "4.55",
+				"porsiyon3": " 7.01",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 14.74",
+				"porsiyon2": " 13.69",
+				"porsiyon3": " 21.06",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "23",
+			"yemek_adi": "Sesame Bagel",
+			"yemek_ogun_saati": "Breakfast",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/susamli_simit_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/susamli_simit_buyuk.jpg",
+			"yemek_detay_aciklama": "Simit is a delicious food as well as a useful food. The vitamins and antioxidants in the sesame seeds on the bagel are very beneficial for our health. It has immune-boosting properties. It provides a more resistant body structure. Sesame oil, obtained by pressing the ripe seeds of the plant, whose Latin name is Sesamum indicum, contains antioxidant compounds called sesamolin, sesamol and sesamin. It contains significant amounts of vitamins A, E and C. Sesame oil, which is rich in lecithin, which is beneficial for brain and nerve cells, and iron mineral required for anemia, has a protective effect against bowel cancer. Sesame oil helps maintain cholesterol levels and prevent diabetes. However, excessive intake of sesame-containing foods such as bagels can cause weight problems. It can cause redness, itching and rash problems on the skin in people who are prone to developing an allergic reaction.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/susamli_simit_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "75",
+			"yemek_protein_yuzde": "14",
+			"yemek_yag_yuzde": "11",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Piece (Medium) (100 gr)",
+				"porsiyon2": "1 Piece (Half)",
+				"porsiyon3": "1 Piece (Quarter)",
+				"porsiyon4": "1 Piece (Large)",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "275",
+				"porsiyon2": "138",
+				"porsiyon3": "69",
+				"porsiyon4": "413",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 57.14",
+				"porsiyon2": "28.57",
+				"porsiyon3": " 14.29",
+				"porsiyon4": " 85.71",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 10.71",
+				"porsiyon2": " 5.36",
+				"porsiyon3": "2.68",
+				"porsiyon4": " 16.07",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "3.57",
+				"porsiyon2": " 1.79",
+				"porsiyon3": " 0.89",
+				"porsiyon4": " 5.36",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "22",
+			"yemek_adi": "Triangle Cheese",
+			"yemek_ogun_saati": "Breakfast",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pinar_ucgen_peynir_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pinar_ucgen_peynir_buyuk.jpg",
+			"yemek_detay_aciklama": "Triangle Cheese can be consumed infrequently to diversify breakfasts. When consumed, it is sufficient to consume 2 middle triangles.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/pinar_ucgen_peynir_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "5",
+			"yemek_protein_yuzde": "25",
+			"yemek_yag_yuzde": "70",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Piece",
+				"porsiyon2": "100 Gram",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "39",
+				"porsiyon2": "312",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 0.5",
+				"porsiyon2": "4",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "2.4",
+				"porsiyon2": " 19.2",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "3",
+				"porsiyon2": "24",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+
+
+		{
+			"yemek_id": "21",
+			"yemek_adi": "Cheddar Cheese",
+			"yemek_ogun_saati": "Breakfast",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/sutas_kasar_peyniri_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/sutas_kasar_peyniri_buyuk.jpg",
+			"yemek_detay_aciklama": "Cheddar Cheese is a cheese with high calcium content. It can be preferred to meet the daily calcium need, but since it is a high-fat cheese, it is sufficient to consume 2 thin slices for breakfast and when it will be consumed.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/sutas_kasar_peyniri_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "2",
+			"yemek_protein_yuzde": "32",
+			"yemek_yag_yuzde": "66",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Slice (Thin)",
+				"porsiyon2": "1 Slice (Thick)",
+				"porsiyon3": "1 Package (250 gr)",
+				"porsiyon4": "1 Package (8 Sliceli)",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "68",
+				"porsiyon2": "102",
+				"porsiyon3": "850",
+				"porsiyon4": "544",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 0.34",
+				"porsiyon2": " 0.51",
+				"porsiyon3": " 4.25",
+				"porsiyon4": " 2.72",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "5.4",
+				"porsiyon2": " 8.1",
+				"porsiyon3": " 67.5",
+				"porsiyon4": " 43.2",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "5",
+				"porsiyon2": " 7.5",
+				"porsiyon3": " 62.5",
+				"porsiyon4": "40",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "20",
+			"yemek_adi": "Meatless Potato Meal",
+			"yemek_ogun_saati": "Dinner",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/patates_yemegi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/patates_yemegi_buyuk.jpg",
+			"yemek_detay_aciklama": "The high fiber content of potatoes facilitates digestion. Fiber supports digestion and supports bowel regularity by adding bulk to stool. Potatoes can also help you get rid of diarrhea fast. Potatoes are rich in potassium, a mineral that is excessively lost during diarrhea.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/patates_yemegi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "35",
+			"yemek_protein_yuzde": "6",
+			"yemek_yag_yuzde": "59",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "1 Tablespoon",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "444",
+				"porsiyon2": "19",
+				"porsiyon3": "193",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 38.65",
+				"porsiyon2": " 1.68",
+				"porsiyon3": " 16.8",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "6.24",
+				"porsiyon2": "0.27",
+				"porsiyon3": " 2.71",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 29.24",
+				"porsiyon2": " 1.27",
+				"porsiyon3": "12.71",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "19",
+			"yemek_adi": "Noodle Soup",
+			"yemek_ogun_saati": "Lunch",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/sehriye_corbasi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/sehriye_corbasi_buyuk.jpg",
+			"yemek_detay_aciklama": "Noodle soup, which is almost a source of healing for patients, is one of the soups that warms us and is loved in the winter months. Barley is very nutritious because it contains plenty of protein and vitamins B1, B3 and B6. Barley noodle soup is the most beneficial soup to strengthen the heart.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/sehriye_corbasi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "66",
+			"yemek_protein_yuzde": "9",
+			"yemek_yag_yuzde": "25",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Bowl (Medium)",
+				"porsiyon2": "1 Bowl (Small)",
+				"porsiyon3": "1 Soup Ladle",
+				"porsiyon4": "1 Soup Spoon",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "181",
+				"porsiyon2": "136",
+				"porsiyon3": "136",
+				"porsiyon4": "9",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "30",
+				"porsiyon2": " 22.5",
+				"porsiyon3": "22.5",
+				"porsiyon4": " 1.5",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "4",
+				"porsiyon2": "3",
+				"porsiyon3": "3",
+				"porsiyon4": "0.2",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "5",
+				"porsiyon2": " 3.75",
+				"porsiyon3": " 3.75",
+				"porsiyon4": "0.25",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "18",
+			"yemek_adi": "Feta Cheese",
+			"yemek_ogun_saati": "Breakfast",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/beyaz_peynir_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/beyaz_peynir_buyuk.jpg",
+			"yemek_detay_aciklama": "Cheese is known as a food that is loved by almost everyone and has become an indispensable part of breakfast. Feta cheese is known as a dairy product with a high energy value and rich in protein, B2 and calcium. Cheese contains fat-soluble vitamins A, C, D, E and K and is among the foods richest in vitamin A. The food, which is a fixture in every home with its healthy content, also contains vitamins B6 and B12, which are vital for the health of organs. In addition to all these vitamins, it also contains thiamine, riboflavin, niacin, folate and pantothenic acid that the body needs. Cheese provides many health benefits thanks to the nutrients it contains. Cheese consumption plays an important role in many issues from strengthening bones to protecting dental health and preventing cancer.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/beyaz_peynir_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "3",
+			"yemek_protein_yuzde": "26",
+			"yemek_yag_yuzde": "70",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Slice (Medium)",
+				"porsiyon2": "1 Slice (Half)",
+				"porsiyon3": "1 Soup Spoon",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "93",
+				"porsiyon2": "47",
+				"porsiyon3": "31",
+				"porsiyon4": "310",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 0.76",
+				"porsiyon2": " 0.38",
+				"porsiyon3": "0.25",
+				"porsiyon4": " 2.53",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "6.11",
+				"porsiyon2": "3.06",
+				"porsiyon3": "2.04",
+				"porsiyon4": " 20.38",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "7.29",
+				"porsiyon2": "3.65",
+				"porsiyon3": " 2.43",
+				"porsiyon4": " 24.31",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "17",
+			"yemek_adi": "Green Olive",
+			"yemek_ogun_saati": "Breakfast",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/yesil_zeytin_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/yesil_zeytin_buyuk.jpg",
+			"yemek_detay_aciklama": "Green Olive is a food with high fat content. Since the salt content is high, those with salt restrictions should prefer unsalted olives. 8 green olives can be consumed instead of 1 teaspoon of oil. Because olives help reduce oxidative stress caused by inflammation, they protect the tissues of vital organs (i.e. your brain!) from harmful and irreversible damage. Another benefit: Olives contain vitamin E, an antioxidant linked to improved cognition and reduced risk of cognitive decline. Diets that rely on olive oil as a primary source of fat have proven effective in reducing the risk of Alzheimer's disease.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/yesil_zeytin_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "9",
+			"yemek_protein_yuzde": "3",
+			"yemek_yag_yuzde": "87",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Piece",
+				"porsiyon2": "1 Portion (Medium 6 Piece)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "6",
+				"porsiyon2": "35",
+				"porsiyon3": "145",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "0.15",
+				"porsiyon2": " 0.92",
+				"porsiyon3": " 3.84",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 0.05",
+				"porsiyon2": "0.31",
+				"porsiyon3": "1.3",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 0.61",
+				"porsiyon2": " 3.68",
+				"porsiyon3": " 15.32",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "16",
+			"yemek_adi": "Black Olive",
+			"yemek_ogun_saati": "Breakfast",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/siyah_zeytin_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/siyah_zeytin_buyuk.jpg",
+			"yemek_detay_aciklama": "Olives control blood pressure. Olives are a source of dietary fiber as an alternative to fruits and vegetables. Olives act as antioxidants and protect cells. Olives reduce the effects of degenerative diseases such as Alzheimer's, benign and malignant tumors. Because olives help reduce oxidative stress caused by inflammation, they protect the tissues of vital organs from harmful and irreversible damage. Another benefit: Olives contain vitamin E, an antioxidant linked to improved cognition and reduced risk of cognitive decline. Diets that rely on olive oil as a primary source of fat have proven effective in reducing the risk of Alzheimer's disease.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/siyah_zeytin_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "19",
+			"yemek_protein_yuzde": "2",
+			"yemek_yag_yuzde": "78",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Piece",
+				"porsiyon2": "1 Portion (Medium 6 Piece)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "5",
+				"porsiyon2": "27",
+				"porsiyon3": "116",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "0.24",
+				"porsiyon2": "1.39",
+				"porsiyon3": "6.04",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.03",
+				"porsiyon2": "0.19",
+				"porsiyon3": "0.84",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "0.44",
+				"porsiyon2": "2.51",
+				"porsiyon3": "10.9",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "15",
+			"yemek_adi": "Mushroom",
+			"yemek_ogun_saati": "Breakfast",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/mantar_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/mantar_buyuk.jpg",
+			"yemek_detay_aciklama": "Mushroom, which draws attention with its almost zero fat content, is among the most sought after foods in diet lists, due to its low calorie content, high protein content and no cholesterol. Food with high fiber content is also shown as a rich source of vitamins and minerals. Although the nutritional benefits vary depending on the type, we can talk about the general health benefits of mushrooms. Mushrooms, which contain many antioxidant components, especially selenium, help protect body cells against free radicals that can cause negative health conditions such as heart disease and cancer. It prevents cells from being damaged due to aging and supports the body's defense system against diseases by strengthening the immune system. In addition, we can say that the mushroom has positive effects on cholesterol thanks to the soluble dietary fiber called beta-glucan in its content. Beta-glucan, which plays an effective role in the regulation of blood sugar, also reduces the risk of Type 2 diabetes. Oyster and shiitake species in particular are believed to have the most potent beta-glucans. Mushroom, which is rich in B vitamins such as riboflavin, niacin and pantothenic acid, supports the production of red blood cells and plays an important role in the regulation of the digestive system. The B vitamins contained in this food, which is recommended to be consumed regularly for a healthy skin tissue, also help the nervous system to work regularly. Mushroom, which is also rich in copper, supports body tissues in the production of red blood cells. Copper, which has an important role in ensuring healthy bone structure and nerve conduction, is found in sufficient amounts in those who regularly consume mushrooms. This nutrient, which is a rich source of potassium, which plays an important role in the regular functioning of the heart, muscle and nervous system, has an indispensable place in the diets of vegetarians, thanks to its high protein content.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/mantar_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "46",
+			"yemek_protein_yuzde": "43",
+			"yemek_yag_yuzde": "11",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "1 Piece",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "22",
+				"porsiyon2": "3",
+				"porsiyon3": "22",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "3.26",
+				"porsiyon2": "0.49",
+				"porsiyon3": "3.26",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "3.09",
+				"porsiyon2": "0.46",
+				"porsiyon3": "3.09",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "0.34",
+				"porsiyon2": "0.05",
+				"porsiyon3": "0.34",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "14",
+			"yemek_adi": "Barren",
+			"yemek_ogun_saati": "Lunch",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/kisir_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/kisir_buyuk.jpg",
+			"yemek_detay_aciklama": "It is a barren, delicious and nutritious dish made with bulgur, which is extremely beneficial for health. We can say that it is very popular as a tea time accompaniment. Barren, which can be prepared as a main course or as a snack, is appreciated by most people with its many useful spices and greens.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/kisir_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "71",
+			"yemek_protein_yuzde": "10",
+			"yemek_yag_yuzde": "19",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "1 Bowl (Medium)",
+				"porsiyon3": "1 Soup Spoon",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "178",
+				"porsiyon2": "178",
+				"porsiyon3": "24",
+				"porsiyon4": "162",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "31.69",
+				"porsiyon2": "31.69",
+				"porsiyon3": "4.32",
+				"porsiyon4": "28.81",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "4.59",
+				"porsiyon2": "4.59",
+				"porsiyon3": "0.63",
+				"porsiyon4": "4.18",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "3.75",
+				"porsiyon2": "3.75",
+				"porsiyon3": "0.51",
+				"porsiyon4": "3.41",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "13",
+			"yemek_adi": "Bulgur Rice",
+			"yemek_ogun_saati": "Dinner",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/bulgur_pilavi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/bulgur_pilavi_buyuk.jpg",
+			"yemek_detay_aciklama": "Bulgur is one of the most beneficial grain groups. Bulgur, which is one of the main food sources of Turkish cuisine, is used in the preparation of all kinds of dishes from pilaf to meatballs, from soup to salad. Wheat, which is one of the sources of carbohydrates, turns into bulgur through various processes and has different varieties such as fine, rice, brown and white. Bulgur, which is one of the indispensable foods of a healthy diet, is rich in protein, minerals, fiber and pulp. One of the most important benefits is that it has an energizing feature thanks to its high carbohydrate value. In addition to providing satiety for a long time, the fiber in its content also supports the regular functioning of the intestinal system. Thanks to the vitamin B1 in its structure, bulgur strengthens the nervous and digestive system, and due to the folic acid it contains, it is one of the foods that should be included in the regular diet of expectant mothers and children in the developmental period during pregnancy. Another benefit of bulgur is that it balances blood sugar. This food, which prevents the rise of bad cholesterol, has a positive effect on vascular health if consumed regularly. Thus, it reduces the risk of vascular diseases such as heart attack and cerebral hemorrhage. One of the most striking positive features of bulgur is that it does not cause weight gain since it has unsaturated fat.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/bulgur_pilavi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "63",
+			"yemek_protein_yuzde": "10",
+			"yemek_yag_yuzde": "27",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "1 Portion (Large)",
+				"porsiyon3": "1 Soup Spoon",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "149",
+				"porsiyon2": "286",
+				"porsiyon3": "23",
+				"porsiyon4": "114",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "23.64",
+				"porsiyon2": "45.47",
+				"porsiyon3": "3.64",
+				"porsiyon4": "18.19",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "3.61",
+				"porsiyon2": "6.94",
+				"porsiyon3": "0.56",
+				"porsiyon4": "2.78",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "4.4",
+				"porsiyon2": "8.47",
+				"porsiyon3": "0.68",
+				"porsiyon4": "3.39",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "12",
+			"yemek_adi": "Pizza Mixed",
+			"yemek_ogun_saati": "Lunch",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pizza_karisik_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pizza_karisik_buyuk.jpg",
+			"yemek_detay_aciklama": "Pizza, which is consumed in abundance all over the world, can vary depending on the taste and eating habits of each culture. The basic ingredients of the pizza, which can be cooked together with different ingredients by integrating with local flavors, are tomato paste and cheese. Pizza varieties made with healthy ingredients by dietitians and health experts also find a place among useful foods. The material used is extremely balanced for all nutritional approaches. Thin dough doesn't add much carb load, tomato sauce, cheese and vegetables used also provide other nutrients. If you count the components such as olives, peppers and capers, it cannot be called 'fast food'. An exception to this is the poor quality of ingredients such as sausage and sausage. Because the richness of the ingredients does not ensure the quality of the pizza. But if you use good delicatessen products, you don't have a taste problem anyway. The material used is of good quality, if it is fresh, it does not gain weight. If it were, Italians consume a lot of pizza, they would have a weight problem.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/pizza_karisik_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "66",
+			"yemek_protein_yuzde": "13",
+			"yemek_yag_yuzde": "21",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "1 Slice (Medium)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "344",
+				"porsiyon2": "241",
+				"porsiyon3": "186",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "56.44",
+				"porsiyon2": "39.66",
+				"porsiyon3": "30.51",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "10.8",
+				"porsiyon2": "7.59",
+				"porsiyon3": "5.84",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "8.02",
+				"porsiyon2": "5.63",
+				"porsiyon3": "4.33",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "11",
+			"yemek_adi": "Green Apple",
+			"yemek_ogun_saati": "Snack",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/yesil_elma_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/yesil_elma_buyuk.jpg",
+			"yemek_detay_aciklama": "Green apple, which is rich in vitamin K, helps blood clotting. Green apple, which helps skin cells stay away from free radicals, is a very important source of vitamin C. Green apple, which is rich in vitamin A content, makes it easier to see. Green apple allows to delay aging.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/yesil_elma_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "93",
+			"yemek_protein_yuzde": "3",
+			"yemek_yag_yuzde": "3",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Piece",
+				"porsiyon2": "100 Gram",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "52",
+				"porsiyon2": "58",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "12.25",
+				"porsiyon2": "13.61",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.4",
+				"porsiyon2": "0.44",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "0.17",
+				"porsiyon2": "0.19",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "10",
+			"yemek_adi": "Fresh Beans with Olive Oil",
+			"yemek_ogun_saati": "Dinner",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/taze_fasulye_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/taze_fasulye_buyuk.jpg",
+			"yemek_detay_aciklama": "Green beans are often included in the diet program of those trying to lose weight due to their low calorie content. With its fibrous structure, it facilitates digestion and helps to lose weight. You can get rid of body and mind fatigue by consuming this delicious vegetable that strengthens the body with its energizing structure. Vegetables that support body development and strengthen bones can be good for rheumatism and sciatic pain. There are opinions that it helps to shed kidney sand and stones by strengthening the kidneys. It is a vegetable recommended for diabetics with its ability to reduce the amount of sugar in the blood. Green beans show the ability to repair and renew the body with its structure that can resist the effects of aging. It also strengthens the body, helps the pancreatic gland to work properly and to regulate the heart rhythm. It is also recommended for heart health. It can be beneficial for those with liver failure. If those who experience poisoning eat fresh beans immediately, their healing process can be accelerated. Because green beans are effective in removing toxins from the body. The vegetable, which contains the mineral potassium, which controls heart rhythm and blood pressure, is very useful.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/taze_fasulye_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "59",
+			"yemek_protein_yuzde": "15",
+			"yemek_yag_yuzde": "26",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "1 Tablespoon",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "73",
+				"porsiyon2": "12",
+				"porsiyon3": "49",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "10",
+				"porsiyon2": "1.68",
+				"porsiyon3": "6.72",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "2.68",
+				"porsiyon2": "0.45",
+				"porsiyon3": "1.79",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "1.96",
+				"porsiyon2": "0.33",
+				"porsiyon3": "1.3",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "9",
+			"yemek_adi": "Dry Beans (Without Meat)",
+			"yemek_ogun_saati": "Dinner",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/kuru_fasulye_etsiz_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/kuru_fasulye_etsiz_buyuk.jpg",
+			"yemek_detay_aciklama": "Dried beans, which are shown as the national dish of the Turks, have many health benefits.rnrnIt is very beneficial for skin health. It helps prevent acne and sebaceous gland formation. By accelerating the metabolism, it prevents constipation and has a weakening effect. It strengthens the bone structure, acts as a natural remedy against liver failure, heart palpitations and urinary retention. Because it contains a high amount of protein, it is among the foods that are often recommended to be consumed by those who cannot eat meat. It gives energy, is good for mental and physical fatigue.rnrnIt is a food that can be easily consumed by those with kidney disease. Dried beans, which are rich in folic acid and iron, are especially recommended for pregnant women and children. Protein, inorganic salts, vitamins A, B, C, dietary fiber and potassium content can meet the daily needs of an adult. The omega-3 contained in it contributes to the body's energy production and relieves fatigue.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/kuru_fasulye_etsiz_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "51",
+			"yemek_protein_yuzde": "33",
+			"yemek_yag_yuzde": "15",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "1 Tablespoon",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "267",
+				"porsiyon2": "24",
+				"porsiyon3": "97",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "27.25",
+				"porsiyon2": "2.48",
+				"porsiyon3": "9.91",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "18.08",
+				"porsiyon2": "1.64",
+				"porsiyon3": "6.57",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "3.7",
+				"porsiyon2": "0.34",
+				"porsiyon3": "1.35",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "8",
+			"yemek_adi": "Rice",
+			"yemek_ogun_saati": "Dinner",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pirinc_pilavi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pirinc_pilavi_buyuk.jpg",
+			"yemek_detay_aciklama": "Rice is a good source of calcium, phosphorus and vitamin D. Therefore, it is beneficial for bone development, skin and nail health. Rice prevents indigestion and is one of the most effective foods, especially in diarrhea. Diarrhea is a problem that negatively affects the immune system. Rice consumed alone; Diabetic patients should pay attention to portion control, as our body quickly raises blood glucose levels.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/pirinc_pilavi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "66",
+			"yemek_protein_yuzde": "6",
+			"yemek_yag_yuzde": "28",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "100 Gram",
+				"porsiyon3": "1 Soup Spoon",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "259",
+				"porsiyon2": "162",
+				"porsiyon3": "24",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "39.67",
+				"porsiyon2": "24.79",
+				"porsiyon3": "3.72",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "3.31",
+				"porsiyon2": "2.07",
+				"porsiyon3": "0.31",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "9.27",
+				"porsiyon2": "5.8",
+				"porsiyon3": "0.87",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "7",
+			"yemek_adi": "Cheese Pasta",
+			"yemek_ogun_saati": "Lunch",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/peynirli_makarna_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/peynirli_makarna_buyuk.jpg",
+			"yemek_detay_aciklama": "It is a very useful food source, rich in vitamins and minerals. Pasta is also very rich in vitamins A, B1, B2, iron, calcium, phosphorus, potassium and protein. It is oil free. It has a cholesterol-lowering effect as it contains very little (1-1.5% minor fat components and a high percentage of linoleic fatty acids. Cheese, which is a strong antioxidant source, minimizes the risk of cancer if consumed regularly. It strengthens the immune system and increases your body resistance against diseases. It prevents the formation of malignant tumors in the body. Cheese products, if consumed regularly, minimize the risk of heart attack. It is a food item that helps to regulate the cholesterol level by regulating blood pressure. It has an important effect on the passing of diseases such as diarrhea and constipation by regulating the functioning of the digestive system.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/peynirli_makarna_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "64",
+			"yemek_protein_yuzde": "15",
+			"yemek_yag_yuzde": "21",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Portion (Medium)",
+				"porsiyon2": "100 Gram",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "308",
+				"porsiyon2": "127",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "49.9",
+				"porsiyon2": "20.56",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "11.39",
+				"porsiyon2": "4.69",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "7.25",
+				"porsiyon2": "2.99",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "6",
+			"yemek_adi": "Fried Potatoes",
+			"yemek_ogun_saati": "Breakfast",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/patates_kizartmasi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/patates_kizartmasi_buyuk.jpg",
+			"yemek_detay_aciklama": "French fries are inconvenient for health because they absorb too much oil. There are 250 calories in 1 medium french fries. To burn these calories, the individual needs to walk briskly for about 2 hours.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/patates_kizartmasi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "53",
+			"yemek_protein_yuzde": "4",
+			"yemek_yag_yuzde": "42",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Package",
+				"porsiyon2": "1 Handful",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "390",
+				"porsiyon2": "47",
+				"porsiyon3": "312",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "51.8",
+				"porsiyon2": "6.22",
+				"porsiyon3": "41.44",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "4.29",
+				"porsiyon2": "0.51",
+				"porsiyon3": "3.43",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "18.41",
+				"porsiyon2": "2.21",
+				"porsiyon3": "14.73",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "5",
+			"yemek_adi": "Pasty",
+			"yemek_ogun_saati": "Dinner",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/manti_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/manti_buyuk.jpg",
+			"yemek_detay_aciklama": "Since it contains a high amount of carbohydrates, it can provide the energy needed for the body. Yogurt placed on the meal contains high amounts of protein and calcium. It has positive effects on muscle and bone development. It is good for vascular diseases by strengthening the immune system. It regulates blood pressure and facilitates digestion. Garlic to be put into yogurt contains plenty of iodine and sulfur. It also strengthens the heart, as well as relieves atherosclerosis. It cleanses the body of toxins. It helps to accelerate blood circulation by diluting the blood. Consuming this high-calorie food can cause serious problems of fat and weight gain. That's why it's good to be careful.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/manti_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "71",
+			"yemek_protein_yuzde": "10",
+			"yemek_yag_yuzde": "19",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Tam Tabak",
+				"porsiyon2": "1 Half Tabak",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "509",
+				"porsiyon2": "254",
+				"porsiyon3": "170",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "89.12",
+				"porsiyon2": "44.56",
+				"porsiyon3": "29.71",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "12.37",
+				"porsiyon2": "6.18",
+				"porsiyon3": "4.12",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "10.49",
+				"porsiyon2": "5.25",
+				"porsiyon3": "3.5",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "4",
+			"yemek_adi": "Fried Egg",
+			"yemek_ogun_saati": "Breakfast",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavada_yumurta_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavada_yumurta_buyuk.jpg",
+			"yemek_detay_aciklama": "Fried egg is a food rich in protein, folic acid, phosphorus, iron and zinc. Scrambled eggs are slightly high in calories and fat content. If possible, boiled eggs should be preferred. Eggs contain calcium, which prevents osteoporosis and strengthens your bones. In addition, the vitamin D in eggs ensures the development of your teeth by providing the calcium balance in the body.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/tavada_yumurta_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "4",
+			"yemek_protein_yuzde": "21",
+			"yemek_yag_yuzde": "75",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Piece",
+				"porsiyon2": "1 Tabak",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "122",
+				"porsiyon2": "331",
+				"porsiyon3": "242",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "1.04",
+				"porsiyon2": "2.84",
+				"porsiyon3": "1.89",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "6.4",
+				"porsiyon2": "17.45",
+				"porsiyon3": "11.63",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "10.34",
+				"porsiyon2": "28.19",
+				"porsiyon3": "18.8",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "3",
+			"yemek_adi": "Boiled Egg",
+			"yemek_ogun_saati": "Breakfast",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/haslanmis_yumurta_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/haslanmis_yumurta_buyuk.jpg",
+			"yemek_detay_aciklama": "Boiled eggs are rich in protein, folic acid, phosphorus, iron, zinc. It contains amino acids that the body needs. Healthy individuals can consume boiled eggs 2-3 times a week for those with high cholesterol instead of meat or cheese every day. It strengthens the immune system. It has a great effect on muscle and bone development. It is very beneficial for muscles as it contains high amount of protein. It nourishes the body with amino acids and vitamins it contains. It is very useful for eye health and helps eye disorders. It raises good cholesterol. It protects heart health. It is good for memory problems. It is very beneficial for brain health. It increases the iron level of the body.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/haslanmis_yumurta_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "3",
+			"yemek_protein_yuzde": "34",
+			"yemek_yag_yuzde": "64",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Piece",
+				"porsiyon2": "100 Gram",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "78",
+				"porsiyon2": "155",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "0.56",
+				"porsiyon2": "1.12",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "6.29",
+				"porsiyon2": "12.58",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "5.31",
+				"porsiyon2": "10.61",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "2",
+			"yemek_adi": "Pasta",
+			"yemek_ogun_saati": "Lunch",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/makarna_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/makarna_buyuk.jpg",
+			"yemek_detay_aciklama": "It is a very useful food source, rich in vitamins and minerals. Pasta is also very rich in vitamins A, B1, B2, iron, calcium, phosphorus, potassium and protein. It is oil free. It has a cholesterol-lowering effect as it contains very little (1-1.5%) minor fat components and high rate of linoleic fatty acid.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/makarna_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "80",
+			"yemek_protein_yuzde": "15",
+			"yemek_yag_yuzde": "5",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Tam Tabak",
+				"porsiyon2": "1 Half Tabak",
+				"porsiyon3": "1 Bowl",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "314",
+				"porsiyon2": "157",
+				"porsiyon3": "236",
+				"porsiyon4": "157",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "61.18",
+				"porsiyon2": "30.59",
+				"porsiyon3": "45.89",
+				"porsiyon4": "30.59",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "11.6",
+				"porsiyon2": "5.8",
+				"porsiyon3": "8.7",
+				"porsiyon4": "5.8",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "1.86",
+				"porsiyon2": "0.93",
+				"porsiyon3": "1.4",
+				"porsiyon4": "0.93",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "1",
+			"yemek_adi": "Apple",
+			"yemek_ogun_saati": "Snack",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/elma_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/elma_buyuk.jpg",
+			"yemek_detay_aciklama": "Thanks to the vitamin C contained in apples, it reduces the risk of developing cancer, especially colon cancer and lung cancer. The insoluble pulp in the apple peel retains water and cleans the digestive tract. It also contributes to cardiovascular health and strengthening the immune system. This fruit, which is very rich in vitamins C, A, E, B6 and K, also contains many minerals such as potassium. It also helps to protect brain functions, oral and dental health. It also has properties such as supporting the protection of the whiteness of the teeth, slowing down tooth decay and ensuring the functioning of the salivary glands. Eating an apple in the morning, even if it is a slice on an empty stomach, is good for digestive problems such as constipation and diarrhea. Regular consumption of apples every day is also very healthy for the liver. This food, which is the biggest enemy of the toxins accumulated in the body, purifies the liver from these harmful substances. Since it is a natural antioxidant, it strengthens the immune system and helps to get rid of edema in the body. Apple, which is one of the natural fiber sources, is also beneficial for heart health with this feature. Thanks to the fibers it contains, it contributes to the dissolution of plaques formed in the arteries and veins and accelerates blood flow. In addition to all these, scientific studies state that apples prevent the proliferation of cancer cells. Some studies reveal that apple juice beautifies the skin and helps maintain its tension.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/elma_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "95",
+			"yemek_protein_yuzde": "2",
+			"yemek_yag_yuzde": "3",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Full Apple",
+				"porsiyon2": "Half Apple",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "1 Slice (Quarter)",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "50",
+				"porsiyon2": "25",
+				"porsiyon3": "52",
+				"porsiyon4": "16",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "13",
+				"porsiyon2": "8",
+				"porsiyon3": "14",
+				"porsiyon4": "4",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.20",
+				"porsiyon2": "0.10",
+				"porsiyon3": "0.22",
+				"porsiyon4": "0.05",
+				"porsiyon5": "null"
+			},"yemek_yag": {
+				"porsiyon1": "0.15",
+				"porsiyon2": "0.8",
+				"porsiyon3": "0.17",
+				"porsiyon4": "0.04",
+				"porsiyon5": "null"
+			}
+		}
+
+	]
+}

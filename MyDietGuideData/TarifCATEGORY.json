@@ -1,0 +1,60 @@
+{
+  "DiyetRehberim":[
+    {
+      "id": 1,
+      "kategori_adi": "Main Courses"
+    },
+    {
+      "id": 2,
+      "kategori_adi": "Diet Recipes"
+    },
+    {
+      "id": 3,
+      "kategori_adi": "Soups"
+    },
+    {
+      "id": 4,
+      "kategori_adi": "Salads"
+    },
+    {
+      "id": 5,
+      "kategori_adi": "Detox Recipes"
+    },
+    {
+      "id": 6,
+      "kategori_adi": "Snacks"
+    },
+    {
+      "id": 7,
+      "kategori_adi": "Desserts"
+    },
+    {
+      "id": 8,
+      "kategori_adi": "Breakfast Recipes"
+    },
+    {
+      "id": 9,
+      "kategori_adi": "Meat Dishes"
+    },
+    {
+      "id": 10,
+      "kategori_adi": "Special Day Recipes"
+    },
+    {
+      "id": 11,
+      "kategori_adi": "Appetizers"
+    },
+    {
+      "id": 12,
+      "kategori_adi": "Practical Meals"
+    },
+    {
+      "id": 13,
+      "kategori_adi": "Vegetarian Dishes"
+    },
+    {
+      "id": 14,
+      "kategori_adi": "Local Meals"
+    }
+  ]
+}

@@ -1,0 +1,2983 @@
+{
+	"DiyetRehberim":[
+
+
+		{
+			"yemek_id": "63",
+			"yemek_adi": "Kepekli Ekmek",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/kepekli_ekmek_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/kepekli_ekmek_buyuk.jpg",
+			"yemek_detay_aciklama": "Kepekli ekmek, beyaz una kepek karıştırılması ile elde edilen bir ekmektir. Kepekli ekmek beyaz ekmeğe göre lif ve doyuruculuk açısından daha değerlidir. Diyabetliler, yüksek kolesterolü olanlar ve kilo kontrolü sağlamak isteyenler tüketebilirler.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/kepekli_ekmek_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "82",
+			"yemek_protein_yuzde": "11",
+			"yemek_yag_yuzde": "6",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Dilim (İnce)",
+				"porsiyon2": "1 Dilim (Orta)",
+				"porsiyon3": "1 Dilim (Kalın)",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "54",
+				"porsiyon2": "86",
+				"porsiyon3": "108",
+				"porsiyon4": "216",
+				"porsiyon5": "22"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "11.14",
+				"porsiyon2": "17.82",
+				"porsiyon3": "22.27",
+				"porsiyon4": "44.54",
+				"porsiyon5": "4.45"
+			},
+			"yemek_protein": {
+				"porsiyon1": "1.51",
+				"porsiyon2": "2.41",
+				"porsiyon3": "3.02",
+				"porsiyon4": "6.03",
+				"porsiyon5": "0.6"
+			},
+			"yemek_yag": {
+				"porsiyon1": "0.38",
+				"porsiyon2": "0.6",
+				"porsiyon3": "0.75",
+				"porsiyon4": "1.5",
+				"porsiyon5": "0.15"
+			}
+		},
+		{
+			"yemek_id": "62",
+			"yemek_adi": "Muz",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/muz_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/muz_buyuk.jpg",
+			"yemek_detay_aciklama": "İçerisinde bol miktarda potasyum, protein, magnezyum ve çeşitli vitaminler bulunuyor.\nEnerji verir.\nİçerisinde bulunan potasyumdan dolayı, güçlü bir enerji kaynağıdır.\nKan basıncını düzenler.\nZayıflamaya yardımcı olur.\nMide hastalıklarını dindirir.\nCildi güzelleştirir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/muz_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "93",
+			"yemek_protein_yuzde": "4",
+			"yemek_yag_yuzde": "3",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Adet (Orta)",
+				"porsiyon2": "1 Adet (Yarım)",
+				"porsiyon3": "1 Adet (Çeyrek)",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "151",
+				"porsiyon2": "76",
+				"porsiyon3": "36",
+				"porsiyon4": "89",
+				"porsiyon5": "9"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "38.83",
+				"porsiyon2": "19.41",
+				"porsiyon3": "9.14",
+				"porsiyon4": "22.84",
+				"porsiyon5": "2.28"
+			},
+			"yemek_protein": {
+				"porsiyon1": "1.85",
+				"porsiyon2": "0.93",
+				"porsiyon3": "0.44",
+				"porsiyon4": "1.09",
+				"porsiyon5": "0.11"
+			},
+			"yemek_yag": {
+				"porsiyon1": "0.56",
+				"porsiyon2": "0.28",
+				"porsiyon3": "0.13",
+				"porsiyon4": "0.33",
+				"porsiyon5": "0.03"
+			}
+		},
+		{
+			"yemek_id": "61",
+			"yemek_adi": "Karpuz",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/karpuz_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/karpuz_buyuk.jpg",
+			"yemek_detay_aciklama": "Karpuz A, C vitamini, potasyum minerali yüksek, lif içeriği düşük bir meyvedir. Diyet yaparken tüketilecek karpuz miktarına dikkat edilmelidir. Çünkü kalorisinin büyük bir kısmı karbonhidrattan gelir ve kan şekerini fazla yükseltebilir. Çok iyi bir lif kaynağı olarak bilinen karpuzun mideye faydaları çoktur. İçerisindeki lif mide ve bağırsak sistemini düzenler. Kabızlık ve hazımsızlık gibi sorunları önler. Likopen içeren karpuz, kansere yol açan doku hasarlarını önlemede önemli bir rol oynamaktadır.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/karpuz_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "91",
+			"yemek_protein_yuzde": "6",
+			"yemek_yag_yuzde": "3",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Dilim (Orta)",
+				"porsiyon3": "1 Küçük Üçgen",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "45",
+				"porsiyon2": "105",
+				"porsiyon3": "15",
+				"porsiyon4": "30",
+				"porsiyon5": "3"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "11.33",
+				"porsiyon2": "26.43",
+				"porsiyon3": "3.78",
+				"porsiyon4": "7.55",
+				"porsiyon5": "0.76"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.92",
+				"porsiyon2": "2.13",
+				"porsiyon3": "3.78",
+				"porsiyon4": "0.61",
+				"porsiyon5": "0.06"
+			},
+			"yemek_yag": {
+				"porsiyon1": "0.23",
+				"porsiyon2": "0.53",
+				"porsiyon3": "0.08",
+				"porsiyon4": "0.15",
+				"porsiyon5": "0.02"
+			}
+		},		
+		{
+			"yemek_id": "60",
+			"yemek_adi": "Bamya Çorbası",
+			"yemek_ogun_saati": "Öğle Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/bamya_corbasi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/bamya_corbasi_buyuk.jpg",
+			"yemek_detay_aciklama": "Bamya Çorbası, lif içeriği yüksek bir çorbadır. Diyet yaparken tüketilmesinde bir sakınca yoktur. 1 kepçe bamya çorbasını 3 yemek kaşığı sebze yemeği yerine tüketebilirsiniz. Yüksek vitamin ve mineral içeriğine sahiptir. Bamya tohumunda B grubu vitaminleri ile kalsiyum, demir ve çinko gibi mineraller bol miktarda yer alır. Enfeksiyonlara karşı koruyucu etki sağlar. Kansere karşı korur. Sindirim sistemini düzenler. Bilişsel fonksiyonları iyileştirir. Kilo vermeye yardımcıdır.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/bamya_corbasi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "41",
+			"yemek_protein_yuzde": "12",
+			"yemek_yag_yuzde": "47",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Kase (Orta)",
+				"porsiyon3": "1 Kepçe",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "45",
+				"porsiyon2": "45",
+				"porsiyon3": "22",
+				"porsiyon4": "17",
+				"porsiyon5": "2"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "4.42",
+				"porsiyon2": "4.42",
+				"porsiyon3": "2.13",
+				"porsiyon4": "1.64",
+				"porsiyon5": "0.16"
+			},
+			"yemek_protein": {
+				"porsiyon1": "1.25",
+				"porsiyon2": "1.25",
+				"porsiyon3": "0.6",
+				"porsiyon4": "0.46",
+				"porsiyon5": "0.05"
+			},
+			"yemek_yag": {
+				"porsiyon1": "2.3",
+				"porsiyon2": "2.3",
+				"porsiyon3": "1.11",
+				"porsiyon4": "0.85",
+				"porsiyon5": "0.09"
+			}
+		},
+		{
+			"yemek_id": "59",
+			"yemek_adi": "Tavuk Baget (Derisiz)",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_baget_(derisiz)_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_baget_(derisiz)_buyuk.jpg",
+			"yemek_detay_aciklama": "Tavuk eti, protein, potasyum, fosfor, demir, çinko açısından zengindir. Derisiz olarak, haşlama, fırın ya da ızgara pişirme yöntemleriyle tüketilmesi önerilir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/tavuk_baget_(derisiz)_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "0",
+			"yemek_protein_yuzde": "67",
+			"yemek_yag_yuzde": "33",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Adet (Büyük)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "106",
+				"porsiyon2": "156",
+				"porsiyon3": "120",
+				"porsiyon4": "12",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "0",
+				"porsiyon2": "0",
+				"porsiyon3": "0",
+				"porsiyon4": "0",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "16.86",
+				"porsiyon2": "24.91",
+				"porsiyon3": "19.16",
+				"porsiyon4": "1.92",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "3.71",
+				"porsiyon2": "5.49",
+				"porsiyon3": "4.22",
+				"porsiyon4": "0.42",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "58",
+			"yemek_adi": "Tavuk Baget (Derili)",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_baget_(derili)_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_baget_(derili)_buyuk.jpg",
+			"yemek_detay_aciklama": "Tavuk eti, protein, potasyum, fosfor, demir, çinko açısından zengindir. Ancak kolesterol içeriği yüksektir. Derili tüketimi tüketilecek yağ ve kalori miktarını artırır bu nedenle tüketiminden kaçınılmalıdır.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/tavuk_baget_(derili)_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "0",
+			"yemek_protein_yuzde": "31",
+			"yemek_yag_yuzde": "69",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Adet (Orta)",
+				"porsiyon3": "1 Adet (Küçük)",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "238",
+				"porsiyon2": "161",
+				"porsiyon3": "107",
+				"porsiyon4": "214",
+				"porsiyon5": "21"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "0.19",
+				"porsiyon2": "0.13",
+				"porsiyon3": "0.09",
+				"porsiyon4": "0.17",
+				"porsiyon5": "0.02"
+			},
+			"yemek_protein": {
+				"porsiyon1": "18.17",
+				"porsiyon2": "12.28",
+				"porsiyon3": "8.19",
+				"porsiyon4": "16.37",
+				"porsiyon5": "1.64"
+			},
+			"yemek_yag": {
+				"porsiyon1": "17.7",
+				"porsiyon2": "11.96",
+				"porsiyon3": "7.98",
+				"porsiyon4": "15.95",
+				"porsiyon5": "1.6"
+			}
+		},
+		{
+			"yemek_id": "57",
+			"yemek_adi": "Tavuk Sote",
+			"yemek_ogun_saati": "Öğle Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_sote_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_sote_buyuk.jpg",
+			"yemek_detay_aciklama": "Tavuk Sote, tavuk eti, domates, biber gibi malzemeler kullanılarak yapılır. Protein, C vitamini, folik asit, potasyum, fosfor ve lif açısından zengin bir yemektir. Sote yapımında yağ miktarına dikkat edildiği takdirde öğünlerde tüketilebilir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/tavuk_sote_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "11",
+			"yemek_protein_yuzde": "41",
+			"yemek_yag_yuzde": "48",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Çorba Kaşığı",
+				"porsiyon3": "1 Büyük Çorba Kaşığı",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "288",
+				"porsiyon2": "51",
+				"porsiyon3": "59",
+				"porsiyon4": "169",
+				"porsiyon5": "17"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "7.67",
+				"porsiyon2": "1.35",
+				"porsiyon3": "1.58",
+				"porsiyon4": "4.51",
+				"porsiyon5": "0.45"
+			},
+			"yemek_protein": {
+				"porsiyon1": "28.46",
+				"porsiyon2": "5.02",
+				"porsiyon3": "5.86",
+				"porsiyon4": "16.74",
+				"porsiyon5": "1.67"
+			},
+			"yemek_yag": {
+				"porsiyon1": "15.2",
+				"porsiyon2": "2.68",
+				"porsiyon3": "3.13",
+				"porsiyon4": "8.94",
+				"porsiyon5": "0.89"
+			}
+		},
+		{
+			"yemek_id": "56",
+			"yemek_adi": "Limonata",
+			"yemek_ogun_saati": "İçecek",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/limonata_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/limonata_buyuk.jpg",
+			"yemek_detay_aciklama": "Limonata, ev yapımı olduğu için özellikle sıcak havada asitli içecek ve meyve suyu yerine tercih edilebilir. Hazırlanırken kullanılan şeker miktarına dikkat edilmelidir. Limonata tüketileceği zaman, 1 su bardağı kadar tüketilmesi yeterlidir. Hatırlatma: 1 Bardak 200ml, 1 Fincan 150ml, 1 Su Bardağı 250ml",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/limonata_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "97",
+			"yemek_protein_yuzde": "0",
+			"yemek_yag_yuzde": "3",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Bardak",
+				"porsiyon2": "1 Fincan",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "73",
+				"porsiyon2": "55",
+				"porsiyon3": "37",
+				"porsiyon4": "4",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "14.69",
+				"porsiyon2": "11.02",
+				"porsiyon3": "7.34",
+				"porsiyon4": "0.73",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.24",
+				"porsiyon2": "0.18",
+				"porsiyon3": "0.12",
+				"porsiyon4": "0.01",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "0.2",
+				"porsiyon2": "0.15",
+				"porsiyon3": "0.1",
+				"porsiyon4": "0.01",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "55",
+			"yemek_adi": "Nescafe 2'si 1 Arada",
+			"yemek_ogun_saati": "İçecek",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/nescafe_2si1_arada_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/nescafe_2si1_arada_buyuk.jpg",
+			"yemek_detay_aciklama": "Nescafe 2'si 1 Arada (11gr), şekersiz olduğu için 3'ü 1 aradalara göre rahat tüketilir. Hatırlatma: 1 Bardak 200ml, 1 Fincan 150ml, 1 Su Bardağı 250ml",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/nescafe_2si1_arada_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "57",
+			"yemek_protein_yuzde": "5",
+			"yemek_yag_yuzde": "39",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Bardak",
+				"porsiyon2": "1 Fincan",
+				"porsiyon3": "1 Su Bardağı",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "50",
+				"porsiyon2": "50",
+				"porsiyon3": "50",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "6.9",
+				"porsiyon2": "6.9",
+				"porsiyon3": "6.9",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.6",
+				"porsiyon2": "0.6",
+				"porsiyon3": "0.6",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "2.09",
+				"porsiyon2": "2.09",
+				"porsiyon3": "2.09",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "54",
+			"yemek_adi": "Nescafe 3'ü 1 Arada",
+			"yemek_ogun_saati": "İçecek",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/nescafe_3u1_arada_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/nescafe_3u1_arada_buyuk.jpg",
+			"yemek_detay_aciklama": "Nescafe 3'ü 1 Arada (18.5gr) kahve, süt tozu, şekerden oluşan ve sıcak tüketilen bir hazır kahve çeşididir. Hatırlatma: 1 Bardak 200ml, 1 Fincan 150ml, 1 Su Bardağı 250ml",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/nescafe_3u1_arada_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "76",
+			"yemek_protein_yuzde": "3",
+			"yemek_yag_yuzde": "21",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Bardak",
+				"porsiyon2": "1 Fincan",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "81",
+				"porsiyon2": "81",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "15.19",
+				"porsiyon2": "15.19",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.5",
+				"porsiyon2": "0.5",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "1.89",
+				"porsiyon2": "1.89",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "53",
+			"yemek_adi": "Tavuk Çorbası",
+			"yemek_ogun_saati": "Öğle Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_corbasi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_corbasi_buyuk.jpg",
+			"yemek_detay_aciklama": "Tavuk çorbası, tavuk eti, tavuk suyu, un ile yapılan bir çorbadır şehriye ilave edildiği de olur. Kalori ve yağ içeriği yüksektir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/tavuk_corbasi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "29",
+			"yemek_protein_yuzde": "33",
+			"yemek_yag_yuzde": "38",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Kase (Orta)",
+				"porsiyon3": "1 Kepçe",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "132",
+				"porsiyon2": "110",
+				"porsiyon3": "83",
+				"porsiyon4": "55",
+				"porsiyon5": "6"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "8.2",
+				"porsiyon2": "6.84",
+				"porsiyon3": "5.13",
+				"porsiyon4": "3.42",
+				"porsiyon5": "0.34"
+			},
+			"yemek_protein": {
+				"porsiyon1": "9.53",
+				"porsiyon2": "7.95",
+				"porsiyon3": "5.96",
+				"porsiyon4": "3.97",
+				"porsiyon5": "0.4"
+			},
+			"yemek_yag": {
+				"porsiyon1": "4.71",
+				"porsiyon2": "3.93",
+				"porsiyon3": "2.95",
+				"porsiyon4": "1.96",
+				"porsiyon5": "0.2"
+			}
+		},
+		{
+			"yemek_id": "52",
+			"yemek_adi": "Tavuk Kanadı (Derili)",
+			"yemek_ogun_saati": "Öğle Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_kanadı_(derili)_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_kanadı_(derili)_buyuk.jpg",
+			"yemek_detay_aciklama": "Tavuk tüketmenin en sağlıklı yönü haşlanmış bir şekilde tüketmektir. Tavuğun içerisinde zaten yağ bulunduğu için ek yağ eklememek insan sağlığı için çok daha faydalıdır. Haşlanmış tavuk tüketmenin birçok faydası vardır. Tavuk tüketmek her ne kadar faydalı olsa da sanayi/hormonlu tavuklarının çok fazla zararı vardır. Bu zararlardan bazıları ise şunlardır: Antibiyotik, tavuklar üzerinde kullanıldığı için bakterilerin direnç oluşturmasını sağlar. Bu da insan vücuduna girince faydalı bakterilerin ölmesini sağlar. Kız çocuklarının erken yaşta ergenliğe girmesine sebep olur. Bu yüzden hormonlu ve ambalajlı gıdalardan kendimizi ve ailemizi korumaya doğal yetiştirilmiş tavuk etiyle beslenmeye özen gösterelim.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/tavuk_kanadı_(derili)_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "0",
+			"yemek_protein_yuzde": "38",
+			"yemek_yag_yuzde": "62",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Adet (20gr)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "287",
+				"porsiyon2": "38",
+				"porsiyon3": "191",
+				"porsiyon4": "19",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "0",
+				"porsiyon2": "0",
+				"porsiyon3": "0",
+				"porsiyon4": "0",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "26.28",
+				"porsiyon2": "3.5",
+				"porsiyon3": "17.52",
+				"porsiyon4": "1.75",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "19.27",
+				"porsiyon2": "2.57",
+				"porsiyon3": "12.85",
+				"porsiyon4": "1.29",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "51",
+			"yemek_adi": "Tavuk Kanadı (Derisiz)",
+			"yemek_ogun_saati": "Öğle Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_kanadı_(derisiz)_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavuk_kanadı_(derisiz)_buyuk.jpg",
+			"yemek_detay_aciklama": "Tavuk tüketmenin en sağlıklı yönü haşlanmış bir şekilde tüketmektir. Tavuğun içerisinde zaten yağ bulunduğu için ek yağ eklememek insan sağlığı için çok daha faydalıdır. Haşlanmış tavuk tüketmenin birçok faydası vardır. Tavuk tüketmek her ne kadar faydalı olsa da sanayi/hormonlu tavuklarının çok fazla zararı vardır. Bu zararlardan bazıları ise şunlardır: Antibiyotik, tavuklar üzerinde kullanıldığı için bakterilerin direnç oluşturmasını sağlar. Bu da insan vücuduna girince faydalı bakterilerin ölmesini sağlar. Kız çocuklarının erken yaşta ergenliğe girmesine sebep olur. Bu yüzden hormonlu ve ambalajlı gıdalardan kendimizi ve ailemizi korumaya doğal yetiştirilmiş tavuk etiyle beslenmeye özen gösterelim.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/tavuk_kanadı_(derisiz)_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "0",
+			"yemek_protein_yuzde": "73",
+			"yemek_yag_yuzde": "27",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Adet",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "252",
+				"porsiyon2": "38",
+				"porsiyon3": "126",
+				"porsiyon4": "13",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "0",
+				"porsiyon2": "0",
+				"porsiyon3": "0",
+				"porsiyon4": "0",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "43.94",
+				"porsiyon2": "6.59",
+				"porsiyon3": "21.97",
+				"porsiyon4": "2.2",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "7.08",
+				"porsiyon2": "1.06",
+				"porsiyon3": "3.54",
+				"porsiyon4": "0.35",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "50",
+			"yemek_adi": "Çikolata Topu",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/cikolata_topu_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/cikolata_topu_buyuk.jpg",
+			"yemek_detay_aciklama": "Çikolata beyindeki serotonin seviyesini arttırır ve mutluluk hissi verir. Çikolata, beyni rahatlatıp gevşetir, mutluluk verir, beynin endorfin salgılamasına neden olur. Bu salgı, mutluluk duymamızı sağlar.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/cikolata_topu_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "61",
+			"yemek_protein_yuzde": "11",
+			"yemek_yag_yuzde": "28",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Adet (15gr)",
+				"porsiyon2": "100 Gram",
+				"porsiyon3": "10 Gram",
+				"porsiyon4": "5 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "44",
+				"porsiyon2": "292",
+				"porsiyon3": "29",
+				"porsiyon4": "15",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "6.67",
+				"porsiyon2": "44.49",
+				"porsiyon3": "4.45",
+				"porsiyon4": "2.22",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "1.17",
+				"porsiyon2": "7.77",
+				"porsiyon3": "0.78",
+				"porsiyon4": "0.39",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "1.35",
+				"porsiyon2": "9.02",
+				"porsiyon3": "0.9",
+				"porsiyon4": "0.45",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "49",
+			"yemek_adi": "Çikolatalı Süt",
+			"yemek_ogun_saati": "İçecek",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/cikolatali_sut_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/cikolatali_sut_buyuk.jpg",
+			"yemek_detay_aciklama": "Çikolatalı süt, şeker içeriği yüksek bir içecektir. Şeker hastalarının ve kilo kontrolü sağlamak isteyen kişilerin tüketmemeye özen göstermesi gerekir. Sağlıklı bireyler tatlı isteği bastırdığında çok sık olmamakla beraber 1 kutu kadar tüketebilir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/cikolatali_sut_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "52",
+			"yemek_protein_yuzde": "14",
+			"yemek_yag_yuzde": "35",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Bardak",
+				"porsiyon2": "100 Gram",
+				"porsiyon3": "1 Fincan",
+				"porsiyon4": "1 Yarım Su Bardağı",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "187",
+				"porsiyon2": "93",
+				"porsiyon3": "140",
+				"porsiyon4": "117",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "24.57",
+				"porsiyon2": "12.29",
+				"porsiyon3": "18.43",
+				"porsiyon4": "15.36",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "6.73",
+				"porsiyon2": "3.37",
+				"porsiyon3": "5.05",
+				"porsiyon4": "4.21",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "7.37",
+				"porsiyon2": "3.69",
+				"porsiyon3": "5.53",
+				"porsiyon4": "4.61",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "48",
+			"yemek_adi": "Çikolata",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/cikolata_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/cikolata_buyuk.jpg",
+			"yemek_detay_aciklama": "Çikolata beyindeki serotonin seviyesini arttırır ve mutluluk hissi verir. Çikolata, beyni rahatlatıp gevşetir, mutluluk verir, beynin endorfin salgılamasına neden olur. Bu salgı, mutluluk duymamızı sağlar.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/cikolata_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "41",
+			"yemek_protein_yuzde": "3",
+			"yemek_yag_yuzde": "56",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Parça",
+				"porsiyon2": "1 Paket (70gr)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "1 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "26",
+				"porsiyon2": "370",
+				"porsiyon3": "528",
+				"porsiyon4": "53",
+				"porsiyon5": "5"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "2.9",
+				"porsiyon2": "40.53",
+				"porsiyon3": "57.9",
+				"porsiyon4": "5.79",
+				"porsiyon5": "0.58"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.22",
+				"porsiyon2": "3.08",
+				"porsiyon3": "4.4",
+				"porsiyon4": "0.44",
+				"porsiyon5": "0.04"
+			},
+			"yemek_yag": {
+				"porsiyon1": "1.76",
+				"porsiyon2": "24.57",
+				"porsiyon3": "35.1",
+				"porsiyon4": "3.51",
+				"porsiyon5": "0.35"
+			}
+		},
+		{
+			"yemek_id": "47",
+			"yemek_adi": "Çikolatalı Un Helvası",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/cikolatali_un_helvasi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/cikolatali_un_helvasi_buyuk.jpg",
+			"yemek_detay_aciklama": "Çikolatalı un helvası, şeker ve yağ içeriği yüksek bir tatlıdır bu yüzden kalorisi de yüksektir. Özellikle şeker hastalarının ve kilo kontrolü sağlamak isteyen kişilerin tüketmemeye özen göstermesi gerekir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/cikolatali_un_helvasi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "36",
+			"yemek_protein_yuzde": "5",
+			"yemek_yag_yuzde": "59",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Adet",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "447",
+				"porsiyon2": "103",
+				"porsiyon3": "344",
+				"porsiyon4": "34",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "39.53",
+				"porsiyon2": "9.12",
+				"porsiyon3": "30.41",
+				"porsiyon4": "3.04",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "5.22",
+				"porsiyon2": "1.2",
+				"porsiyon3": "4.01",
+				"porsiyon4": "0.4",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "28.79",
+				"porsiyon2": "6.64",
+				"porsiyon3": "22.15",
+				"porsiyon4": "2.21",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "46",
+			"yemek_adi": "İşkembe Çorbası",
+			"yemek_ogun_saati": "Öğle Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/iskembe_corbasi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/iskembe_corbasi_buyuk.jpg",
+			"yemek_detay_aciklama": "Kalsiyum, magnezyum, fosfor ve demir açısından zengin olan işkembe çorbası ile enfeksiyon hastalıklarından korunmak mümkün olabiliyor. Vücut direncini yükseltici etkiler gösterir. İşkembe çorbası, içeriğindeki bol miktarda kalsiyumla, kas ve kemik yapılarını destekler.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/iskembe_corbasi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "14",
+			"yemek_protein_yuzde": "44",
+			"yemek_yag_yuzde": "41",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Kepçe",
+				"porsiyon2": "1 Kase (Orta)",
+				"porsiyon3": "1 Kase (Küçük)",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "139",
+				"porsiyon2": "209",
+				"porsiyon3": "139",
+				"porsiyon4": "139",
+				"porsiyon5": "14"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "4.93",
+				"porsiyon2": "7.39",
+				"porsiyon3": "4.93",
+				"porsiyon4": "4.93",
+				"porsiyon5": "0.49"
+			},
+			"yemek_protein": {
+				"porsiyon1": "15.14",
+				"porsiyon2": "22.71",
+				"porsiyon3": "15.14",
+				"porsiyon4": "15.14",
+				"porsiyon5": "1.51"
+			},
+			"yemek_yag": {
+				"porsiyon1": "6.35",
+				"porsiyon2": "9.53",
+				"porsiyon3": "6.35",
+				"porsiyon4": "6.35",
+				"porsiyon5": "0.64"
+			}
+		},
+		{
+			"yemek_id": "45",
+			"yemek_adi": "Fındık",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/findik_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/findik_buyuk.jpg",
+			"yemek_detay_aciklama": "Lezzetli olmasının yanında sağlıklı bir atıştırmalık da olan fındığın içeriğinde yer alan doymamış yağlar kalp ve damar sağlığını koruyarak kalp krizi riskini azaltıyor. E vitamini açısından da zengin olan bu besin, mesane kanseri başta olmak üzere pek çok kanser türünün oluşumunun engellenmesine destek oluyor. E vitamini hafızayı güçlendirdiği için fındık tüketimi de hafızanın güçlenmesine destek oluyor. Kas hacminin artmasına ve kasların güçlenmesine de katkıda bulunan fındık ayrıca güçlü kemikler için bol miktarda ihtiyacımız olan kalsiyum ve magnezyumu da almamızı sağlıyor. Cilt sağlığı üzerinde de olumlu etkisi bulunan bu besin içerdiği E vitamini sayesinde vücudu dinç tutuyor. ",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/findik_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "10",
+			"yemek_protein_yuzde": "9",
+			"yemek_yag_yuzde": "81",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Avuç",
+				"porsiyon2": "1 Adet",
+				"porsiyon3": "1 Fincan",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "151",
+				"porsiyon2": "13",
+				"porsiyon3": "628",
+				"porsiyon4": "628",
+				"porsiyon5": "63"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "4.01",
+				"porsiyon2": "0.33",
+				"porsiyon3": "16.7",
+				"porsiyon4": "16.7",
+				"porsiyon5": "1.67"
+			},
+			"yemek_protein": {
+				"porsiyon1": "3.59",
+				"porsiyon2": "0.3",
+				"porsiyon3": "14.95",
+				"porsiyon4": "14.95",
+				"porsiyon5": "1.5"
+			},
+			"yemek_yag": {
+				"porsiyon1": "14.58",
+				"porsiyon2": "1.22",
+				"porsiyon3": "60.75",
+				"porsiyon4": "60.75",
+				"porsiyon5": "6.08"
+			}
+		},
+		{
+			"yemek_id": "44",
+			"yemek_adi": "Süt (Yağsız)",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/sut_yagsiz_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/sut_yagsiz_buyuk.jpg",
+			"yemek_detay_aciklama": "Büyümeyi ve gelişmeyi sağlayan süt, vücuda güç verir ve kemikleri sağlamlaştırır ve kemik erimesini önlemeye yardımcıdır. Mikropların neden olduğu enfeksiyonlara karşı vücuda direnç verir. Cildin yıpranmasını ve yaşlanmasını engeller. Beyin için oldukça faydalıdır ve beynin ihtiyacı olan enerjiyi sağlar. Vücudumuzda ödeme neden olan sıvıların toplanmasını engeller. İshalin geçmesinde faydalıdır. Mide rahatsızlıklarına çok iyi gelir. Saçın uzamasında önemli bir etkisi vardır. Tırnakların sağlam bir şekilde uzaması için faydalıdır. Diş çürümelerine oldukça iyi gelir. Kasların güçlenmesinde faydalıdır.rn",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/sut_yagsiz_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "65",
+			"yemek_protein_yuzde": "32",
+			"yemek_yag_yuzde": "3",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Su Bardağı",
+				"porsiyon2": "1 Yarım Su Bardağı",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "68",
+				"porsiyon2": "34",
+				"porsiyon3": "34",
+				"porsiyon4": "3",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "11.04",
+				"porsiyon2": "5.52",
+				"porsiyon3": "5.52",
+				"porsiyon4": "0.55",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "5.62",
+				"porsiyon2": "2.81",
+				"porsiyon3": "2.81",
+				"porsiyon4": "0.28",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "0.22",
+				"porsiyon2": "0.11",
+				"porsiyon3": "0.11",
+				"porsiyon4": "0.01",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "43",
+			"yemek_adi": "Süt",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/sut_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/sut_buyuk.jpg",
+			"yemek_detay_aciklama": "Büyümeyi ve gelişmeyi sağlayan süt, vücuda güç verir ve kemikleri sağlamlaştırır ve kemik erimesini önlemeye yardımcıdır. Mikropların neden olduğu enfeksiyonlara karşı vücuda direnç verir. Cildin yıpranmasını ve yaşlanmasını engeller. Beyin için oldukça faydalıdır ve beynin ihtiyacı olan enerjiyi sağlar. Vücudumuzda ödeme neden olan sıvıların toplanmasını engeller. İshalin geçmesinde faydalıdır. Mide rahatsızlıklarına çok iyi gelir. Saçın uzamasında önemli bir etkisi vardır. Tırnakların sağlam bir şekilde uzaması için faydalıdır. Diş çürümelerine oldukça iyi gelir. Kasların güçlenmesinde faydalıdır.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/sut_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "31",
+			"yemek_protein_yuzde": "21",
+			"yemek_yag_yuzde": "48",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Su Bardağı",
+				"porsiyon2": "1 Yarım Su Bardağı",
+				"porsiyon3": "1 Fincan",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "122",
+				"porsiyon2": "73",
+				"porsiyon3": "46",
+				"porsiyon4": "61",
+				"porsiyon5": "6"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "9.4",
+				"porsiyon2": "5.64",
+				"porsiyon3": "3.53",
+				"porsiyon4": "4.7",
+				"porsiyon5": "0.47"
+			},
+			"yemek_protein": {
+				"porsiyon1": "6.6",
+				"porsiyon2": "3.96",
+				"porsiyon3": "2.48",
+				"porsiyon4": "3.3",
+				"porsiyon5": "0.33"
+			},
+			"yemek_yag": {
+				"porsiyon1": "6.6",
+				"porsiyon2": "3.96",
+				"porsiyon3": "2.48",
+				"porsiyon4": "3.3",
+				"porsiyon5": "0.33"
+			}
+		},
+		{
+			"yemek_id": "42",
+			"yemek_adi": "Marul",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/marul_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/marul_buyuk.jpg",
+			"yemek_detay_aciklama": "Dünyanın hemen her yerinde çiğ olarak salatalarda kullanılan, herkesin severek tükettiği marul vitamin ve mineral bakımından oldukça zengin bir besin. İçeriğinde A, B, C, D, E vitaminleri ile bakır, çinko, demir, fosfor, iyot, kalsiyum, sodyum mineralleri bulunduruyor. Güçlü bir lif ve antioksidan kaynağı olan marul, saç ve cilt hastalıklarından kalp sağlığına kadar birçok açıdan faydalıdır. Kolesterol seviyelerini düşürür. Cilt hücrelerini yeniler. Anti-kanser potansiyeli. Diyabet riskini azaltır. Görmeyi geliştirir. Sindirim sağlığını destekler.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/marul_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "54",
+			"yemek_protein_yuzde": "32",
+			"yemek_yag_yuzde": "15",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Demet",
+				"porsiyon2": "1 Tam (Orta)",
+				"porsiyon3": "1 Parça (Küçük)",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "16",
+				"porsiyon2": "80",
+				"porsiyon3": "8",
+				"porsiyon4": "16",
+				"porsiyon5": "2"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 1.7",
+				"porsiyon2": "8.5",
+				"porsiyon3": " 0.85",
+				"porsiyon4": " 1.7",
+				"porsiyon5": " 0.17"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 0.9",
+				"porsiyon2": "4.5",
+				"porsiyon3": " 0.45",
+				"porsiyon4": " 0.9",
+				"porsiyon5": " 0.09"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 0.2",
+				"porsiyon2": " 1",
+				"porsiyon3": " 0.1",
+				"porsiyon4": " 0.2",
+				"porsiyon5": " 0.02"
+			}
+		},
+		{
+			"yemek_id": "41",
+			"yemek_adi": "Brokoli",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/brokoli_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/brokoli_buyuk.jpg",
+			"yemek_detay_aciklama": "Sağlık açısından oldukça yararlı olan brokoli kanser, diyabet, kalp ve sindirim sistemine ilişkin ciddi hastalıkların önüne geçilmesinde, bağışıklık sistemini güçlendirmede ve yaşlanmayı geciktirmede etkili olan antioksidanlar bakımından çok zengin olan bu sebze, vücudun toksinlerden arınmasına yardımcı oluyor. Aynı zamanda içerdiği beta-karotenler sayesinde de mide, yemek borusu ve bağırsak kanserlerinin önlenmesine destek oluyor. Düzenli tüketildiğinde vücutta demir ve mineral eksikliğini gideriyor, vücudun pH seviyesini dengeleyerek cildin canlı ve sağlıklı kalmasına yardımcı oluyor. K ve C vitamini, kalsiyum, magnezyum, çinko ve fosfor açısından da oldukça zengin olan brokolinin bir tutamı günlük kalsiyum ihtiyacının yarısından fazlasını karşılamaya yetiyor. Bu yönüyle kemik ve diş sağlığının gelişmesinde de etki gösteriyor. İçerisinde bulunan krom sayesinde kan şekerini düzenliyor, sağlıklı insülin salınımına katkı sağlıyor. Tüm bunların yanı sıra folik asit içeriğinden ötürü özellikle hamilelik ve emziklilik dönemlerinde tüketilmesi tavsiye ediliyor.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/brokoli_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "40",
+			"yemek_protein_yuzde": "52",
+			"yemek_yag_yuzde": "8",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Kase (Orta)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "39",
+				"porsiyon2": "26",
+				"porsiyon3": "26",
+				"porsiyon4": "3",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "3.77",
+				"porsiyon2": "2.51",
+				"porsiyon3": "2.51",
+				"porsiyon4": " 0.25",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "4.95",
+				"porsiyon2": " 3.3",
+				"porsiyon3": " 3.3",
+				"porsiyon4": " 0.33",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 0.3",
+				"porsiyon2": " 0.2",
+				"porsiyon3": " 0.2",
+				"porsiyon4": " 0.02",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "40",
+			"yemek_adi": "Ceviz",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/ceviz_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/ceviz_buyuk.jpg",
+			"yemek_detay_aciklama": "Düzenli tüketildiğinde cevizin faydaları artar ve bağışıklık sistemini güçlendirir. Cildin uzun süre parlamasını sağlar ve ciltte kırışıklık oluşumunu engeller. Ceviz tüketimi kandaki melatonin seviyesini yükseltir ve uykuya neden olur. Bu nedenle uyku gelişimine katkı sağlar.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/ceviz_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "6",
+			"yemek_protein_yuzde": "14",
+			"yemek_yag_yuzde": "80",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Adet (Orta)",
+				"porsiyon2": "1 Adet (Yarım)",
+				"porsiyon3": "1 Çay Bardağı",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "31",
+				"porsiyon2": "12",
+				"porsiyon3": "619",
+				"porsiyon4": "619",
+				"porsiyon5": "62"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "0.48",
+				"porsiyon2": " 0.19",
+				"porsiyon3": " 9.58",
+				"porsiyon4": " 9.58",
+				"porsiyon5": "0.96"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 1.2",
+				"porsiyon2": " 0.48",
+				"porsiyon3": " 24.06",
+				"porsiyon4": " 24.06",
+				"porsiyon5": " 2.41"
+			},
+			"yemek_yag": {
+				"porsiyon1": "2.97",
+				"porsiyon2": " 1.19",
+				"porsiyon3": " 59.33",
+				"porsiyon4": " 59.33",
+				"porsiyon5": " 5.93"
+			}
+		},
+		{
+			"yemek_id": "39",
+			"yemek_adi": "Domates",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/domates_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/domates_buyuk.jpg",
+			"yemek_detay_aciklama": "Yararları saymakla bitmeyen domates diyabet, cilt problemleri ve idrar yolu enfeksiyonlarından da rahatlama sağlar, ayrıca, sindirimi artırır, kan dolaşımını uyarır, kolesterol seviyelerini azaltır, sıvı dengesini artırır, böbrekleri korur, vücudu detoksifiye eder, erken yaşlanmayı önler ve iltihabı azaltır.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/domates_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "73",
+			"yemek_protein_yuzde": "18",
+			"yemek_yag_yuzde": "9",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Adet (Orta)",
+				"porsiyon2": "1 Adet (Yarım)",
+				"porsiyon3": "1 Çeyrek",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "20",
+				"porsiyon2": "10",
+				"porsiyon3": "5",
+				"porsiyon4": "18",
+				"porsiyon5": "2"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 4.28",
+				"porsiyon2": " 2.14",
+				"porsiyon3": " 0.97",
+				"porsiyon4": " 3.89",
+				"porsiyon5": " 0.39"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 0.97",
+				"porsiyon2": " 0.48",
+				"porsiyon3": " 0.22",
+				"porsiyon4": " 0.88",
+				"porsiyon5": " 0.09"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 0.22",
+				"porsiyon2": " 0.11",
+				"porsiyon3": " 0.05",
+				"porsiyon4": " 0.2",
+				"porsiyon5": " 0.02"
+			}
+		},
+		{
+			"yemek_id": "38",
+			"yemek_adi": "Lifalif Yulaf Ezmesi",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/lifalif_yulaf_ezmesi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/lifalif_yulaf_ezmesi_buyuk.jpg",
+			"yemek_detay_aciklama": "Eti lifalif yulaf ezmesi, yüksek lif içeriğine sahiptir. Sindirim sistemini destekleyici özelliğe sahiptir. Tüketileceği zaman miktarına dikkat edilmelidir. 1 porsiyon olarak 3-4 çorba kaşığı kadar tüketilmesi yeterlidir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/lifalif_yulaf_ezmesi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "65",
+			"yemek_protein_yuzde": "16",
+			"yemek_yag_yuzde": "19",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Çorba Kaşığı",
+				"porsiyon3": "1 Çay Bardağı",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "110",
+				"porsiyon2": "44",
+				"porsiyon3": "165",
+				"porsiyon4": "367",
+				"porsiyon5": "37"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 16.86",
+				"porsiyon2": " 6.74",
+				"porsiyon3": "25.29",
+				"porsiyon4": " 56.2",
+				"porsiyon5": " 5.62"
+			},
+			"yemek_protein": {
+				"porsiyon1": "4.17",
+				"porsiyon2": "1.67",
+				"porsiyon3": "6.26",
+				"porsiyon4": " 13.9",
+				"porsiyon5": " 1.39"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 2.22",
+				"porsiyon2": "0.89",
+				"porsiyon3": " 3.33",
+				"porsiyon4": " 7.4",
+				"porsiyon5": " 0.74"
+			}
+		},
+		{
+			"yemek_id": "37",
+			"yemek_adi": "Yulaf Ezmesi",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/yulaf_ezmesi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/yulaf_ezmesi_buyuk.jpg",
+			"yemek_detay_aciklama": "Bağışıklığı güçlendirir, Kalbin sağlığının korunmasına fayda sağlar, Kandaki kolesterol seviyesini düzenler, Sindirim sistemiyle birlikte kan şekeri seviyesini normale düzeylere dönüştürür, Cilt sağlığının korunmasında önemli faydaları vardır. Diyet yapanların kilo vermesini kolaylaştıran bir besin türüdür. Kolon kanseri riskini en aza indirger. İçeriğindeki antioksidan bileşenler C vitaminiyle birlikte LDL kolesterolünün dokulara verdiği hasarı önleyerek kalp krizi ve felç riskini ortadan kaldırıyor. Dünyada en yaygın olarak görülen kronik hastalıklardan biri olan Tip-2 diyabet, genellikle insülin hormonuna karşı duyarlılığın azalması nedeniyle oluşuyor. Düzenli ve önerilen miktarda tüketilen yulaf, özellikle fazla kilolu ve Tip-2 diyabete sahip olan kişilerin kan şekerinin düzenlenmesine yardımcı oluyor. Yulafta bulunan ve çözünebilir bir posa olan beta-glukan midede kalın bir jel oluşturuyor ve mide boşalmasını geciktirerek kan şekerinin yavaş yükselmesini sağlıyor.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/yulaf_ezmesi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "67",
+			"yemek_protein_yuzde": "17",
+			"yemek_yag_yuzde": "16",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Çorba Kaşığı",
+				"porsiyon2": "1 Su Bardağı",
+				"porsiyon3": "1 Kase (Orta)",
+				"porsiyon4": "1 Tatlı Kaşığı",
+				"porsiyon5": "10 Gram"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "39",
+				"porsiyon2": "272",
+				"porsiyon3": "389",
+				"porsiyon4": "12",
+				"porsiyon5": "39"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 6.63",
+				"porsiyon2": " 46.39",
+				"porsiyon3": " 66.27",
+				"porsiyon4": " 1.99",
+				"porsiyon5": " 6.63"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 1.69",
+				"porsiyon2": " 11.82",
+				"porsiyon3": " 16.89",
+				"porsiyon4": " 0.51",
+				"porsiyon5": " 1.69"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 0.69",
+				"porsiyon2": " 4.83",
+				"porsiyon3": " 6.9",
+				"porsiyon4": " 0.21",
+				"porsiyon5": " 0.69"
+			}
+		},
+		{
+			"yemek_id": "36",
+			"yemek_adi": "Mercimek Salatası",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/mercimek_salatasi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/mercimek_salatasi_buyuk.jpg",
+			"yemek_detay_aciklama": "Yeşil mercimek yüksek protein sayesinde kemik sağlığına katkıda bulunur. Vücudun kas sistemini güçlendiren yeşil mercimek hastalıklı hücrelerin sayısını azaltarak vücudun bağışıklığını artırır. Uzun süre midenin tok hissetmesini sağlar. Aynı zamanda lif bakımından zengin olan yeşil mercimek bağırsakları temizler.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/mercimek_salatasi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "66",
+			"yemek_protein_yuzde": "29",
+			"yemek_yag_yuzde": "5",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "100 Gram",
+				"porsiyon3": "10 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "282",
+				"porsiyon2": "92",
+				"porsiyon3": "9",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "40.31",
+				"porsiyon2": "13.13",
+				"porsiyon3": " 1.31",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "17.54",
+				"porsiyon2": " 5.71",
+				"porsiyon3": " 0.57",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 1.22",
+				"porsiyon2": " 0.4",
+				"porsiyon3": " 0.04",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "35",
+			"yemek_adi": "Mercimek Köftesi",
+			"yemek_ogun_saati": "Öğle Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/mercimek_koftesi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/mercimek_koftesi_buyuk.jpg",
+			"yemek_detay_aciklama": "Mercimek köftesi, A ve B grubu vitaminleri, potasyum, demir, fosfor, çinko, folik asit ve lif açısından zengindir. 2 adet mercimek köftesi yediğinde gün içindeki hakkından 1 dilim ekmek ve 1 çay kaşığı yağ azaltman gerekir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/mercimek_koftesi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "54",
+			"yemek_protein_yuzde": "13",
+			"yemek_yag_yuzde": "33",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Adet",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "291",
+				"porsiyon2": "39",
+				"porsiyon3": "130",
+				"porsiyon4": "13",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 38.1",
+				"porsiyon2": " 5.08",
+				"porsiyon3": " 16.93",
+				"porsiyon4": " 1.69",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 9.07",
+				"porsiyon2": "1.21",
+				"porsiyon3": "4.03",
+				"porsiyon4": " 0.4",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 10.23",
+				"porsiyon2": " 1.36",
+				"porsiyon3": " 4.55",
+				"porsiyon4": " 0.45",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "34",
+			"yemek_adi": "Mercimek Yemeği",
+			"yemek_ogun_saati": "Öğle Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/mercimek_yemegi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/mercimek_yemegi_buyuk.jpg",
+			"yemek_detay_aciklama": "Mercimek yemeği, bitkisel protein ve vitamin ve mineral açısından zengindir. Ayrıca lif içeriğine de sahiptir. Bu yüzden ana öğünlerde kurubaklagil olarak tercih edilebilir. Beraberinde ekmek tüketiminin az olmasına dikkat edilmelidir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/mercimek_yemegi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "47",
+			"yemek_protein_yuzde": "25",
+			"yemek_yag_yuzde": "28",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Yemek Kaşığı",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "164",
+				"porsiyon2": "18",
+				"porsiyon3": "71",
+				"porsiyon4": "7",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 17.04",
+				"porsiyon2": " 1.85",
+				"porsiyon3": "7.41",
+				"porsiyon4": " 0.74",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 8.97",
+				"porsiyon2": "0.98",
+				"porsiyon3": " 3.9",
+				"porsiyon4": " 0.39",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 4.52",
+				"porsiyon2": " 0.49",
+				"porsiyon3": " 1.97",
+				"porsiyon4": " 0.2",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "33",
+			"yemek_adi": "Portakal Suyu",
+			"yemek_ogun_saati": "İçecek",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/portakal_suyu_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/portakal_suyu_buyuk.jpg",
+			"yemek_detay_aciklama": "Portakal suyu kanser önleme, serbest radikallerle mücadele, bağışıklık sistemini güçlendirme ve toksinlerden arınma gibi önemli özellikleriyle sağlığınızı geliştiren bir içecek. Portakalın içerdiği yüksek orandaki C vitamini insan vücudu tarafından üretilemeyen önemli bir besin öğesi. Bu nedenle beslenme yoluyla dışarıdan alınması gerekiyor.Portakal suyu ayrıca tümörlerin büyümesini azaltan önemli bir antioksidan olan hesperidin açısından da zengindir. Portakal suyu ayrıca kolajenin temel bileşenlerinden biri olan askorbik asit içeriyor. Kolajen hücrelerin onarımında ve vücutta yeni dokuların büyümesinde etkili bir bileşik. Bu nedenle portakal suyu erken yaşlanmayı geciktirmede de önemli bir rol oynuyor. Portakal suyu ayrıca bir antioksidan görevi gören A vitamini bakımından zengin. Dahası meyve suyu böbrek fonksiyonlarını desteklediğinden vücudu toksinlerden arındırmaya yardımcı oluyor. A vitamini ayrıca göz sağlığını koruyan bir besin öğesi. Düzenli olarak portakal suyu tüketerek maküler dejenerasyon gibi birçok göz hastalığının başlamasını önleyebilirsiniz.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/portakal_suyu_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "94",
+			"yemek_protein_yuzde": "3",
+			"yemek_yag_yuzde": "3",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Su Bardağı",
+				"porsiyon2": "1 Yarım Su Bardağı",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "120",
+				"porsiyon2": "60",
+				"porsiyon3": "60",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 29.28",
+				"porsiyon2": "14.64",
+				"porsiyon3": "14.64",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 0.8",
+				"porsiyon2": " 0.4",
+				"porsiyon3": " 0.4",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 0.33",
+				"porsiyon2": " 0.17",
+				"porsiyon3": " 0.17",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "32",
+			"yemek_adi": "İçli Köfte (Bulgurlu)",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/icli_kofte_bulgurlu_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/icli_kofte_bulgurlu_buyuk.jpg",
+			"yemek_detay_aciklama": "İçli Köfte, (Kitel) yapımında kullanılan bulgur sayesinde posa ve B grubu vitaminlerden zengindir. Pişirme yöntemi olarak kızartma yerine haşlama tercih edilmelidir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/icli_kofte_bulgurlu_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "49",
+			"yemek_protein_yuzde": "15",
+			"yemek_yag_yuzde": "36",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Adet (Orta)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "459",
+				"porsiyon2": "153",
+				"porsiyon3": "219",
+				"porsiyon4": "22",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 55.44",
+				"porsiyon2": " 18.48",
+				"porsiyon3": " 26.4",
+				"porsiyon4": " 2.64",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 17.15",
+				"porsiyon2": " 5.72",
+				"porsiyon3": " 8.17",
+				"porsiyon4": " 0.82",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 18.36",
+				"porsiyon2": " 6.12",
+				"porsiyon3": " 8.74",
+				"porsiyon4": " 0.87",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "31",
+			"yemek_adi": "İçli Köfte (Kıymalı)",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/icli_kofte_kiymali_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/icli_kofte_kiymali_buyuk.jpg",
+			"yemek_detay_aciklama": "İçli köfte, iç malzemesi kıyma, ceviz ve çeşitli baharatlardan oluşan, dışı irmik, bulgur, kıyma ve salça içeren haşlama veya kızartma şeklinde yapılan bir yemektir. Sık tercih edilmemeli yenildiğinde haşlama ve az miktarda yenilmelidir.rn",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/icli_kofte_kiymali_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "56",
+			"yemek_protein_yuzde": "17",
+			"yemek_yag_yuzde": "27",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Adet (Orta)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "10 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "349",
+				"porsiyon2": "163",
+				"porsiyon3": "233",
+				"porsiyon4": "23",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 48.42",
+				"porsiyon2": " 22.6",
+				"porsiyon3": " 32.28",
+				"porsiyon4": " 3.23",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "14.8",
+				"porsiyon2": " 6.91",
+				"porsiyon3": " 9.87",
+				"porsiyon4": " 0.99",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "10.25",
+				"porsiyon2": "4.78",
+				"porsiyon3": " 6.83",
+				"porsiyon4": "0.68",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "30",
+			"yemek_adi": "Portakal",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/portakal_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/portakal_buyuk.jpg",
+			"yemek_detay_aciklama": "Turunçgiller familyasından bir meyve olan portakal, kış aylarının en sevilen meyvelerinin başında gelir. Adeta kışın habercisi sayılan meyvenin tam yuvarlak ya da yumurta biçimli cinsleri bulunur. Türkiye’de en çok Akdeniz Bölgesi'nde yetişen portakal, Rize gibi mikroklima iklim özelliği gösteren bölgelerde de yetiştirilir. Kabuğu sarıya çalan turuncu rengine sahip olan portakal, güzel kokusu, mayhoş tadı ve vücut sağlığına olan faydaları ile en çok tüketilen meyvelerin başında gelir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/portakal_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "90",
+			"yemek_protein_yuzde": "6",
+			"yemek_yag_yuzde": "4",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Adet",
+				"porsiyon2": "1 Dilim (Orta)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "101",
+				"porsiyon2": "14",
+				"porsiyon3": "46",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "25.39",
+				"porsiyon2": " 3.46",
+				"porsiyon3": " 11.54",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 1.54",
+				"porsiyon2": " 0.21",
+				"porsiyon3": " 0.7",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 0.46",
+				"porsiyon2": " 0.06",
+				"porsiyon3": " 0.21",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "29",
+			"yemek_adi": "Baklava",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/baklava_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/baklava_buyuk.jpg",
+			"yemek_detay_aciklama": "Birçok insanın severek yediği tatlıların başında gelen baklava, şerbetli tatlılar arasında öne çıkıyor. Ancak şeker ve karbonhidrat oranı yüksek olan bu tatlıyı tüketirken dikkatli olmak gerekiyor. Evinizdeki malzemeler ile de kolaylıkla yapabileceğiniz baklava, özellikle bayram sofralarının vazgeçilmezi.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/baklava_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "47",
+			"yemek_protein_yuzde": "7",
+			"yemek_yag_yuzde": "46",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Adet",
+				"porsiyon2": "1 Porsiyon (Orta)",
+				"porsiyon3": "1 Adet (Yarım)",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "165",
+				"porsiyon2": "659",
+				"porsiyon3": "82",
+				"porsiyon4": "412",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 19.74",
+				"porsiyon2": " 78.97",
+				"porsiyon3": " 9.87",
+				"porsiyon4": "49.36",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "3.09",
+				"porsiyon2": " 12.36",
+				"porsiyon3": " 1.55",
+				"porsiyon4": " 7.73",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 8.59",
+				"porsiyon2": " 34.36",
+				"porsiyon3": " 4.3",
+				"porsiyon4": "21.48",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "28",
+			"yemek_adi": "Yoğurt",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/yogurt_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/yogurt_buyuk.jpg",
+			"yemek_detay_aciklama": "Yoğurt,çok iyi bir kalsiyum kaynağı olup, aynı zamanda da her gün diyette olması gereken bir besindir. Az yağlı tercih edildiğinde iyi bir protein kaynağıdır. 1 kase yoğurt 1 süt değişimine eşit olmaktadır.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/yogurt_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "31",
+			"yemek_protein_yuzde": "23",
+			"yemek_yag_yuzde": "47",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Kase (200 gr)",
+				"porsiyon2": "1 Yemek Kaşığı",
+				"porsiyon3": "1 Su Bardağı",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "122",
+				"porsiyon2": "27",
+				"porsiyon3": "110",
+				"porsiyon4": "61",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 9.32",
+				"porsiyon2": " 2.1",
+				"porsiyon3": " 8.39",
+				"porsiyon4": " 4.66",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 6.94",
+				"porsiyon2": " 1.56",
+				"porsiyon3": "6.25",
+				"porsiyon4": " 3.47",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 6.5",
+				"porsiyon2": " 1.46",
+				"porsiyon3": "5.85",
+				"porsiyon4": " 3.25",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "27",
+			"yemek_adi": "Bezelye Yemeği",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/bezelye_yemegi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/bezelye_yemegi_buyuk.jpg",
+			"yemek_detay_aciklama": "Besin içeriği açısından bezelye, A vitamini, C vitamini, demir, potasyum, diyet lifi, magnezyum, folik asit ve küçük sağlıklı yağlar ile doludur. Bezelyede bol miktarda bulunan kumarestrol adı verilen koruyucu polifenolün özellikle mide kanseri gibi korkunç hastalıkları önlediği bilinmektedir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/bezelye_yemegi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "66",
+			"yemek_protein_yuzde": "18",
+			"yemek_yag_yuzde": "16",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "100 Gram",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "235",
+				"porsiyon2": "66",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "39.95",
+				"porsiyon2": " 11.21",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 10.96",
+				"porsiyon2": " 3.07",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 4.26",
+				"porsiyon2": " 1.2",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "26",
+			"yemek_adi": "Bezelye Çorbası",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/bezelye_corbasi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/bezelye_corbasi_buyuk.jpg",
+			"yemek_detay_aciklama": "Bezelye Çorbası, hem nişastalı sebze olan bezleye hem de un içeriği nedeni ile karbonhidrat içeriği yüksek bir çorbadır. Şeker hastaları çok sık tercih etmemelidirler.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/bezelye_corbasi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "38",
+			"yemek_protein_yuzde": "14",
+			"yemek_yag_yuzde": "48",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Kase (Orta)",
+				"porsiyon2": "1 Kepçe",
+				"porsiyon3": "1 Çorba Kaşığı",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "41",
+				"porsiyon2": "31",
+				"porsiyon3": "2",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 4.09",
+				"porsiyon2": " 3.06",
+				"porsiyon3": " 0.2",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 1.4",
+				"porsiyon2": " 1.05",
+				"porsiyon3": " 0.07",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 2.14",
+				"porsiyon2": " 1.6",
+				"porsiyon3": " 0.11",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "25",
+			"yemek_adi": "Taze Bezelye (Pişmiş)",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/taze_bezelye_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/taze_bezelye_buyuk.jpg",
+			"yemek_detay_aciklama": "Zengin bir protein kaynağı olmasıyla öne çıkan bezelye, vejetaryen ve vegan beslenenler başta olmak üzere herkes için oldukça önemli bir besin. Baklagiller familyasından olan bezelyenin ağırlıklı olarak yeşil taneleri tüketiliyor. Bu taneler sadece protein değil, pek çok vitamin ve mineral de içeriyor. 100 gram taze bezelyede 12.59 gram karbonhidrat, 0.49 gram yağ, 84 kalori, 6.71 gram protein, 5.29 gram lif, 27 miligram kalsiyum, 74 miligram A vitamini, 1.78 miligram demir, 15.64 miligram C vitamini, 2 miligram sodyum ve 259 miligram potasyum var. Lif açısından zengin olan bezelye, sağlıklı beslenme içerisinde özel bir yere sahip.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/taze_bezelye_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "73",
+			"yemek_protein_yuzde": "24",
+			"yemek_yag_yuzde": "2",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Su Bardağı",
+				"porsiyon2": "1 Yemek Kaşığı",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "126",
+				"porsiyon2": "13",
+				"porsiyon3": "84",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 23.45",
+				"porsiyon2": "2.34",
+				"porsiyon3": "15.63",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "8.04",
+				"porsiyon2": " 0.8",
+				"porsiyon3": " 5.36",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 0.33",
+				"porsiyon2": "0.03",
+				"porsiyon3": " 0.22",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "24",
+			"yemek_adi": "Poğaça",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pogaca_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pogaca_buyuk.jpg",
+			"yemek_detay_aciklama": "Poğaça diğer besinlere göre daha az vitamin, mineral ve lif içerir. Bu duruma rağmen poğaçanın faydaları şu şekildedir; Hazmı kolaylaştırır.Vücutta oluşan alerjileri engeller.Enerji verir.Kan şekerini düşürür.İdrar söktürür. Hormon seviyesini dengeler.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/pogaca_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "37",
+			"yemek_protein_yuzde": "8",
+			"yemek_yag_yuzde": "55",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Adet (Orta)",
+				"porsiyon2": "1 Porsiyon (Orta)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "243",
+				"porsiyon2": "225",
+				"porsiyon3": "347",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 22.33",
+				"porsiyon2": " 20.74",
+				"porsiyon3": " 31.9",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 4.91",
+				"porsiyon2": "4.55",
+				"porsiyon3": " 7.01",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 14.74",
+				"porsiyon2": " 13.69",
+				"porsiyon3": " 21.06",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "23",
+			"yemek_adi": "Susamlı Simit",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/susamli_simit_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/susamli_simit_buyuk.jpg",
+			"yemek_detay_aciklama": "Simit, lezzetli bir besin olduğu kadar aynı zamanda yararlı da bir besindir. Simidin üzerinde bulunan susamların içerisinde bulunan vitamin ve antioksidan maddeler sağlığımıza oldukça yararlıdır. Bağışıklık güçlendirici özelliği bulunmaktadır. Daha dirençli bir vücut yapısının oluşmasını sağlar. Latince ismi Sesamum indicum olan bitkinin olgunlaşmış tohumlarından presleme işlemi yapılarak elde edilen susam yağı, sesamolin, sesamol ve sesamin isminde antioksidan özellikli bileşikler içeriyor. Önemli miktarda A, E ve C vitamini ihtiva ediyor. Beyin ve sinir hücreleri için faydalı olan lesitin maddesi ve kansızlık (anemi) için gereken demir minerali bakımından zengin bir içeriğe sahip olan susam yağı, barsak kanserine karşı koruyucu etki gösteriyor. Susam yağı, kolesterol seviyesini korumaya ve diyabet hastalığını önlemeye yardımcı oluyor. Ancak simit gibi bol susam içeren besinlerin fazla miktarda alınması, kilo problemine yol açabiliyor. Alerjik reaksiyon geliştirmeye yatkın yapıdaki kişilerde ciltte kızarıklık, kaşıntı ve döküntü sorunlarına neden olabiliyor.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/susamli_simit_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "75",
+			"yemek_protein_yuzde": "14",
+			"yemek_yag_yuzde": "11",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Adet (Orta) (100 gr)",
+				"porsiyon2": "1 Adet (Yarım)",
+				"porsiyon3": "1 Adet (Çeyrek)",
+				"porsiyon4": "1 Adet (Büyük)",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "275",
+				"porsiyon2": "138",
+				"porsiyon3": "69",
+				"porsiyon4": "413",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 57.14",
+				"porsiyon2": "28.57",
+				"porsiyon3": " 14.29",
+				"porsiyon4": " 85.71",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 10.71",
+				"porsiyon2": " 5.36",
+				"porsiyon3": "2.68",
+				"porsiyon4": " 16.07",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "3.57",
+				"porsiyon2": " 1.79",
+				"porsiyon3": " 0.89",
+				"porsiyon4": " 5.36",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "22",
+			"yemek_adi": "Pınar Üçgen Peynir",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pinar_ucgen_peynir_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pinar_ucgen_peynir_buyuk.jpg",
+			"yemek_detay_aciklama": "Pınar Üçgen Peynir, kahvaltıları çeşitlendirmek için çok sık olmayacak şekilde tüketilebilir. Tüketileceği zaman 2 orta üçgen kadar tüketilmesi yeterlidir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/pinar_ucgen_peynir_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "5",
+			"yemek_protein_yuzde": "25",
+			"yemek_yag_yuzde": "70",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Adet",
+				"porsiyon2": "100 Gram",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "39",
+				"porsiyon2": "312",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 0.5",
+				"porsiyon2": "4",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "2.4",
+				"porsiyon2": " 19.2",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "3",
+				"porsiyon2": "24",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+
+
+		{
+			"yemek_id": "21",
+			"yemek_adi": "Sütaş Kaşar Peyniri",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/sutas_kasar_peyniri_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/sutas_kasar_peyniri_buyuk.jpg",
+			"yemek_detay_aciklama": "rnSütaş Kaşar Peynir, kalsiyum içeriği yüksek bir peynirdir. Gümlük kalsiyum ihtiyacını karşılamak için tercih edilebilir ancak yağ içeriği de yüksek bir peynir olduğu için kahvaltılarda ve tüketileceği zamanlarda 2 ince dilim tüketilmesi yeterlidir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/sutas_kasar_peyniri_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "2",
+			"yemek_protein_yuzde": "32",
+			"yemek_yag_yuzde": "66",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Dilim (İnce)",
+				"porsiyon2": "1 Dilim (Kalın)",
+				"porsiyon3": "1 Paket (250 gr)",
+				"porsiyon4": "1 Paket (8 Dilimli)",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "68",
+				"porsiyon2": "102",
+				"porsiyon3": "850",
+				"porsiyon4": "544",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 0.34",
+				"porsiyon2": " 0.51",
+				"porsiyon3": " 4.25",
+				"porsiyon4": " 2.72",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "5.4",
+				"porsiyon2": " 8.1",
+				"porsiyon3": " 67.5",
+				"porsiyon4": " 43.2",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "5",
+				"porsiyon2": " 7.5",
+				"porsiyon3": " 62.5",
+				"porsiyon4": "40",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "20",
+			"yemek_adi": "Etsiz Patates Yemeği",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/patates_yemegi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/patates_yemegi_buyuk.jpg",
+			"yemek_detay_aciklama": "Patatesin yüksek lif içeriği sindirimi kolaylaştırır. Lif, sindirimi destekler ve dışkıya kütle ekleyerek bağırsak düzenini destekler. Patates ayrıca ishalden hızlıca kurtulmanıza yardımcı olabilir. Patates, ishal sırasında aşırı derecede kaybedilen bir mineral olan potasyum bakımından zengindir",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/patates_yemegi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "35",
+			"yemek_protein_yuzde": "6",
+			"yemek_yag_yuzde": "59",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Yemek Kaşığı",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "444",
+				"porsiyon2": "19",
+				"porsiyon3": "193",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 38.65",
+				"porsiyon2": " 1.68",
+				"porsiyon3": " 16.8",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "6.24",
+				"porsiyon2": "0.27",
+				"porsiyon3": " 2.71",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 29.24",
+				"porsiyon2": " 1.27",
+				"porsiyon3": "12.71",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "19",
+			"yemek_adi": "Şehriye Çorbası",
+			"yemek_ogun_saati": "Öğle Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/sehriye_corbasi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/sehriye_corbasi_buyuk.jpg",
+			"yemek_detay_aciklama": "Hastalar için adeta şifa kaynağı olan şehriye çorbası, kış aylarında da içimizi ısıtan ve sevilen çorbalardan biridir. Arpa içerisinde bol miktarda protein, B1, B3 ve B6 vitaminleri içermesi nedeniyle oldukça besleyici olmaktadır. Arpa şehriye çorbası kalbi kuvvetlendirmeye yarayan en faydalı çorbadır.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/sehriye_corbasi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "66",
+			"yemek_protein_yuzde": "9",
+			"yemek_yag_yuzde": "25",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Kase (Orta)",
+				"porsiyon2": "1 Kase (Küçük)",
+				"porsiyon3": "1 Kepçe",
+				"porsiyon4": "1 Çorba Kaşığı",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "181",
+				"porsiyon2": "136",
+				"porsiyon3": "136",
+				"porsiyon4": "9",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "30",
+				"porsiyon2": " 22.5",
+				"porsiyon3": "22.5",
+				"porsiyon4": " 1.5",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "4",
+				"porsiyon2": "3",
+				"porsiyon3": "3",
+				"porsiyon4": "0.2",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "5",
+				"porsiyon2": " 3.75",
+				"porsiyon3": " 3.75",
+				"porsiyon4": "0.25",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "18",
+			"yemek_adi": "Beyaz Peynir",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/beyaz_peynir_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/beyaz_peynir_buyuk.jpg",
+			"yemek_detay_aciklama": "Peynir, hemen hemen herkes tarafından sevilen ve sabah kahvaltılarının vazgeçilmezi haline gelen bir besin olarak anılıyor. Beyaz peynir, enerji değeri bakımından oldukça yüksek ve protein, ‌B2 ve kalsiyum yönünden zengin bir süt ürünü olarak biliniyor. Peynir yağda çözünen A, ‌C, D, E ve K vitaminlerini içeriyor ve A vitamini açısından en zengin besinler arasında yer alıyor. Sağlıklı içeriğiyle her evin demirbaşı olan besin, organların sağlığı için hayati önem taşıyan ‌B6 ve ‌B12 vitaminlerini de içeriyor. Tüm bu vitaminlerin yanı sıra vücudun ihtiyacı olan ‌tiamin, ‌riboflavin, ‌niasin, ‌folat ve ‌pantotenik asit de barındırıyor. Peynir, içerdiği besinler sayesinde sağlık açısından birçok fayda sağlıyor. Kemiklerin güçlenmesinden diş sağlığının korunmasına ve kanserin önlenmesine değin birçok konuda peynir tüketimi önemli rol oynuyor.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/beyaz_peynir_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "3",
+			"yemek_protein_yuzde": "26",
+			"yemek_yag_yuzde": "70",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Dilim (Orta)",
+				"porsiyon2": "1 Dilim (Yarım)",
+				"porsiyon3": "1 Çorba Kaşığı",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "93",
+				"porsiyon2": "47",
+				"porsiyon3": "31",
+				"porsiyon4": "310",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": " 0.76",
+				"porsiyon2": " 0.38",
+				"porsiyon3": "0.25",
+				"porsiyon4": " 2.53",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "6.11",
+				"porsiyon2": "3.06",
+				"porsiyon3": "2.04",
+				"porsiyon4": " 20.38",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "7.29",
+				"porsiyon2": "3.65",
+				"porsiyon3": " 2.43",
+				"porsiyon4": " 24.31",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "17",
+			"yemek_adi": "Yeşil Zeytin",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/yesil_zeytin_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/yesil_zeytin_buyuk.jpg",
+			"yemek_detay_aciklama": "Yeşil Zeytin, yağ, içeriği yüksek bir besindir. Tuz içeriği fazla olduğundan tuz kısıtlaması olanlar tuzsuz zeytin tercih etmelidir. 8 adet yeşil zeytin 1 tatlı kaşığı yağ yerine tüketilebilir. Zeytinler, iltihabın neden olduğu oksidatif stresi azaltmaya yardımcı olduğu için, hayati organların (yani beyniniz!) dokularını zararlı ve geri dönüşü olmayan hasarlardan korurlar. Bir diğer fayda: Zeytinler, gelişmiş biliş ve bilişsel düşme riskinini azaltma ile bağlantılı bir antioksidan olan E vitamini içerir. Birincil yağ kaynağı olarak zeytinyağına dayanan diyetlerin, Alzheimer hastalığı riskini azaltmada etkili olduğu kanıtlanmıştır.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/yesil_zeytin_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "9",
+			"yemek_protein_yuzde": "3",
+			"yemek_yag_yuzde": "87",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Adet",
+				"porsiyon2": "1 Porsiyon (Orta 6 Adet)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "6",
+				"porsiyon2": "35",
+				"porsiyon3": "145",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "0.15",
+				"porsiyon2": " 0.92",
+				"porsiyon3": " 3.84",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": " 0.05",
+				"porsiyon2": "0.31",
+				"porsiyon3": "1.3",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": " 0.61",
+				"porsiyon2": " 3.68",
+				"porsiyon3": " 15.32",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "16",
+			"yemek_adi": "Siyah Zeytin",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/siyah_zeytin_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/siyah_zeytin_buyuk.jpg",
+			"yemek_detay_aciklama": "Zeytinler kan basıncını kontrol eder. Zeytin, meyve ve sebzelere alternatif olarak bir diyet lifi kaynağıdır. Zeytinler antioksidan görevi görür, hücreleri korur. Zeytinler Alzheimer, iyi huylu ve habis tümörler gibi dejeneratif hastalıkların etkilerini azaltır. Zeytinler, iltihabın neden olduğu oksidatif stresi azaltmaya yardımcı olduğu için, hayati organların dokularını zararlı ve geri dönüşü olmayan hasarlardan korurlar. Bir diğer fayda: Zeytinler, gelişmiş biliş ve bilişsel düşme riskinini azaltma ile bağlantılı bir antioksidan olan E vitamini içerir. Birincil yağ kaynağı olarak zeytinyağına dayanan diyetlerin, Alzheimer hastalığı riskini azaltmada etkili olduğu kanıtlanmıştır.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/siyah_zeytin_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "19",
+			"yemek_protein_yuzde": "2",
+			"yemek_yag_yuzde": "78",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Adet",
+				"porsiyon2": "1 Porsiyon (Orta 6 Adet)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "5",
+				"porsiyon2": "27",
+				"porsiyon3": "116",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "0.24",
+				"porsiyon2": "1.39",
+				"porsiyon3": "6.04",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.03",
+				"porsiyon2": "0.19",
+				"porsiyon3": "0.84",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "0.44",
+				"porsiyon2": "2.51",
+				"porsiyon3": "10.9",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "15",
+			"yemek_adi": "Mantar",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/mantar_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/mantar_buyuk.jpg",
+			"yemek_detay_aciklama": "Neredeyse sıfıra yakın yağ oranı ile dikkat çeken mantar düşük kalori miktarı, yüksek protein içeriği ve kolesterol içermemesi nedeniyle özellikle diyet listelerinin aranan gıdaları arasında yer alıyor. Yüksek oranda lif içeren besin vitamin ve mineral açısından da zengin bir kaynak olarak gösteriliyor. Besinsel faydaları türüne bağlı olarak değişse de mantarların sağlık üzerine genel faydalarından bahsedebiliriz. Selenyum minerali başta olmak üzere birçok antioksidan bileşeni içeren mantar kalp hastalığı ve kanser gibi olumsuz sağlık durumlarına neden olabilen serbest radikallere karşı vücut hücrelerinin korunmasına yardımcı oluyor. Hücrelerin yaşlanma nedeniyle hasar görmesini engelliyor ve bağışıklık sistemini güçlendirerek hastalıklara karşı vücudun savunma sistemini destekliyor. Ayrıca mantarın içeriğinde yer alan beta-glukan adlı çözünen diyet lifi sayesinde kolesterol üzerinde olumlu etkiler yarattığını söyleyebiliriz. Kan şekerinin düzenlenmesinde de etkili bir rol oynayan beta-glukan, ‌Tip2 diyabet riskini de azaltıyor. Özellikle istiridye ve ‌shiitake türlerinin en etkili beta-glukanlara sahip olduğuna inanılıyor. Riboflavin, ‌niyasin ve ‌pantotenik asit gibi B vitaminleri açısından zengin olan mantar, kırmızı kan hücresi yapımını destekliyor, sindirim sisteminin düzenlenmesinde önemli rol üstleniyor. Sağlıklı bir cilt dokusu için düzenli olarak tüketilmesi önerilen bu besinin içerdiği B vitaminleri sinir sisteminin düzenli olarak çalışmasına da yardımcı oluyor. Bakır yönünden de zengin bir besin olan mantar, kırmızı kan hücresi yapımında da vücut dokularını destekliyor. Sağlıklı kemik yapısı ve sinir iletiminin sağlanmasında önemli role sahip olan bakır, düzenli olarak mantar tüketenlerde yeterli miktarda bulunuyor. Kalp, kas ve sinir sisteminin düzenli çalışmasında önemli rolleri olan potasyum açısından da zengin bir kaynak olan bu besin yüksek protein içeriği sayesinde özellikle vejetaryen beslenenlerin diyetlerinde vazgeçilmez bir yer tutuyor.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/mantar_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "46",
+			"yemek_protein_yuzde": "43",
+			"yemek_yag_yuzde": "11",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Adet",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "22",
+				"porsiyon2": "3",
+				"porsiyon3": "22",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "3.26",
+				"porsiyon2": "0.49",
+				"porsiyon3": "3.26",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "3.09",
+				"porsiyon2": "0.46",
+				"porsiyon3": "3.09",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "0.34",
+				"porsiyon2": "0.05",
+				"porsiyon3": "0.34",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "14",
+			"yemek_adi": "Kısır",
+			"yemek_ogun_saati": "Öğle Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/kisir_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/kisir_buyuk.jpg",
+			"yemek_detay_aciklama": "Sağlık açısından son derece faydalı olan ve bulgur ile yapılan kısır, lezzetli ve besleyici bir yemek. Çay saati eşlikçisi olarak da oldukça popüler diyebiliriz. İster ana yemek ister atıştırmalık olarak hazırlanabilen kısır, içerisindeki birçok faydalı baharat ve yeşillikler ile çoğu insanın beğenisini kazanıyor.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/kisir_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "71",
+			"yemek_protein_yuzde": "10",
+			"yemek_yag_yuzde": "19",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Kase (Orta)",
+				"porsiyon3": "1 Çorba Kaşığı",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "178",
+				"porsiyon2": "178",
+				"porsiyon3": "24",
+				"porsiyon4": "162",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "31.69",
+				"porsiyon2": "31.69",
+				"porsiyon3": "4.32",
+				"porsiyon4": "28.81",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "4.59",
+				"porsiyon2": "4.59",
+				"porsiyon3": "0.63",
+				"porsiyon4": "4.18",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "3.75",
+				"porsiyon2": "3.75",
+				"porsiyon3": "0.51",
+				"porsiyon4": "3.41",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "13",
+			"yemek_adi": "Bulgur Pilavı",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/bulgur_pilavi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/bulgur_pilavi_buyuk.jpg",
+			"yemek_detay_aciklama": "Bulgur en faydalı tahıl gruplarının başında geliyor. Türk mutfağının başlıca besin kaynaklarından biri olan bulgur pilavdan köfteye, çorbadan salataya her türlü yemeğin yapımında kullanılıyor. Karbonhidrat kaynaklarından biri olan buğday çeşitli işlemlerden geçerek bulgur halini alıyor ve ince, pilavlık, esmer, beyaz gibi farklı çeşitleri bulunuyor.  Sağlıklı beslenmenin vazgeçilmez besinlerinden olan bulgur protein, mineral, lif ve posa açısından oldukça zengin. En önemli faydalarından biri yüksek karbonhidrat değeri sayesinde enerji verici özelliğe sahip olması. İçeriğinde bulunan lif uzun süre tokluk sağlamasının yanı sıra bağırsak sisteminin düzenli çalışmasına da destek oluyor. rnrnYapısındaki B1 vitamini sayesinde sinir ve sindirim sistemini güçlendiren bulgur, içerisinde bulunan folik asitten ötürü de hamilelik döneminde anne adaylarının ve gelişim çağındaki çocukların düzenli şekilde beslenmelerinde yer vermesi gereken besinlerden. Bulgurun bir diğer faydası ise kan şekerini dengelemesi. Kötü kolesterolün yükselmesini engelleyen bu besin düzenli tüketildiği takdirde damar sağlığı açısından da olumlu etki gösteriyor. Böylece kalp krizi, beyin kanaması gibi damar hastalıkları riskini azaltıyor. Bulgurun en dikkat çekici olumlu özelliklerinden biri de doymamış yağ oranına sahip olduğundan kilo artışına yol açmaması.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/bulgur_pilavi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "63",
+			"yemek_protein_yuzde": "10",
+			"yemek_yag_yuzde": "27",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Porsiyon (Büyük)",
+				"porsiyon3": "1 Çorba Kaşığı",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "149",
+				"porsiyon2": "286",
+				"porsiyon3": "23",
+				"porsiyon4": "114",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "23.64",
+				"porsiyon2": "45.47",
+				"porsiyon3": "3.64",
+				"porsiyon4": "18.19",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "3.61",
+				"porsiyon2": "6.94",
+				"porsiyon3": "0.56",
+				"porsiyon4": "2.78",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "4.4",
+				"porsiyon2": "8.47",
+				"porsiyon3": "0.68",
+				"porsiyon4": "3.39",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "12",
+			"yemek_adi": "Pizza Karışık",
+			"yemek_ogun_saati": "Öğle Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pizza_karisik_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pizza_karisik_buyuk.jpg",
+			"yemek_detay_aciklama": "Dünyanın her noktasında bolca tüketilen pizza her kültürün ağız tadına ve yeme alışkanlıklarına bağlı olarak çeşitlilik gösterebiliyor. Yöresel lezzetlerle bütünleşerek değişik malzemelerle bir arada pişirilebilen pizzanın temel malzemeleri salça ve peynir. Diyetisyenler ve sağlık uzmanları tarafından sağlıklı malzemelerle yapılan pizza çeşitleri de yararlı yiyecekler arasında kendisine bir yer buluyor. Kullanılan malzeme bütün beslenme yaklaşımlarına göre fazlasıyla dengelidir. İnce hamur fazla karbonhidrat yükü getirmez, domates sosu, peynir ve kullanılan sebzeler de diğer besleyici unsurları sağlar. Zeytin, biber, kapari gibi bileşenleri de sayarsanız pek 'fast-food' denemez. Bunun bir istisnası kullanılan sosis, sucuk gibi bileşenlerin kalitesiz olmasıdır. Zira malzemenin zengin olması pizzanın kaliteli olmasını sağlamaz. Ama iyi şarküteri ürünleri kullanıyorsanız zaten lezzet sorununuz yoktur. Kullanılan malzeme kaliteli, taze olursa kilo yapmaz. Öyle olsaydı İtalyanlar bol miktarda pizza tüketiyor, onlarda kilo sorunu olurdu",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/pizza_karisik_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "66",
+			"yemek_protein_yuzde": "13",
+			"yemek_yag_yuzde": "21",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Dilim (Orta)",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "344",
+				"porsiyon2": "241",
+				"porsiyon3": "186",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "56.44",
+				"porsiyon2": "39.66",
+				"porsiyon3": "30.51",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "10.8",
+				"porsiyon2": "7.59",
+				"porsiyon3": "5.84",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "8.02",
+				"porsiyon2": "5.63",
+				"porsiyon3": "4.33",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "11",
+			"yemek_adi": "Yeşil Elma",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/yesil_elma_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/yesil_elma_buyuk.jpg",
+			"yemek_detay_aciklama": "K vitamini içeriği zengin olan yeşil elma, kanın pıhtılaşmasını yardımcı olur. Cilt hücrelerinin serbest radikallerden uzak kalmasına destek olan yeşil elma, çok önemli bir C vitamini kaynağıdır. A vitamini içeriği de zengin olan yeşil elma, görmeyi kolaylaştırır. Yeşil elma, yaşlanmanın gecikmesine imkan tanır.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/yesil_elma_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "93",
+			"yemek_protein_yuzde": "3",
+			"yemek_yag_yuzde": "3",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Adet",
+				"porsiyon2": "100 Gram",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "52",
+				"porsiyon2": "58",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "12.25",
+				"porsiyon2": "13.61",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.4",
+				"porsiyon2": "0.44",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "0.17",
+				"porsiyon2": "0.19",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "10",
+			"yemek_adi": "Zeytinyağlı Taze Fasulye",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/taze_fasulye_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/taze_fasulye_buyuk.jpg",
+			"yemek_detay_aciklama": "Taze fasulye düşük kalorili olması nedeniyle kilo vermeye çalışanların diyet programında sıklıkla yer alıyor. Lifli yapısıyla sindirimi kolaylaştırıyor ve kilo vermeye yardımcı oluyor. Enerji veren yapısıyla vücudu güçlendiren bu lezzetli sebzeyi tüketerek beden ve zihin yorgunluğundan kurtulabilirsiniz. Vücut gelişimini destekleyen ve kemikleri güçlendiren sebze, romatizma ve siyatik ağrılara iyi gelebiliyor. Böbrekleri güçlendirerek böbrek kumu ve taşlarını dökmeye yardım ettiği konusunda görüşler var. Kandaki şeker miktarını düşürme özelliğiyle de şeker hastalarına önerilen bir sebze. Taze fasulye yaşlanma etkilerine karşı koyabilen yapısıyla vücudu onarma ve yenileme özelliği gösteriyor. Ayrıca vücudu güçlendiriyor, pankreas bezinin doğru çalışmasına ve kalp ritminin düzenli olmasına yardımcı oluyor. Kalp sağlığı için de öneriliyor. Karaciğer yetmezliği yaşayanlar için faydalı bir özellik gösterebiliyor. Zehirlenme olayı yaşayanlar hemen taze fasulye yemeği yerlerse iyileşme süreçleri hızlanabiliyor. Çünkü taze fasulye toksinlerin vücuttan atılmasında etkili özellik gösteriyor. Kalp ritmini ve kan basıncını kontrol eden potasyum mineralini içeren sebze oldukça faydalı.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/taze_fasulye_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "59",
+			"yemek_protein_yuzde": "15",
+			"yemek_yag_yuzde": "26",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Yemek Kaşığı",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "73",
+				"porsiyon2": "12",
+				"porsiyon3": "49",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "10",
+				"porsiyon2": "1.68",
+				"porsiyon3": "6.72",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "2.68",
+				"porsiyon2": "0.45",
+				"porsiyon3": "1.79",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "1.96",
+				"porsiyon2": "0.33",
+				"porsiyon3": "1.3",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "9",
+			"yemek_adi": "Kuru Fasulye (Etsiz)",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/kuru_fasulye_etsiz_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/kuru_fasulye_etsiz_buyuk.jpg",
+			"yemek_detay_aciklama": "Türklerin milli yemeği olarak gösterilen kuru fasulyenin sağlığa birçok faydası bulunuyor.rnrnCilt sağlığı için oldukça faydalı. Akneyi ve yağ bezesi oluşumunu önlemeye yardımcı oluyor. Metabolizmayı hızlandırarak kabızlığa mâni oluyor, zayıflatıcı etkisi de bulunuyor. Kemik yapısını güçlendiriyor, karaciğer yetmezliği, kalp çarpıntısı ve idrar tutukluğuna karşı doğal ilaç vazifesi görüyor.rnrnYüksek miktarda protein içerdiği için et yiyemeyenlerin sıklıkla tüketmesi tavsiye edilen besinler arasında yer alıyor. Enerji veriyor, mental ve fiziksel yorgunluğa iyi geliyor.rnrnBöbrek rahatsızlığı olanların da rahatlıkla tüketebileceği bir besin. Folik asit ve demir açısından zengin olan kuru fasulye, özellikle hamile kadınlar ve çocuklar için öneriliyor. Hipertansiyon riskine karşı koruyor ve yüksek tansiyonu düşürmekte etkili olduğu biliniyor.rnrnProtein, inorganik tuzlar, A, B, C vitaminleri, besin lifi ve potasyum içeriği, bir yetişkinin günlük ihtiyacını karşılayabiliyor. İçeriğinde bulunan omega-3, vücudun enerji üretimine katkıda bulunarak yorgunluğu gideriyor.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/kuru_fasulye_etsiz_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "51",
+			"yemek_protein_yuzde": "33",
+			"yemek_yag_yuzde": "15",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "1 Yemek Kaşığı",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "267",
+				"porsiyon2": "24",
+				"porsiyon3": "97",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "27.25",
+				"porsiyon2": "2.48",
+				"porsiyon3": "9.91",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "18.08",
+				"porsiyon2": "1.64",
+				"porsiyon3": "6.57",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "3.7",
+				"porsiyon2": "0.34",
+				"porsiyon3": "1.35",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "8",
+			"yemek_adi": "Pirinç Pilavı",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pirinc_pilavi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/pirinc_pilavi_buyuk.jpg",
+			"yemek_detay_aciklama": "Pirinç kalsiyum, fosfor ve D vitamini için iyi birer kaynak. Bu nedenle de kemik gelişimi, cilt ve tırnak sağlığı için faydalı. Pirinç hazımsızlığı önler ve özellikle ishal durumunda en etkili besinlerden birisi. İshal bağışıklık sistemini olumsuz etkileyen bir problem. Tek başına tüketilen pirinç; vücudumuzun kan glukoz seviyesini hızlı yükselttiğinden, diyabet hastaları porsiyon kontrolüne dikkat etmelidir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/pirinc_pilavi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "66",
+			"yemek_protein_yuzde": "6",
+			"yemek_yag_yuzde": "28",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "100 Gram",
+				"porsiyon3": "1 Çorba Kaşığı",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "259",
+				"porsiyon2": "162",
+				"porsiyon3": "24",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "39.67",
+				"porsiyon2": "24.79",
+				"porsiyon3": "3.72",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "3.31",
+				"porsiyon2": "2.07",
+				"porsiyon3": "0.31",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "9.27",
+				"porsiyon2": "5.8",
+				"porsiyon3": "0.87",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "7",
+			"yemek_adi": "Peynirli Makarna",
+			"yemek_ogun_saati": "Öğle Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/peynirli_makarna_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/peynirli_makarna_buyuk.jpg",
+			"yemek_detay_aciklama": "Vitamin ve mineraller bakımından çok zengin ve çok yararlı bir besin kaynağıdır. Makarna A, B1, B2 vitaminleri, demir, kalsiyum, fosfor, potasyum ve protein yönünden de çok zengindir. Yağsızdır. Çok az (%1-1,5 minör yağ bileşenlerini ve yüksek oranda linoleik yağ asidi içerdiğinden kolesterolü düşürücü etkisi vardır. Güçlü bir antioksidan kaynağı olan peynirler, düzenli tüketilmesi halinde kanser riskini en aza indirmektedir. Bağışıklık sistemini güçlendirerek hastalıklara karşı vücut direncinizin artmasını sağlamaktadır. Vücutta kötü huylu tümörlerin oluşumunu engellemektedir. Peynir ürünleri, düzenli tüketilmesi halinde kalp krizi riskini en aza indirmektedir. Kan basıncını düzenleyerek kolesterol seviyesini düzene sokmaya yardımcı olan bir gıda maddesidir. Sindirim sisteminin çalışmasını düzenleyerek ishal ve kabız gibi rahatsızlıkların geçmesinde önemli bir etkiye sahiptir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/peynirli_makarna_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "64",
+			"yemek_protein_yuzde": "15",
+			"yemek_yag_yuzde": "21",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Porsiyon (Orta)",
+				"porsiyon2": "100 Gram",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "308",
+				"porsiyon2": "127",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "49.9",
+				"porsiyon2": "20.56",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "11.39",
+				"porsiyon2": "4.69",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "7.25",
+				"porsiyon2": "2.99",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "6",
+			"yemek_adi": "Patates Kızartması",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/patates_kizartmasi_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/patates_kizartmasi_buyuk.jpg",
+			"yemek_detay_aciklama": "Patates kızartması, fazlasıyla yağ çektiğinden dolayı sağlık açısından sakıncalıdır. 1 orta boy patates kızartmasında 250 kalori bulunmaktadır. Bu kaloriyi yakmak için bireyin yaklaşık 2 saat tempolu bir şekilde yürümesi gerekir.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/patates_kizartmasi_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "53",
+			"yemek_protein_yuzde": "4",
+			"yemek_yag_yuzde": "42",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Paket",
+				"porsiyon2": "1 Avuç",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "390",
+				"porsiyon2": "47",
+				"porsiyon3": "312",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "51.8",
+				"porsiyon2": "6.22",
+				"porsiyon3": "41.44",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "4.29",
+				"porsiyon2": "0.51",
+				"porsiyon3": "3.43",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "18.41",
+				"porsiyon2": "2.21",
+				"porsiyon3": "14.73",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "5",
+			"yemek_adi": "Mantı",
+			"yemek_ogun_saati": "Akşam Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/manti_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/manti_buyuk.jpg",
+			"yemek_detay_aciklama": "Yüksek miktarda karbonhidrat içerdiği için vücut için gerekli olan enerjiyi sağlayabiliyor. Yemeğin üzerine konulan yoğurt, yüksek miktarda protein ve kalsiyum içeriyor. Kas ve kemik gelişimi üzerinde olumlu etkiler gösteriyor. Bağışıklık sistemini kuvvetlendirerek, damar hastalıklarına iyi geliyor. Tansiyonu düzenliyor ve sindirimi kolaylaştırıyor. Yoğurdun içine konulacak sarımsakta ise bol iyot ve kükürt bulunuyor. Damar sertliğini gidermesinin yanı sıra kalbi de kuvvetlendiriyor. Vücudu zehirlerden temizliyor. Kanı sulandırarak kan dolaşımının hızlanmasına yardımcı oluyor. Yüksek kalorili bu yemeği tüketmek ciddi yağlanma kilo alma problemlerini ortaya çıkarabiliyor. Bu yüzden dikkatli olmakta fayda var.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/manti_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "71",
+			"yemek_protein_yuzde": "10",
+			"yemek_yag_yuzde": "19",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Tam Tabak",
+				"porsiyon2": "1 Yarım Tabak",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "509",
+				"porsiyon2": "254",
+				"porsiyon3": "170",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "89.12",
+				"porsiyon2": "44.56",
+				"porsiyon3": "29.71",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "12.37",
+				"porsiyon2": "6.18",
+				"porsiyon3": "4.12",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "10.49",
+				"porsiyon2": "5.25",
+				"porsiyon3": "3.5",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "4",
+			"yemek_adi": "Tavada Yumurta",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavada_yumurta_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/tavada_yumurta_buyuk.jpg",
+			"yemek_detay_aciklama": "Tavada yumurta, protein, folik asit, fosfor, demir, çinko açısından zengin bir besindir. Tavada yumurta kalorisi ve yağ içeriği açısından biraz yüksektir. Mümkünse haşlanmış yumurta tercih edilmelidir. Yumurtada, kemik erimesini önleyen ve kemiklerinizi güçlendiren kalsiyum bulunur. Ayrıca yumurtada bulunan D vitamini vücuttaki kalsiyum dengesini sağlayarak dişlerinizin de gelişmesini sağlar.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/tavada_yumurta_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "4",
+			"yemek_protein_yuzde": "21",
+			"yemek_yag_yuzde": "75",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Adet",
+				"porsiyon2": "1 Tabak",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "122",
+				"porsiyon2": "331",
+				"porsiyon3": "242",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "1.04",
+				"porsiyon2": "2.84",
+				"porsiyon3": "1.89",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "6.4",
+				"porsiyon2": "17.45",
+				"porsiyon3": "11.63",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "10.34",
+				"porsiyon2": "28.19",
+				"porsiyon3": "18.8",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+		{
+			"yemek_id": "3",
+			"yemek_adi": "Haşlanmış Yumurta",
+			"yemek_ogun_saati": "Kahvaltı",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/haslanmis_yumurta_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/haslanmis_yumurta_buyuk.jpg",
+			"yemek_detay_aciklama": "Haslanmış yumurta, protein, folik asit, fosfor, demir, çinko açısından zengindir. Vücudun ihtiyacı olan aminoasitleri içerir. Sağlıklı bireyler her gün et veya peynir yerine yüksek kolesterolü olanlar haftada 2-3 kez haşlanmış yumurta tüketebilir. Bağışıklık sistemini güçlendirir. Kas ve kemik gelişiminde büyük etkisi vardır. Yüksek miktarda protein içerdiğinden kaslara çok faydalıdır. İçerdiği amino asit ve vitaminler ile vücudu besler. Göz sağlığı için çok yararlıdır ve göz bozukluklarına fayda eder. İyi kolesterolü yükseltir. Kalp sağlığını korur. Hafıza problemlerine iyi gelir. Beyin sağlığı için çok faydalıdır. Vücudun demir seviyesini artırır.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/haslanmis_yumurta_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "3",
+			"yemek_protein_yuzde": "34",
+			"yemek_yag_yuzde": "64",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Adet",
+				"porsiyon2": "100 Gram",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "78",
+				"porsiyon2": "155",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "0.56",
+				"porsiyon2": "1.12",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "6.29",
+				"porsiyon2": "12.58",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "5.31",
+				"porsiyon2": "10.61",
+				"porsiyon3": "null",
+				"porsiyon4": "null",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "2",
+			"yemek_adi": "Makarna",
+			"yemek_ogun_saati": "Öğle Yemeği",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/makarna_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/makarna_buyuk.jpg",
+			"yemek_detay_aciklama": "Vitamin ve mineraller bakımından çok zengin ve çok yararlı bir besin kaynağıdır. Makarna A, B1, B2 vitaminleri, demir, kalsiyum, fosfor, potasyum ve protein yönünden de çok zengindir. Yağsızdır. Çok az (%1-1,5 minör yağ bileşenlerini ve yüksek oranda linoleik yağ asidi içerdiğinden kolesterolü düşürücü etkisi vardır.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/makarna_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "80",
+			"yemek_protein_yuzde": "15",
+			"yemek_yag_yuzde": "5",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Tam Tabak",
+				"porsiyon2": "1 Yarım Tabak",
+				"porsiyon3": "1 Kase",
+				"porsiyon4": "100 Gram",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "314",
+				"porsiyon2": "157",
+				"porsiyon3": "236",
+				"porsiyon4": "157",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "61.18",
+				"porsiyon2": "30.59",
+				"porsiyon3": "45.89",
+				"porsiyon4": "30.59",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "11.6",
+				"porsiyon2": "5.8",
+				"porsiyon3": "8.7",
+				"porsiyon4": "5.8",
+				"porsiyon5": "null"
+			},
+			"yemek_yag": {
+				"porsiyon1": "1.86",
+				"porsiyon2": "0.93",
+				"porsiyon3": "1.4",
+				"porsiyon4": "0.93",
+				"porsiyon5": "null"
+			}
+		},
+
+		{
+			"yemek_id": "1",
+			"yemek_adi": "Elma",
+			"yemek_ogun_saati": "Ara Öğün",
+			"yemek_resim_kucuk": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/elma_kucuk.jpg",
+			"yemek_resim_detay": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/YemekResimleri/elma_buyuk.jpg",
+			"yemek_detay_aciklama": "Elma çerdiği C vitamini sayesinde, kolon kanseri ve akciğer kanseri başta olmak üzere kansere yakalanma riskini azaltır. Elma kabuğunda bulunan çözünmez posa su tutarak sindirim yolunun temizlenmesini sağlar. Kalp ve damar sağlığı ile bağışıklık sisteminin güçlenmesine de katkı sağlıyor. C, A, E, B6 ve K vitaminleri açısından oldukça zengin olan bu meyve potasyum gibi pek çok minerali de içeriğinde barındırıyor. Aynı zamanda beyin fonksiyonlarının, ağız ve diş sağlığının korunmasına yardımcı oluyor. Dişlerin beyazlığının korunmasına destek olma, diş çürümelerini yavaşlatma ve tükürük bezlerinin çalışmasını sağlama gibi özelliklere de sahip. Sabahları aç karınla bir dilim dahi olsa elma yemek kabızlık ve ishal gibi sindirim sorunlarına iyi geliyor. Her gün düzenli şekilde elma tüketimi karaciğer için de oldukça sağlıklı. Vücutta biriken toksinlerin en büyük düşmanı olan bu besin karaciğeri bu zararlı maddelerden arındırıyor. Doğal bir antioksidan olduğu için bağışıklık sistemini güçlendiriyor, vücutta oluşan ödemin dışarı atılmasına yardımcı oluyor. Doğal lif kaynaklarından biri olan elma bu özelliğiyle kalp sağlığına da faydalı. İçerdiği lifler sayesinde arter ve damarlarda oluşan plakların çözülmesine katkı sağlıyor ve kan akışını hızlandırıyor. Tüm bunların yanı sıra bilimsel çalışmalar elmanın kanser hücrelerinin çoğalmasını önlediğini belirtiyor. Bazı araştırmalar ise elma suyunun cildi güzelleştirdiğini ve gerginliğinin korunmasına yardımcı olduğunu ortaya konuyor.",
+			"yemek_resim_besin_degeri": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/BesinDegerleri/elma_besin.PNG",
+			"yemek_karbonhidrat_yuzde": "95",
+			"yemek_protein_yuzde": "2",
+			"yemek_yag_yuzde": "3",
+			"yemek_porsiyonlari": {
+				"porsiyon1": "1 Tam Elma",
+				"porsiyon2": "Yarım Elma",
+				"porsiyon3": "100 Gram",
+				"porsiyon4": "1 Dilim (Çeyrek)",
+				"porsiyon5": "null"
+			},
+			"yemek_kcal": {
+				"porsiyon1": "50",
+				"porsiyon2": "25",
+				"porsiyon3": "52",
+				"porsiyon4": "16",
+				"porsiyon5": "null"
+			},
+			"yemek_karbonhidrat": {
+				"porsiyon1": "13",
+				"porsiyon2": "8",
+				"porsiyon3": "14",
+				"porsiyon4": "4",
+				"porsiyon5": "null"
+			},
+			"yemek_protein": {
+				"porsiyon1": "0.20",
+				"porsiyon2": "0.10",
+				"porsiyon3": "0.22",
+				"porsiyon4": "0.05",
+				"porsiyon5": "null"
+			},"yemek_yag": {
+				"porsiyon1": "0.15",
+				"porsiyon2": "0.8",
+				"porsiyon3": "0.17",
+				"porsiyon4": "0.04",
+				"porsiyon5": "null"
+			}
+		}
+
+	]
+}
