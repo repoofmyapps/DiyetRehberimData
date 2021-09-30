@@ -20,6 +20,19 @@
 			"kategori_adi_ek": "proitem",
 			"diyet_yazar": "proitem"
 		},
+
+
+		{
+			"diyet_id": "88",
+			"diyet_adi": "Bulgur Pilavı",
+			"diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim-pro.appspot.com/o/DiyetRehberim%2FImages%2F30092021_Muhammed_-MkqlXZT8S3-XUVkjRU0%2FUPLOAD_IMG_1.jpg?alt=media&token=12b5e4a1-2728-466c-8f53-6cef5af9cfcb",
+			"diyet_url": "30092021_Muhammed_-MkqlXZT8S3-XUVkjRU0",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Ana Yemekler",
+			"kategori_adi_ek": "Yöresel Yemekler",
+			"diyet_yazar": "user"
+		},
+
 		{
 			"diyet_id": "87",
 			"diyet_adi": "Ekşi Mayalı Köy Ekmeği",
