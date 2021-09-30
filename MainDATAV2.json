@@ -22,7 +22,7 @@
 		},
 
 
-{
+		{
 			"diyet_id": "89",
 			"diyet_adi": "Pirinç Pilavı",
 			"diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim-pro.appspot.com/o/DiyetRehberim%2FImages%2F01102021_Muhammed_-MksYKY7-BvB71D13LyQ%2FUPLOAD_IMG_1.jpg?alt=media&token=553114dd-f99d-4fde-88fa-e2fba412dc73",
@@ -31,7 +31,6 @@
 			"kategori_adi_ek": "Yöresel Yemekler",
 			"diyet_yazar": "user"
 		},
-
 		{
 			"diyet_id": "88",
 			"diyet_adi": "Bulgur Pilavı",
