@@ -13,7 +13,10 @@
         "recipeCategory" : "Ana Yemekler",
         "recipeIngredients" : "• xmdmmdmdd\n• kckcllele\n• dkxlepee\n• djxopep2pe\n• xkdleleldldlfkd\n• djdk\n• Xjkdkdkdkrkr\n• ",
         "recipePreparation" : "• hazır\n• haoxodnekd\n• ejdkdleooepe\n• ekdkdleoeoeoor",
-        "recipeTitle" : "Bulgur Pilavı"
+        "recipeTitle" : "Bulgur Pilavı",
+        "kisiSayisi":"1 Kişilik",
+        "hazirlamaSuresi": "10 Dakika",
+        "pisirmeSuresi" :"30 Dakika"
       },
       "30092021_Muhammed_-MkqlwrkdCxfe0khbtQa" : {
         "cinsiyet" : "erkek",
@@ -27,7 +30,10 @@
         "recipeCategory" : "Diyet Tarifleri",
         "recipeIngredients" : "• pirinç\n• bulgur\n• djdkdoeoe\n• djdodoodod\n• jdkdkdk",
         "recipePreparation" : "• xkdkdodoodor\n• djdkdkdk\n• djdkdkdkkdd\n• djkldldldl\n• dkdkdldkf",
-        "recipeTitle" : "Pirinç Pilavı"
+        "recipeTitle" : "Pirinç Pilavı",
+        "kisiSayisi":"1 Kişilik",
+        "hazirlamaSuresi": "10 Dakika",
+        "pisirmeSuresi" :"30 Dakika"
       }
     }
   ]
