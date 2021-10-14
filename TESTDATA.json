@@ -23,7 +23,36 @@
 
 
 
-		
+		{
+			"diyet_id": "90",
+			"diyet_adi": "Mercimek Çorbası",
+			"diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim-pro.appspot.com/o/DiyetRehberim%2FImages%2F07102021_Muhammed_-MlP_yvvEzMSv26A4f3X%2FUPLOAD_IMG_2.jpg?alt=media&token=93d94c0c-61d3-41c2-aa26-fad64e8293d4",
+			"diyet_url": "07102021_Muhammed_-MlP_yvvEzMSv26A4f3X",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Çorbalar",
+			"kategori_adi_ek": "Yöresel Yemekler",
+			"diyet_yazar": "user"
+		},
+		{
+			"diyet_id": "89",
+			"diyet_adi": "Pirinç Pilavı",
+			"diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim-pro.appspot.com/o/DiyetRehberim%2FImages%2F01102021_Muhammed_-MksYKY7-BvB71D13LyQ%2FUPLOAD_IMG_1.jpg?alt=media&token=553114dd-f99d-4fde-88fa-e2fba412dc73",
+			"diyet_url": "01102021_Muhammed_-MksYKY7-BvB71D13LyQ",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Salatalar",
+			"kategori_adi_ek": "Yöresel Yemekler",
+			"diyet_yazar": "user"
+		},
+		{
+			"diyet_id": "88",
+			"diyet_adi": "Bulgur Pilavı",
+			"diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim-pro.appspot.com/o/DiyetRehberim%2FImages%2F01102021_Muhammed_-MksXqzE4y1jGQRUxLxn%2FUPLOAD_IMG_1.jpg?alt=media&token=afe1a410-98a9-455b-8577-db34330de587",
+			"diyet_url": "01102021_Muhammed_-MksXqzE4y1jGQRUxLxn",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Ana Yemekler",
+			"kategori_adi_ek": "Yöresel Yemekler",
+			"diyet_yazar": "user"
+		},
 		{
 			"diyet_id": "87",
 			"diyet_adi": "Ekşi Mayalı Köy Ekmeği",
