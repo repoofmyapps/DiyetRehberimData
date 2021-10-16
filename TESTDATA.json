@@ -22,7 +22,16 @@
 		},
 
 
-
+		{
+			"diyet_id": "91",
+			"diyet_adi": "Yemek 1",
+			"diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim-pro.appspot.com/o/DiyetRehberim%2FImages%2F16102021_Yazar1_-Mm8rMp0DBHDvDW5iSMK%2FUPLOAD_IMG_1.jpg?alt=media&token=23c9fc7f-cbc3-4ade-b6e9-39c1d628f584",
+			"diyet_url": "16102021_Yazar1_-Mm8rMp0DBHDvDW5iSMK",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Diyet Tarifleri",
+			"kategori_adi_ek": "Yöresel Yemekler",
+			"diyet_yazar": "user"
+		},
 		{
 			"diyet_id": "90",
 			"diyet_adi": "Mercimek Çorbası",
