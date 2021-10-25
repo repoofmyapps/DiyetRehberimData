@@ -23,10 +23,11 @@
 
 
 
+
 		{
 			"diyet_id": "88",
 			"diyet_adi": "Yalancı İçli Köfte",
-			"diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim.appspot.com/o/DiyetRehberim%2FImages%2F20102021_Hayrunnisa_-MmT1d9F2-LOXIP2aIA7%2FUPLOAD_IMG_2.jpg?alt=media&token=15a61f91-07d5-4e66-b975-ca5183cf9317",
+			"diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim.appspot.com/o/DiyetRehberim%2FImages%2F20102021_Hayrunnisa_-MmT1d9F2-LOXIP2aIA7%2FUPLOAD_IMG_1.jpg?alt=media&token=541c9414-8c62-4507-bffc-5ea7fac3ab09",
 			"diyet_url": "20102021_Hayrunnisa_-MmT1d9F2-LOXIP2aIA7",
 			"diyet_tipi": "tarif",
 			"kategori_adi": "Ana Yemekler",
