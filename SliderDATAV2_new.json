@@ -1,6 +1,26 @@
 {
 	"DiyetRehberim": [
 		{
+			"id": "9",
+			"image": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/paylas_image.jpg",
+			"title": "null",
+			"desc": "null",
+			"tag": "explanation",
+			"related": "advertised",
+			"content":"share",
+			"url":"null"
+		},
+		{
+			"id": "8",
+			"image": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/mail_gonder_v5.jpg",
+			"title": "null",
+			"desc": "null",
+			"tag": "explanation",
+			"related": "adfree",
+			"content":"mail",
+			"url":"null"
+		},
+		{
 			"id": "7",
 			"image": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/master/GunlukResimler/hurma.jpg",
 			"title": "HURMA",
