@@ -22,7 +22,26 @@
 		},
 
 
-
+		{
+			"diyet_id": "90",
+			"diyet_adi": "Lezzetli Yulaf Tarifi",
+			"diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim.appspot.com/o/DiyetRehberim%2FImages%2F10112021_g%C3%BClce_-Mo77uUiKV6Xfe3LDwpA%2FUPLOAD_IMG_2.jpg?alt=media&token=490d0af5-fa28-4780-95fc-fdb7c390b8ce",
+			"diyet_url": "10112021_gülce_-Mo77uUiKV6Xfe3LDwpA",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Diyet Tarifleri",
+			"kategori_adi_ek": "Kahvaltılık Tarifler",
+			"diyet_yazar": "user"
+		},
+		{
+			"diyet_id": "89",
+			"diyet_adi": "Yalancı İçli Köfte",
+			"diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim.appspot.com/o/DiyetRehberim%2FImages%2F04112021_YILDIZ_-Mnek5Imp-i2Trkk_bVm%2FUPLOAD_IMG_1.jpg?alt=media&token=e67e106c-378c-43cd-8a80-aade65e41a3a",
+			"diyet_url": "04112021_YILDIZ_-Mnek5Imp-i2Trkk_bVm",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Diyet Tarifleri",
+			"kategori_adi_ek": "Yöresel Yemekler",
+			"diyet_yazar": "user"
+		},
 		{
 			"diyet_id": "88",
 			"diyet_adi": "Yalancı İçli Köfte",
