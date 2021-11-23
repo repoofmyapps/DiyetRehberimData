@@ -23,6 +23,16 @@
 
 
 		{
+			"diyet_id": "93",
+			"diyet_adi": "Nar Meyvesinin Faydaları",
+			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/nar_resmi_yeni.jpg",
+			"diyet_url": "https://repoofmyapps.github.io/DiyetRehberimData/DiyetListeleri/nar_faydalari.html",
+			"diyet_tipi": "diyet",
+			"kategori_adi": "Faydalı İçerikler",
+			"kategori_adi_ek": "Kilo Verdiren Diyet Listeleri",
+			"diyet_yazar": "editor"
+		},
+		{
 			"diyet_id": "92",
 			"diyet_adi": "1 Haftalık Su Diyeti",
 			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/su_diyeti.jpg",
