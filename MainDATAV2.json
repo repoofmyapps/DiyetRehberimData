@@ -23,6 +23,16 @@
 
 
 		{
+			"diyet_id": "94",
+			"diyet_adi": "Limonlu Su",
+			"diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim.appspot.com/o/DiyetRehberim%2FImages%2F17122021_Nisa_-Mr9797yNEsmzT2flmKL%2FUPLOAD_IMG_2.jpg?alt=media&token=82c62cc7-bafb-4751-babe-ba3f0a457691",
+			"diyet_url": "17122021_Nisa_-Mr9797yNEsmzT2flmKL",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Detoks Tarifleri",
+			"kategori_adi_ek": "Diyet Tarifleri",
+			"diyet_yazar": "user"
+		},
+		{
 			"diyet_id": "93",
 			"diyet_adi": "Nar Meyvesinin Faydaları",
 			"diyet_resim": "https://raw.githubusercontent.com/repoofmyapps/DiyetRehberimData/main/DiyetResimleri/nar_resmi_yeni.jpg",
