@@ -22,6 +22,16 @@
 		},
 
 		{
+			"diyet_id": "96",
+			"diyet_adi": "Brokoli Yemeği",
+			"diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim.appspot.com/o/DiyetRehberim%2FImages%2F25012022_%C5%9Eevin_-MuFwbzS0P7gJG6fC54Z%2FUPLOAD_IMG_1.jpg?alt=media&token=8a687e25-0fca-48c1-95d2-66e571b995e6",
+			"diyet_url": "25012022_Şevin_-MuFwbzS0P7gJG6fC54Z",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Ana Yemekler",
+			"kategori_adi_ek": "Diyet Tarifleri",
+			"diyet_yazar": "user"
+		},
+		{
 			"diyet_id": "95",
 			"diyet_adi": "Yulaf Krebi",
 			"diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim.appspot.com/o/DiyetRehberim%2FImages%2F05012022_Aynurkoca_-MsfBnCcpnUJNKuFtWtY%2FUPLOAD_IMG_2.jpg?alt=media&token=d7a22104-d15b-4594-be56-d2b6e31f0290",
