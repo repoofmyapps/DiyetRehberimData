@@ -21,6 +21,19 @@
 			"diyet_yazar": "proitem"
 		},
 
+
+
+		
+		{
+			"diyet_id": "97",
+			"diyet_adi": "Mantarlı Omlet",
+			"diyet_resim": "https://firebasestorage.googleapis.com/v0/b/diyet-rehberim.appspot.com/o/DiyetRehberim%2FImages%2F25012022_G%C3%BCls%C3%BCm_-MuGDp9EIcb_PRd3F-ZG%2FUPLOAD_IMG_2.jpg?alt=media&token=070ac4f5-a366-44a9-b579-bd897ad50a19",
+			"diyet_url": "25012022_Gülsüm_-MuGDp9EIcb_PRd3F-ZG",
+			"diyet_tipi": "tarif",
+			"kategori_adi": "Kahvaltılık Tarifler",
+			"kategori_adi_ek": "Yöresel Yemekler",
+			"diyet_yazar": "user"
+		},
 		{
 			"diyet_id": "96",
 			"diyet_adi": "Brokoli Yemeği",
